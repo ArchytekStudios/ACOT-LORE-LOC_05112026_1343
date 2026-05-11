@@ -4,11 +4,12 @@
 acot_fallen_empire_repeatable_buff: "Fallen Empire Good Man"
 acot_fallen_empire_repeatable_buff_desc: "But Bad Boy"
 
-weapon_type_acot_enigmatic: "§EEnigmatic Weapon§!"
-weapon_type_acot_runic: "§RRunic Weapon§!"
-weapon_type_acot_stellarite: "§HStellarite Weapon§!"
-weapon_type_acot_psionic: "§MPsionic Weapon§!"
-weapon_type_light_power: "§YLight Weapon§!"
+weapon_type_acot_enigmatic: "§EEnigmatic§!"
+weapon_type_acot_runic: "§RRunic§!"
+weapon_type_acot_stellarite: "§HStellarite§!"
+weapon_type_psionic: "§MPsionic§!"
+weapon_type_acot_psionic: "§MPsionic§!"
+weapon_type_light_power: "§YLight§!"
 
 mod_weapon_role_point_defense_weapon_fire_rate_mult: "Point Defense Weapon Fire Rate"
 mod_weapon_role_point_defense_weapon_damage_mult: "Point Defense Weapon Damage"
@@ -427,6 +428,7 @@ tech_xl_missile_dm_desc: "Our fleet commanders will certainly be delighted that 
  
 ACOT_MISSILE_NUKE_DM: "Delta Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_DM_DESC: "A Massive torpedo launcher designed to have the largest payload to date to take out captial ships."
+acot_titan_missile_dm_tt: "Deals §Y4,942 - 8,087§! damage to all hostile ships within §E100§! range of the target, excluding the target itself."
 tech_missile_nuke_dm: "Delta Giga Warheads"
 tech_missile_nuke_dm_desc: "With the advanced materials and combustion reactions from recent technologies that have been developed along Delta Projects, we are able to solve many issues that plague the old Giga Warheads. Superior materials, higher firepowers, top speed increase. The list goes on."
  
@@ -465,16 +467,19 @@ tech_mass_accelerator_dm_desc: "Accelerating projectiles through advanced kineti
  
 ACOT_PERDITION_BEAM_DM: "Delta Giga-Beam Cannon"
 ACOT_PERDITION_BEAM_DM_DESC: "The introduction of Dark Energy allows us to improve our old Perdition Beam Designs. The Giga-Beam Cannon is a massive dark energy conduit that is able to fire a beam of pure destruction."
+acot_perdition_dm_tt: "Deals §Y650 - 1,300§! damage to all hostile ships within §E45§! range of the target."
 tech_perdition_beam_dm: "Delta Giga-Beam Cannon"
 tech_perdition_beam_dm_desc: "The introduction of Dark Energy allows us to improve our old Perdition Beam Designs. The Giga-Beam Cannon is a massive dark energy conduit that is able to fire a beam of pure destruction."
  
 ACOT_TITAN_EMITTER_DM: "Delta Titan Stabilized Emitter"
 ACOT_TITAN_EMITTER_DM_DESC: "Powerful emitters with far greater weapon stability and damage potential."
+acot_titan_emitter_dm_tt: "Deals §Y5,391§! damage to §Y5§! additional hostile ships within §E50§! range of the target. Can stack on the same target for extra damage."
 tech_titan_emitter_dm: "Delta Titan Stabilized Emitter"
 tech_titan_emitter_dm_desc: "Just like with other weapons, the inclusion of the two dark elements greatly enhance our arsenals, and a titan emitter is one of them."
  
 ACOT_TITAN_ACCELERATOR_DM: "Titan Delta Accelerator Cannon"
 ACOT_TITAN_ACCELERATOR_DM_DESC: "A Delta Titanic-scaled Mass Accelerator capable of hitting targets across extreme distances."
+acot_titan_accelerator_dm_tt: "Deals §8,446 - 12,355§! damage to all hostile ships within §E10§! range of the target, excluding the target itself."
 tech_titan_accelerator_dm: "Titan Delta Accelerator "
 tech_titan_accelerator_dm_desc: "The newly improved acceleration systems and fortified railways permits us to finally develop kinetic accelerators on a titanic-scale with performance befitting its size."
  

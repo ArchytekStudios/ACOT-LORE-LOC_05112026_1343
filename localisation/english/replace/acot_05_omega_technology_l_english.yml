@@ -150,9 +150,10 @@ ACOT_MISSILE_XL_OE: "Speedwagon Missile Battery"
 ACOT_MISSILE_XL_OE_DESC: "Powerful spinal-based missile system that fires a pair of high-speed, deadly accurate missiles with high tracking capabilities. "
 tech_xl_missile_oe: "Speedwagon XLMBS"
 tech_xl_missile_oe_desc: "The fastest missiles we have ever conceived through our questionably sane minds. The SPEEDO-WAGON, or Speedwagon XLMBS is the final answer to any ships who have too high evasions for their own good."
- 
+
 ACOT_MISSILE_NUKE_OE: "Megumin Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_OE_DESC: "Massive warhead launcher designed to take out capital ships through heavy ordinances. Has a minimum range of 100."
+acot_titan_missile_oe_tt: "Deals §Y80,952 - 132,466§! damage to all hostile ships within §E100§! range of the target, excluding the target itself."
 tech_missile_nuke_oe: "Megumin Xplooosion!"
 tech_missile_nuke_oe_desc: "At long last..."
 
@@ -173,16 +174,19 @@ tech_mass_accelerator_oe_desc: "Gatecrusher Warp Cannon fires an enormous slug e
  
 ACOT_PERDITION_BEAM_OE: "Light of Pacification"
 ACOT_PERDITION_BEAM_OE_DESC: "A weapon forged to nullify larger ships. This destructive energy beam infuses the operator's willn into a powerful weapon."
+acot_perdition_oe_tt: "Deals §Y10,670 - 2,1270§! damage to all hostile ships within §E45§! range of the target."
 tech_perdition_beam_oe: "Light of Pacification"
 tech_perdition_beam_oe_desc: "A weapon forged to nullify larger ships. This destructive energy beam infuses the operator's willn into a powerful weapon."
 
 ACOT_ARC_EMITTER_OE_TITAN: "Focused Divine Storm Discharger"
 ACOT_ARC_EMITTER_OE_TITAN_DESC: "Divine Storm Discharger cleaves through enemy ships with extremely deadly energy weapons made out of Static Light's emitter adaptation."
+acot_titan_emitter_oe_tt: "Deals §Y88,310§! damage to §Y5§! additional hostile ships within §E50§! range of the target. Can stack on the same target for extra damage."
 tech_titan_emitter_oe: "Titanic Storm"
 tech_titan_emitter_oe_desc: "Warning, Weather Storm created. Unit lost Unit Lost Unit Lost. Mission Failed.\n\nThat's what the enemies will be hearing." 
 
 ACOT_TITAN_CANNON_OE: "Tidebringer Warp Stellarcannon"
 ACOT_TITAN_CANNON_OE_DESC: "Like bringing a tidal wave of destruction upon the enemy ship, except its a wave of pure Light energies."
+acot_titan_accelerator_oe_tt: "Deals §Y138,353 - 202,378§! damage to all hostile ships within §E10§! range of the target, excluding the target itself."
 tech_titan_accelerator_oe: "Tidebringer Warp Stellarcannon"
 tech_titan_accelerator_oe_desc: "Based upon similar techniques used in the previous model, but applies slightly different. Tidebringer Cannon warps in a device loaded with powerful Light energies that not only causes massive destruction, but will also spread itself further across the ship's interiors, turning the entire ship into a fireball of light."
  
@@ -256,12 +260,12 @@ tech_thrusters_oe_desc: "Extremely powerful ship thrusters utilizing the Light's
 TECH_UNLOCK_ORIGIN_THRUSTER_TITLE: "§HUnlocks Component:§! Omega Thrusters"
 TECH_UNLOCK_ORIGIN_THRUSTER_DESC: "Ancient yet extremely powerful ship thrusters far exceed that of other designs made by lesser empires."
 
-ACOT_OENSOR_OE: "Dimensional Light Sensors"
-ACOT_OENSOR_OE_DESC: "These latest detection systems determine ship movements by reading through the Light's dimensions. No evil shall escape our sight."
-tech_OEnsor_oe: "Dimensional Light Sensors"
-tech_OEnsor_oe_desc: "This latest detection system determines ship movements by reading through the Light's dimensions. No evil shall escape our sight." 
-TECH_UNLOCK_ORIGIN_OENSORS_TITLE: "§HUnlocks Component:§! Dimensional Light Sensors"
-TECH_UNLOCK_ORIGIN_OENSORS_DESC: "These latest detection systems determine ship movements by reading through the Light's dimensions. No evil shall escape our sight."
+ACOT_SENSOR_OE: "Dimensional Light Sensors"
+ACOT_SENSOR_OE_DESC: "These latest detection systems determine ship movements by reading through the Light's dimensions. No evil shall escape our sight."
+tech_sensor_oe: "Dimensional Light Sensors"
+tech_sensor_oe_desc: "This latest detection system determines ship movements by reading through the Light's dimensions. No evil shall escape our sight." 
+TECH_UNLOCK_ORIGIN_SENSORS_TITLE: "§HUnlocks Component:§! Dimensional Light Sensors"
+TECH_UNLOCK_ORIGIN_SENSORS_DESC: "These latest detection systems determine ship movements by reading through the Light's dimensions. No evil shall escape our sight."
 
 DARK_MATTER_REACTOR_OE: "Static Light Receiver"
 DARK_MATTER_REACTOR_OE_DESC: "Due to the immense power of the Light, only a single receiver is required to power all kinds of modern ships. The receiver is able to transmit the power of the Light throughout the whole vessel."

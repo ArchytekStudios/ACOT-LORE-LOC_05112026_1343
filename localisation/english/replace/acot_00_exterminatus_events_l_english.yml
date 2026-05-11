@@ -36,6 +36,9 @@ bombardment_acot_bombardment_dm_desc: "§EApocalyptic:§! Order your ships to un
 bombardment_acot_bombardment_ae: "§BExterminatus§!"
 bombardment_acot_bombardment_ae_desc: "Exterminatus Bombardment aims to purge and wipe all traces of civilizations off the planet by directing full power to all weapons.\n- §REXTERMINATUS§! damage to §YArmies§!\n- §REXTERMINATUS§! damage to §YTiles§!\n- §REXTERMINATUS§! damage to §YPops§!\n- Will delete all traces of life from the surface."
  
+bombardment_acot_bombardment_re: "§RRunic Digitalization§!"
+bombardment_acot_bombardment_re_desc: "Phanon Corps's very own type of bombardment that is aimed to transform planets into nothing but data.\n- §REXTERMINATUS§! damage to §YArmies§!\n- §REXTERMINATUS§! damage to §YTiles§!\n- §REXTERMINATUS§! damage to §YPops§!\n- Will delete all traces of life from the surface."
+
 bombardment_acot_bombardment_se: "§RAnnihilatus§!"
 bombardment_acot_bombardment_se_desc: "§YAnnihilatus Bombardment§!  aims to end every trace of the existences of our enemies from this galaxy.\n- §RGODLY§! damage to §YArmies§!\n- §RGODLY§! damage to §YTiles§!\n- §RGODLY§! damage to §YPops§!\n-  Will deploy deadly warheads at the end of initial bombardment to crack the world."
  

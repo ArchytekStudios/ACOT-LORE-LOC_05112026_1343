@@ -60,7 +60,9 @@ ACOT_PARTICLE_LANCE_COSMO: "Dimensional Lance"
 ACOT_PARTICLE_LANCE_COSMO_DESC: "A follow-up to the DMA platforms upscaled to work with spinal bows or XL turret. To combat against the ever-increasing minimum range limitations, the firepower has been signifcantly lowered. The end result is a new type of energy lance that fires a prolonged beam for superior sustained damage over traditional bursting mechanism."
 
 ACOT_PERDITION_BEAM_COSMO: "Dimensional Titan Lance"
-ACOT_PERDITION_BEAM_COSMO_DESC: "Upscaled version of the Dimensional Lance for use on larger capital ships."
+ACOT_PERDITION_BEAM_COSMO_DESC: "Upscaled version of the Dimensional Lance for use on larger capital ships, it is additionally amplified with dimensional inteference mechanisms which creates a field that can jam the enemy's ability to track and evade within the radius."
+acot_titan_perdition_cosmo_tt: "Deals §Y361 - 722§! damage to all hostile ships within §E50§! range of the target, and applies the same debuff as the main target for §Y60§! days"
+acot_titan_perdition_debuff_cosmo: "Dimensional Stuttering"
 
 tech_energy_lance_cosmo: "Lance of Darkness"
 tech_energy_lance_cosmo_desc: "Our understanding grows, and so does our boldness. What we previously thought impossible, has become ever more possible. The right balance in the wrong catalyst can make all the differences in the world. Perhaps its not Dark Matter itself that is an obstacle, but our own rigid designs?"
@@ -70,6 +72,7 @@ ACOT_MISSILE_NUKE_COSMO_DESC: "The Ultimate Weapon, one that eliminates one of t
 
 tech_missile_nuke_cosmo: "Unethical Explosion"
 tech_missile_nuke_cosmo_desc: "Though we may be forever branded as evil or mad men, it matters not at this point. They view us as a existential crisis, so we may as well use whatever means to achieve our goal. Combining Temporal Tech with our most destructive explosive ordinances may be overkill, but if it silences our enemies and their pointless criticism, then that will have to do."
+acot_titan_missile_cosmo_tt: "Deals §Y8,350 - 12,500§! damage to all hostile ships within §E70§! range of the target, excluding the target itself."
 
 SMALL_ACOT_ARMOR_COSMO: "Smol Perplex Armor"
 MEDIUM_ACOT_ARMOR_COSMO: "Medium Perplex Armor"

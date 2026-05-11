@@ -164,6 +164,11 @@ job_acot_artisan_plural: "Master Provisioners"
 job_acot_artisan_desc: "Experts in the fields of domestic goods production. These technicians are trained to operate hard-light printers and provide the empire with all the necessary goods to run the society."
 mod_job_acot_artisan_add: "$job_acot_artisan$"
  
+job_acot_artisan_drone: "Master Provisioner"
+job_acot_artisan_drone_plural: "Master Provisioners"
+job_acot_artisan_drone_desc: "Experts in the fields of domestic goods production. These units are trained to operate hard-light printers and provide the empire with all the necessary goods to provide for those who needs them."
+mod_job_acot_artisan_drone_add: "$job_acot_artisan_drone$"
+
 job_acot_trader: "Master Logistician"
 job_acot_trader_plural: "Master Logisticians"
 job_acot_trader_desc: "Experts in the fields of trading and logistics. Aspiring traders ready to make their names through skillfull management of the empire's various logistic positions, sanctioned to do what must be done to maintain prosperity."
@@ -360,7 +365,7 @@ mod_job_acot_dimesiona_traveler_drone_add: "$job_acot_dimesiona_traveler_drone$"
  
  
 tech_go_find_work: "The Greater Good"
-tech_go_find_work_desc: "In our new society, the concept of unemployment will be a thing of the past. There is always work to be done, laziness will not be tolerated."
+tech_go_find_work_desc: "In the enlightend society, everyone is taught that there is always something to strife forward, even if they do not line up with your prior skills or professions. Productivity is encouraged, for everything is done for the betterment of the empire."
 
 job_acot_free_foodman: "Adventurer"
 job_acot_free_foodman_plural: "Adventurers"
@@ -396,7 +401,7 @@ acot_modifier_free_thinker: "Free Thinkers"
 acot_modifier_free_thinker_desc: "This planet promotes creativity and study, where jobless people are encouraged to study and find things to do with their lives."
 
 tech_go_sleep_machine: "Stasis Mode"
-tech_go_sleep_machine_desc: "The shift in our society results in less demand for workforce. Those who have yet to be given a purpose must sleep and wait for their tasks."
+tech_go_sleep_machine_desc: "The implementation of hi-tech standard-issued Stasis Pods across all buildings give drones the necessary stage where they can be repaired and maintained without needing to rely on specialized maintenance depots all the time."
 
 job_acot_free_reserve_drone: "Reserve Unit"
 job_acot_free_reserve_drone_plural: "Reserve Units"

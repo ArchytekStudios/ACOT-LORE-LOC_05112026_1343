@@ -42,8 +42,8 @@ acot_pmc.1.swarm.a: "We do not interact with food."
 acot_pmc.1.swarm.a.response: "Ah, you must be one of those hungry swarm hive minds. But we are willing to aid in your campaign anyway, so long as you're willing to pay."
 acot_pmc.1.exterminator.a: "You are an organic. You cannot be trusted."
 acot_pmc.1.exterminator.a.response: "Are you certain that we are organics? Or do you simply judge us so by our silhouettes?\n\nRegardless, you will find our services and expertises to be quite useful in your extermination campaign. We care not for morality, only the payment."
-acot_pmc.1.insult: "<Gives the Smuggler a 25-minute long insult>"
-acot_pmc.1.insult.tooltip: "Such a sickening lifeform has no place setting up a base in this galaxy. They are nothing but just a glorified pirate, who probably just paint everything red to look edgy. Phanon Corps? Is this some kind of edgy wanna-be boogeymen? We are the Legend; we are the one who will remove this worthless fool from the galaxy that rightfully belong to us. And then we will take all of their toys since they clearly suck at using them."
+acot_pmc.1.insult: "<Gives the Corps a 25-minute long insult>"
+acot_pmc.1.insult.tooltip: "Such a sickening species has no place setting up a base in this galaxy. They are nothing but just a glorified pirate, who probably just paint everything red to look edgy. Phanon Corps? Is this some kind of edgy wanna-be boogeymen? Trying to aura-farm with some armored dudes behind him? We are not impressed.\n\nWe are the Legend; we are the one who will remove this worthless fool from the galaxy that rightfully belong to us. And then we will take all of their toys since they clearly suck at using them."
 acot_pmc.1.purifier.insult.response: "Oh my, so much hostility.\n\nNevetheless, the Corps will ignore this uncalled insult, and will offer our expertises to the highest bidders."
 acot_pmc.1.swarm.insult.response: "Oh my, so much hostility.\n\nNevetheless, the Corps will ignore this uncalled insult, and will offer our expertises to the highest bidders."
 acot_pmc.1.exterminator.insult.response: "Oh my, so much hostility.\n\nNevetheless, the Corps will ignore this uncalled insult, and will offer our expertises to the highest bidders."
@@ -59,6 +59,13 @@ acot_pmc.2.desc.b: "What can the Phanon Corps do for you?"
 acot_pmc.2.desc.c: "Let us begin."
 acot_pmc.2.desc.d: "We have the goods if you have the creds."
 acot_pmc.2.desc.e: "What shall it be?"
+
+acot_pmc.2.desc.rival.a: "You reached out to us, as I know you would."
+acot_pmc.2.desc.rival.b: "The Phanon Corps awaits your needs."
+acot_pmc.2.desc.rival.c: "It appears you are in need of us. Again."
+acot_pmc.2.desc.rival.d: "We are watching. Always. Remember that."
+acot_pmc.2.desc.rival.e: "Enjoying the view?"
+acot_pmc.2.desc.rival.f: "What's giving you trouble?"
  
 acot_pmc.2.desc.purifier: "Are you here with new insults, or will we conduct business like gentlemen?"
 acot_pmc.2.desc.swarm: "Clearly we must have something you need from us beyond your hunger?"
@@ -454,6 +461,7 @@ acot_pmc.6.e: "We'd like to earn Phanon Coins."
 acot_pmc.6.earn.fail: "§RThere is no revenue for earning Phanon Coins at the moment!§!"
 
 acot_pmc.6.fail: "§RInsufficient Phanon Coins!§!"
+acot_pmc.6.tech.fail: "§RFirst time-subscriber are not eligiable for this service. We must wait until the first recurring subscription.§!"
 
 owned_phanon_coin: "acot_phanon_coin_var"
 
@@ -480,9 +488,13 @@ acot_pmc.600.c: "Purchase a legion of Terror Beasts."
 acot_pmc.600.c.explain: "Package includes §Y20§! Terrone Drones and §Y3§! Terror Tusks Units.\n\nBoth types of units are fearless automatons well suited to terror warfare and maximum carnage, good for cleansing planets without a care about collateral damage."
 acot_pmc.600.c.response: "Acknowledged. Terror Beasts Ready."
 
-acot_pmc.600.d: "We want to not care about ground battles."
-acot_pmc.600.d.explain: "Package includes §Y30§! Dutymen Trooper, §Y10§! Dutymen Sniper, §Y10§! Dutyman Elites, §Y5§! Patriot Tanks, §Y20§! Terrone Drones and §Y5§! Terror Tusks Units being led by a pair of Operatives. \n\nThis massive legion should enable you to win most ground battles ever. Take care not to lose them in space battles."
-acot_pmc.600.d.response: "Acknowledged. Let your enemies tremble."
+acot_pmc.600.d: "Purchase a duo of Operatives."
+acot_pmc.600.d.explain: "Package includes a pair of Operatives. \n\nThis duo will let you deal with most threats quite easily on their own. But we can only purchase them once."
+acot_pmc.600.d.response: "Acknowledged. Do not waste these two. They're your only ones."
+
+acot_pmc.600.e: "We want to not care about ground battles."
+acot_pmc.600.e.explain: "Package includes §Y30§! Dutymen Trooper, §Y10§! Dutymen Sniper, §Y10§! Dutyman Elites, §Y5§! Patriot Tanks, §Y20§! Terrone Drones and §Y5§! Terror Tusks Units.\n\nThis massive legion should enable you to win most ground battles ever. Take care not to lose them in space battles."
+acot_pmc.600.e.response: "Acknowledged. Let your enemies tremble."
 
 ###########
 
@@ -492,23 +504,27 @@ acot_pmc.601.desc: "Greetings. Welcome to the Phanon Corps's Naval Contract Serv
 acot_pmc.601.setlocation.phanon: "Shipping Location: §RPhanon System§!"
 acot_pmc.601.setlocation.capital: "Shipping Location: §YCapital System§!"
 acot_pmc.601.setlocation.explain: "Change the location in which the commissioned fleets will appear. By default, this is set to be at the Phanon Corps' Droppoint. Switching to drop at your capital will causes the ships to suffer §R25%§! to fire rate and speed for §Y360§! days.\n\n§HTake extra cautions when shipping fleets into special planets, as they may not register properly. The Corps will not issue refunds if fleets fail to disappear in this manner."
-acot_pmc.601.a: "Purchase a squadron of Star Chasers."
-acot_pmc.601.a.explain: "Package includes §Y3§! Star Chaser Squardrons led by a single Star Invader.\n\nStar Chasers are terrifyingly fast ISCs with deceptively high durability and firepower. Star Invader is an elite variant controlled through neural network by an operative." # 4800
+acot_pmc.601.a: "Purchase a squadron of eight Star Chasers."
+acot_pmc.601.a.explain: "Package includes §Y8§! Star Chaser Squardrons led by a single Star Invader.\n\nStar Chasers are terrifyingly fast ISCs with deceptively high durability and firepower. Star Invader is an elite variant controlled through neural network by an operative." # 4800
 acot_pmc.601.a.response: "Acknowledged. Star Chasers at the ready."
-acot_pmc.601.b: "Purchase two Star Destroyers."
-acot_pmc.601.b.explain: "Package includes §Y2§! Star Destroyers.\n\nAlthough considered to be the smallest mainline combat ships used by the Phanon Corps, their size and firepower still easily eclipses most of the galaxy's ships. They may not win you the war, but they make powerful all-rounder ships that can fill many roles." # 9600
+acot_pmc.601.b: "Purchase four Star Destroyers."
+acot_pmc.601.b.explain: "Package includes §Y4§! Star Destroyers.\n\nAlthough considered to be the smallest mainline combat ships used by the Phanon Corps, their size and firepower still easily eclipses most of the galaxy's ships. They may not win you the war, but they make powerful all-rounder ships that can fill many roles." # 9600
 acot_pmc.601.b.response: "Acknowledged. Star Destroyers Ready."
-acot_pmc.601.c: "Purchase a Star Devastator."
-acot_pmc.601.c.explain: "Package includes a Star Devastator.\n\nStar Devastators are middle of the road ships that can take on other capital ships and still retain some smaller caliber weapons to deal with little insects."
+acot_pmc.601.c: "Purchase two Star Devastators."
+acot_pmc.601.c.explain: "Package includes §Y2§! Star Devastator.\n\nStar Devastators are middle of the road ships that can take on other capital ships and still retain some smaller caliber weapons to deal with little insects."
 acot_pmc.601.c.response: "Acknowledged. Star Devastator on Stand By."
 acot_pmc.601.d: "Purchase a Star Decimator."
 acot_pmc.601.d.explain: "Package includes a Star Decimator.\n\nDecimators are dedicated anti-capital ship mobile artillery system. Their famed cannon will cut through even the toughest ships in a few, if not single hit."
 acot_pmc.601.d.response: "Acknowledged. Decimator Online."
 acot_pmc.601.e: "Purchase a Star Dominator II"
 acot_pmc.601.e.explain: "Package includes a Star Dominator II.\n\nA surprising and effective product of an unfortunate commission. Dominator II is the primary captial ship of the Phanon Corps. The addition of the bottom wing section and the hammer spinal makes it much more deadly than it's predecessor, although that comes with the notably increased costs."
-acot_pmc.601.e.response: "Acknowledged. Dominator is at your command."
+acot_pmc.601.e.response: "Acknowledged. Dominator II operational."
+acot_pmc.601.e2: "Purchase a Star Dominator"
+acot_pmc.601.e2.explain: "Package includes a Star Dominator.\n\nStar Dominators are the Corp's standard capital ship, oftening leading the helm. Though they are generally inferior compared to its more powerful cousins, it remains the most powerful capital ship a typical dutyman admiral-commander may possess."
+acot_pmc.601.e2.response: "Acknowledged. Dominator is at your command."
 acot_pmc.601.f: "Purchase a Star Annihilator"
-acot_pmc.601.f.explain: "Package includes a Star Annihilator.\n\nStar Annihilators are the largest and most powerful flagship in the Phanon Corps that are cleared for deployment in a galaxy."
+acot_pmc.601.f.fail: "§ROnly one Annihilator is permitted for each owner.§Y!"
+acot_pmc.601.f.explain: "Package includes a Star Annihilator.\n\nStar Annihilators are the largest and most powerful flagship in the Phanon Corps that are cleared for deployment in a galaxy.\n\nUnder most circumstances, a faction is only permitted to control one Annihilator, this includes even the Phanon Agent themselves."
 acot_pmc.601.f.response: "Acknowledged. The Finest of the Phanon Fleet is for you to wield."
 
 ###########
@@ -664,7 +680,7 @@ acot_pmc.2003.name: "Rival Phanon Corps Operative"
 acot_pmc.2003.desc: "Very good. Let us get to business."
 acot_pmc.2003.a: "We want their technologies."
 acot_pmc.2003.a.fail.response: "Hmm...I think you need to work on a bit more on your existing techs first. Come back again later when you are a little more...advanced."
-acot_pmc.2003.a.fail.alreadyhas.response: "That is the limit of what we can provide to you for now. If you want more powerful stuffs, we must move on to the next stage."
+acot_pmc.2003.a.fail.alreadyhas.response: "That is the limit of what we can provide to you for now. If you want the real Runic technology, you must move on to the next stage of the plan. Install the provided package and begin the war. Once the enemy is undone, further technology will be provided."
 acot_pmc.2003.b: "What are their weaknesses?"
 acot_pmc.2003.c: "What's the current plan?"
 acot_pmc.2003.c.response.a: "For now, focus on increasing your strengths and acquire new technologies. Once you have amassed both, we'll move to the next stage.\n\nAlso, whatever you do, do NOT attack the main branch. Not yet, every piece of the puzzles must be set first."
@@ -756,7 +772,7 @@ acot_pmc_rival_analysis_buff: "Super Phanon Transmitter"
 acot_pmc_rival_analysis_buff_desc: "Thanks to the device installed by our benefactor, we know many new weaknesses of the Corp's ships."
 
 acot_pmc.2010.name: "Phanon Corps Retaliator"
-acot_pmc.2010.desc.a: "[Root.GetName], your actions to compromise the security of the Phanon Corps can no longer be ignored. Because of you, this galaxy is no longer worthy of our mercy. You and everyone else of your pleabian kinds will be swept away by my hand. And then I'll see to it that the foul backstabber who was the mastermind behind this farce pays for their treachery!"
+acot_pmc.2010.desc.a: "[Root.GetName], your actions to compromise the security of the Phanon Corps can no longer be ignored. Because of you, this galaxy is no longer worthy of my mercy. You and everyone else of your pleabian kinds will be swept away by my hand. And then I'll see to it that the foul backstabber who was the mastermind behind this farce pays for their treachery!"
 acot_pmc.2010.desc.b: "[Root.GetName], we regret to inform you that one of the empires who shares this galaxy with you have made themselves clear as the enemies of the Corps. As of now, the Purge Protocol is active. You and every pathetic plebs will be destroyed. Make peace with your last moments."
 acot_pmc.2010.a: "We have been waiting for this!"
 acot_pmc.2010.a.tooltip: "§RAs do I§!"
@@ -776,9 +792,9 @@ acot_pmc.2011.a: "What the? But we didn't do anything!"
 acot_pmc.2011.b: "Who spooked them first?"
 
 acot_pmc.2012.name: "Rival Fleet Reinforcements!"
-acot_pmc.2012.desc.a: "Great News, the first batch of our benefactor's vanguard reinforcements have arrived! They come in the form of a large squadron of Star Chasers. They may not be able to stand up against a Phanon Fleet on their own, but they should provide us with extra fire supports."
-acot_pmc.2012.desc.b: "More of our benefactor's help have arrived! This time, its an even larger squadron of Star Chasers led by one of their own Operative who pilots a personal Star Invader!"
-acot_pmc.2012.desc.c: "The third and last batch of our benefactor's vanguard reinforcements have arrived. They have sent more Star Chasers and a few Star Destroyers to aid us. If we can only hold out just a little longer, then the main aramada will be ours to command."
+acot_pmc.2012.desc.a: "Great News, the first batch of our benefactor's vanguard reinforcements have arrived! They come in the form of a large squadron of Star Chasers and some Star Destroyers. They may not be able to stand up against a Phanon Fleet on their own, but they should provide us with extra fire supports."
+acot_pmc.2012.desc.b: "More of our benefactor's help have arrived! This time, its an even larger fleet, this time with multiple destroyers and devastators!"
+acot_pmc.2012.desc.c: "The third and last batch of our benefactor's vanguard reinforcements have arrived. It is being led by a Star Dominator II. If we can only hold out just a little longer, then the main aramada will be ours to command."
 acot_pmc.2012.a: "Excellent!"
 acot_pmc.2012.b: "Very Good!"
 acot_pmc.2012.c: "Super!"
@@ -835,6 +851,22 @@ acot_pmc.9003.title: "The Phi Conclusion"
 acot_pmc.9003.desc: "We're ready to make the final preparations to compile all the leftover fragments of the Corps to complete the last of the missing Phi-based technologies. Once the process is done, we'll have the full Phi arsenal. Any future fragments will automatically be converted into alloys at the rate of 100 alloys per fragment." 
 acot_pmc.9003.a: "And so it ends."
 acot_pmc.9003.a.tooltip: "1000 fragments will be required and used to analyze even more of the Corps's technology to complete the Phi-tier technology. Any future fragments will automatically be converted into alloys at the rate of 100 alloys per fragment."
+
+########### ESCALATION
+
+acot_pmc.1990.title: "Phanon Corps Crisis!"
+acot_pmc.1990.desc: "We're getting massive energy readings and large amount of fleet movements from within their home system. It looks like they're preparing for some massive invasions! They're hailing all empires."
+acot_pmc.1990.a: "Main Screen Turn On!"
+
+acot_pmc.1991.desc: "I have had enough of this charade! I'll not sit idly while you all toy with power beyond your ken! I don't care who you are, or whom you serve, but no one challenges the Corps!"
+acot_pmc.1991.a: "We will not be intimidated by you."
+acot_pmc.1991.a.response: "You will soon enough!"
+acot_pmc.1991.b: "What's going on?"
+acot_pmc.1991.b.response: "The Cleansing will now begin." 
+acot_pmc.1991.c: "Calm down."
+acot_pmc.1991.c.response: "I'll be calm once all of you are gone!" 
+
+########### ESCALATION
 
 acot_pmc.10.title: "Phanon Starbase Disabled!"
 acot_pmc.10.desc.a: "After a lengthy fight, the Phanon Corps's starbase has been disabled. Fortunately for us, due to the Starbase's fully automated nature, our cyber specialists have managed to reroute its systems to respond to our command and we are now assuming direct control. In response, the Corps have retreated their massive Star Traveller using some kind of advanced FTL Jumping Sequences and we can no longer track its presence at this time. The only obstacle left is the Vault. It must be captured if we wish to proceed."
@@ -1056,6 +1088,11 @@ acot_pmc.9952.desc: "Unhappy with the sudden hostility of the Phanon Corps, The 
 
 acot_pmc.9952.a: "Another joins the game."
 acot_pmc.9952.b: "They have no idea."
+
+acot_pmc.99110.title: "Phanon Portals"
+acot_pmc.99110.desc: "Proximity Alert! The Phanon Corps are trying to break through our defenses through dimensional portals! If we don't destroy these portals before they form, the Corps will be able to send in raiding fleets right through our flanks!"
+acot_pmc.99110.a: "Destroy them quickly!"
+acot_pmc.99110.a.tooltip: "Multiple portals have been created from within our empire's systems. If we fail to destroy them in time, hostile Phanon fleets will emerge from them!"
 
 ##Awakening FE contacts everyone
 acot_pmc.9953.name: "Incoming Transmission from §H[contact_empire.GetName]§!"

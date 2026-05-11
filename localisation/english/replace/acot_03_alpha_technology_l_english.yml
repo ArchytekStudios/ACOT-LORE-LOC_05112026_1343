@@ -265,7 +265,7 @@ ACOT_MISSILE_XL_MUTATION_AE: "Alpha SMBS"
 ACOT_MISSILE_XL_MUTATION_AE_DESC: "Powerful spinal-based missile system that fires a pair of high-speed, deadly accurate missiles with high tracking capabilities."
 tech_xl_missile_ae: "Alpha SMBS"
 tech_xl_missile_ae_desc: "Following the success of Alpha Project and the upgrades made to our explosive and guidance technologies. We can now apply the same principal to the old Delta-based Quicksilver. The scientists are running out of ideas for the weapon's name, so they did a vote and Alpha won due to it being the lead project's idea."
- 
+
 ACOT_MISSILE_NUKE_AE: "Alpha Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_AE_DESC: "Massive warhead launcher designed to take out capital ships through heavy ordinances."
 SMALL_ACOT_MISSILE_NUKE_MUTATION_AE: "Alpha Giga-Warhead Launcher"
@@ -274,6 +274,7 @@ LARGE_ACOT_MISSILE_NUKE_MUTATION_AE: "Alpha Giga-Warhead Launcher"
 XL_ACOT_MISSILE_NUKE_MUTATION_AE: "Alpha Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_MUTATION_AE: "Alpha Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_MUTATION_AE_DESC: "Massive warhead launcher designed to take out capital ships through heavy ordinances."
+acot_titan_missile_ae_tt: "Deals §Y6,425 - 10,513§! damage to all hostile ships within §E100§! range of the target, excluding the target itself."
 tech_missile_nuke_ae: "Alpha Giga-Warhead Launcher"
 tech_missile_nuke_ae_desc: "The next episode of Giga-Warhead Weapon System. Increased allocation of the Dark Energy into the mix will generate even more destructive force."
  
@@ -313,16 +314,19 @@ tech_mass_accelerator_ae_desc: "Alpha Cannon uses an even larger spinal-artiller
  
 ACOT_PERDITION_BEAM_AE: "Alpha Giga-Beam Cannon"
 ACOT_PERDITION_BEAM_AE_DESC: "True to its name, the Alpha-Class Cannon fires a fully-channeled and focused dark energy beam that will utterly destroy an entire ship."
+acot_perdition_ae_tt: "Deals §Y850 - 1,690§! damage to all hostile ships within §E45§! range of the target."
 tech_perdition_beam_ae: "Alpha Giga-Beam Cannon"
 tech_perdition_beam_ae_desc: "True to its name, the Alpha-Class Cannon fires a fully-channeled and focused dark energy beam that will utterly destroy an entire ship."
  
 ACOT_TITAN_EMITTER_AE: "Alpha Titan Stabilized Emitter"
 ACOT_TITAN_EMITTER_AE_DESC: "Like its predecessor, this titanic emitter offers penetrative power with no drawbacks to its reliability."
+acot_titan_emitter_ae_tt: "Deals §Y7,009§! damage to §Y5§! additional hostile ships within §E50§! range of the target. Can stack on the same target for extra damage."
 tech_titan_emitter_ae: "Alpha Titan Stabilized  Emitter"
 tech_titan_emitter_ae_desc: "With new power source comes new improvement to the already formidable Titan Emitters."
  
 ACOT_TITAN_ACCELERATOR_AE: "Alpha Titan Accelerator Cannon"
 ACOT_TITAN_ACCELERATOR_AE_DESC: "Titanic-scaled Mass Accelerator capable of hitting targets across extreme distances for massive damage."
+acot_titan_accelerator_ae_tt: "Deals §Y10,980 - 16,062§! damage to all hostile ships within §E10§! range of the target, excluding the target itself."
 tech_titan_accelerator_ae: "Quad Accelerator Railways"
 tech_titan_accelerator_ae_desc: "Doubling the Railgun Accelerators can now be safely done without risking hull damage with the advent of advanced hard-light engineering."
  
@@ -460,6 +464,9 @@ BATTLESHIP_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon t
 TITAN_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
 TITAN_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the first generation Delta Reactor by readjusting the balance between Dark Matter and Dark Energy, creating a much more powerful power generator."
  
+JUGGERNAUT_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
+JUGGERNAUT_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the first generation Delta Reactor by readjusting the balance between Dark Matter and Dark Energy, creating a much more powerful power generator."
+
 COLOSSUS_DARK_MATTER_REACTOR_AE: "Alpha Reactor"
 COLOSSUS_DARK_MATTER_REACTOR_AE_DESC: "Alpha Enigmatic Reactor improves upon the first generation Delta Reactor by readjusting the balance between Dark Matter and Dark Energy, creating a much more powerful power generator."
  

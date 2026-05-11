@@ -100,7 +100,7 @@ acot_herculean_events.323.a: "We need to be careful with mods. We don't want our
 ### COMPLITETION
 
 acot_herculean_events.330.name: "Herculean Project Study Completed"
-acot_herculean_events.330.desc: "We have all the data we need. It is now time to put those theories and plans into practice. We must combine all the knowledge together and create a functioning prototype, then find a suitable construction site where we may begin the true work."
+acot_herculean_events.330.desc: "We have all the data we need. It is now time to put those theories and plans into practice. We must combine all the knowledge together and create a functioning prototype, then find a suitable construction site where we may begin the true work.\n\nSOPHIA has warned us that the Phanon Corps would likely see its existence as a threat to their authority, given that it would enable us to eventually expand beyond the confines of this galaxy, and possibly learn more about their true nature. We should consider dealing with them prior, or prepare for a potential attack."
 acot_herculean_events.330.a: "We have much to do."
 
 acot_herculean_poi.2: "Herculean Construction"
@@ -211,9 +211,13 @@ acot_herculean_events.700.c.response.phobe: "Interesting...so you would rather e
 ################## STAGE FINAL
 
 acot_herculean_events.8.name: "Herculean: The Completion"
-acot_herculean_events.8.desc: "The Herculean Project is finally completed, weapon systems have been fully integrated and its massive engine begins to roar across the system. This is a history in the making. A moment of our empire's greatest triumph yet.\n\nNow all that is left is to command and conquer. The boundaries have been crossed."
-acot_herculean_events.8.a: "Legends across time and space, yield down to our majesty."
-acot_herculean_events.8.b: "The Age of Chaos is at an end. Our Zenith Eternal."
+acot_herculean_events.8.desc: "The Herculean Project is finally completed, weapon systems have been fully integrated and its massive engine begins to roar across the system. This is a history in the making. A moment of our empire's greatest triumph yet.\n\nNow all that is left is to command and conquer. The boundaries have been crossed.\n\nSuch is our triumph that many would argue that this is without a doubt, the greatest moment of our empire, a victory well deserved for ages to come. They petition to declare our victory far and wide."
+acot_herculean_events.8.a: "Yes, let the galaxy know, that we [root.GetName] has won."
+acot_herculean_events.8.a.tooltip: "Our empire will officially win the game, but we can still continue on as normal."
+acot_herculean_events.8.b: "It is a great moment for sure, but we need more."
+acot_herculean_events.8.b.tooltip: "It is too early to call this a victory."
+acot_herculean_built_score: "§EHerculean Built§!
+
 
 acot_is_system_owned_by_progenitor_empire: "£trigger_no£ [This.GetName] is controlled by powers beyond our understanding."
 acot_is_recently_cascaded: "£trigger_no£ [This.GetName] has been recently destroyed by Cascade."

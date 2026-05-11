@@ -37,7 +37,7 @@ message_acot_phanon_operative_destroyed: "Both of the Phanon Operative's have be
 
 primitive_army: "Primitive Army"
 primitive_army_plural: "Primitive Armies"
-primitive_army_desc: "These poor little armies are soldiers equipped to fight in petty little wars. It is time where soldiers are expected to win with skill than with tools. Unfortunately for them, their crude weapons stand no chance against modern armor and they have little defense against modern weapons. They are most likely to run at first sight against those from the skies."
+primitive_army_desc: "These poor little armies are soldiers equipped to fight in petty little wars. It is time where soldiers are expected to win with skill than with tools. Unfortunately for them, their crude weapons stand no chance against modern armor and they have little defense against modern weapons. They are most likely to run at first sight against those from the skies. Cheese cake by the way!"
 
 acot_medieval_army: "Medieval Army"
 acot_medieval_army_plural: "Medieval Armies"
@@ -53,7 +53,7 @@ industrial_army_desc: "Industrial Army now have proper formation and somewhat es
 
 postatomic_army: "Post-atomic Army"
 postatomic_army_plural: "Post-atomic Armies"
-postatomic_army_desc: "Post-atomic Armies are made up of combined forces. Infantry, Armor, Aircraft and Fire Support makes them quite formidable compared to any of the previous literation. Yet still they have one glaring issues. They never have to fight against anything outside of their own planet. And their weapons are still no match against modern armies."
+postatomic_army_desc: "Post-atomic Armies are made up of combined forces. Infantry, Armor, Aircraft and Fire Support makes them quite formidable compared to any of the previous iterations. Yet still they have one glaring issues. They never have to fight against anything outside of their own planet. And their weapons are still no match against modern armies."
 
 acot_early_space_army: "Early Space Age Army"
 acot_early_space_army_plural: "Early Space Age Armies"
@@ -136,7 +136,7 @@ tech_acot_army_3: "Army of the Future"
 tech_acot_army_3_desc: "The soldiers proud, the machines loud, our enemies run afoul. The future is now."
 
 tech_acot_army_5: "Supreme Commander"
-tech_acot_army_5_desc: "If fighting is surely to result in victory then you must fight. And fight we will, for we play to win."
+tech_acot_army_5_desc: "If fighting is surely to result in victory then you must fight. And fight we will, for we fight to win."
 
 tech_acot_army_morale_1: "Nationalism"
 tech_acot_army_morale_1_desc: "Though individual nations no longer play significant roles in the united empire, the new order itself is a nation of which the people should believe in its cause."
@@ -385,9 +385,9 @@ acot_machine_fanatic_guardian_heavy_ae_desc: "A legion of faithful servants and 
 
 ############################
 
-hive_fanatic_guardian: "Fanatic Guardian"
-hive_fanatic_guardian_plural: "Fanatic Guardians"
-hive_fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
+acot_hive_fanatic_guardian: "Fanatic Guardian"
+acot_hive_fanatic_guardian_plural: "Fanatic Guardians"
+acot_hive_fanatic_guardian_desc: "Raised from loyal and zealous masses, these fanatical defenders dedicate their lives to protect their planets, weathering against even the deadliest of foes."
 
 acot_hive_fanatic_guardian_dm: "Delta Fanatic Guardian"
 acot_hive_fanatic_guardian_dm_plural: "Delta Fanatic Guardians"

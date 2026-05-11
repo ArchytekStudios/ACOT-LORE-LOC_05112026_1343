@@ -136,6 +136,10 @@ acot_mod_options.300.f.tooltip: "Disables War In Hell Events. War in Hell is the
 acot_mod_options.300.f2: "War In Hell Events are §Rdisabled§!. §GEnable§!?"
 acot_mod_options.300.f2.tooltip: "Enables War In Hell Events, restoring the dangerous mechanic of the Alpha Tech."
  
+acot_mod_options.300.g: "The Shadow Events are §Genabled§!. §RDisable§!?"
+acot_mod_options.300.g.tooltip: "Disables The Shadow Events. The Shadow is a mysterious entity that will show up at late game. An event that tests reading comprehensions and contextual understandings."
+acot_mod_options.300.g2: "The Shadow Events are §Rdisabled§!. §GEnable§!?"
+acot_mod_options.300.g2.tooltip: "Enables The Shadow Events, restoring the threat of the Outerverse, but also a hidden blessing from the Metaverse's true guardian."
 
 ###################################################################################
 
@@ -186,8 +190,8 @@ acot_mod_options.6.tooltip: "This option allows you to remove certain contents w
 acot_mod_options.600.name: "Content Options"
 acot_mod_options.600.desc: "This option allows you to remove certain contents within the game, either from ACOT itself, or things related to the ACOT from existing."
  
-acot_mod_options.600.a: "Disable the Phanon Corps"
-acot_mod_options.600.a.tooltip: "This option will permanently remove Phanon Corps from the galaxy, including any technologies associated with them. Take great caution as the following results will happen.\n\n1. Phanon Corps will be removed from the galaxy.\n2. Droppoint System will become an empty system with only the star.\n3. All Phanon technologies will no longer be acquirable.\n4. Kylo Ren can never be acquired from A'merigo.\n5. Any empires except Stellarborne with Phanon Techs will also be removed."
+acot_mod_options.600.a: "Open §RPhanon Corps§! Menu"
+acot_mod_options.600.a.tooltip: "Open the Menu which contains all options related to §RPhanon Corps§!."
 
 acot_mod_options.600.b: "Disable Curator's Archons"
 acot_mod_options.600.b.tooltip: "This option will permanently remove the ability to hire Archons from the Curators. Archons are a much more powerful variant of the normal Curator Scientist. Take caution as the following results will happen.\n\n1. Archons will not be recruitable from Curators.\n2. Any existing leaders with the Archon trait will be obliterated from existence."
@@ -201,6 +205,45 @@ acot_mod_options.600.d.tooltip: "This option will permanently disable the Voidsp
 acot_mod_options.600.e: "Disable the Herculean"
 acot_mod_options.600.e.tooltip: "This option will permanently disable the Herculeans from being used. The Herculean is the most powerful mobile starbase in ACOT, easily capable of winning a war by itself and is almost virtually indestructible. Take great caution as the following results will happen.\n\n1. All existing Herculeans will be removed.\n2. The events to unlock the Herculean will not happen, and all current progress of the Herculean will be lost."
 
+############################ PHANON COPRS OPTIONS
+
+acot_mod_options.610.name: "Phanon Corps Options"
+acot_mod_options.610.desc: "This option is dedicated to all things related to Phanon Corps. Note that some options will be disabled once certain conditions have been reached."
+ 
+acot_mod_options.610.fail_crisis: "§RUnable to change this settings due to crisis active.§!"
+
+acot_mod_options.610.a.easy: "Retaliation Fleet Size: §YSmall§!"
+acot_mod_options.610.a.easy.desc: "The Agent is very bad at their job, and can only afford one fleet per wave."
+acot_mod_options.610.a.medium: "Retaliation Fleet Size: §EMedium§!"
+acot_mod_options.610.a.medium.desc: "The Agent is competent enough to pull out a typical standard fleet from retaliation. Two fleets will be spawned per wave."
+acot_mod_options.610.a.hard: "Retaliation Fleet Size: §PLarge§!"
+acot_mod_options.610.a.hard.desc: "The Agent will be able to spawn weirdly large amount of ships per fleet in a way they normally shouldn't be. Up to four fleets will be spawned per wave."
+ 
+acot_mod_options.610.b: "Escalation Mechanic is §EEnabled§!. §RDisable§!?"
+acot_mod_options.610.b.tooltip: "Escalation Mechanics cause the Corps to gradually become more agitated the more an empire research advanced technology or destroy their assets. If escalation reaches critical point, they will awake as a crisis and become hostile to all empires. Disabling this mechanic cause them to only awaken during Rival Path or after their system is conquererd." 
+acot_mod_options.610.b2: "Escalation Mechanic is §RDisabled§!. §EEnable§!?"
+acot_mod_options.610.b2.tooltip: "Escalation Mechanics cause the Corps to gradually become more agitated the more an empire research advanced technology or destroy their assets. If escalation reaches critical point, they will awake as a crisis and become hostile to all empires."
+
+acot_mod_options.610.c: "Tech Escalation is §EEnabled§!. §RDisable§!?"
+acot_mod_options.610.c.tooltip: "Defines whether technology research should add escalation points. Disabling this option makes Escalation only counts from destroyed assets." 
+acot_mod_options.610.c2: "Tech Escalation is §RDisabled§!. §EEnable§!?"
+acot_mod_options.610.c2.tooltip: "Defines whether technology research should add escalation points. Disabling this option makes Escalation only counts from destroyed assets."
+
+acot_mod_options.610.d: "Star Bender Expansions are §EEnabled§!. §RDisable§!?"
+acot_mod_options.610.d.tooltip: "Defines whether the Corps will deploy Star Benders alongside the assault fleets to generate new expansions. Disabling this will cause the Corps to only be able to kill things, and not expand their territory." 
+acot_mod_options.610.d2: "Star Bender Expansions are §RDisabled§!. §EEnable§!?"
+acot_mod_options.610.d2.tooltip: "Defines whether the Corps will deploy Star Benders alongside the assault fleets to generate new expansions. Enabling this will allow the Corps to  use these devious ships to expand their influences."
+
+acot_mod_options.610.e: "Ambush Portals are §EEnabled§!. §RDisable§!?"
+acot_mod_options.610.e.tooltip: "Defines whether the Corps will attemp to ambush empires by spawning various portals that, if not interrupted, will create ambush fleets." 
+acot_mod_options.610.e2: "Ambush Portals are §RDisabled§!. §EEnable§!?"
+
+acot_mod_options.610.f: "AI Ultramemberships are §EEnabled§!. §RDisable§!?"
+acot_mod_options.610.f.tooltip: "Defines whether the AI empires are allowed to make use of Phanon Corps Ultramembership Subscriptions and Services" 
+acot_mod_options.610.f2: "Ambush Portals are §RDisabled§!. §EEnable§!?"
+
+acot_mod_options.610.g: "§RDisable the Phanon Corps§!"
+acot_mod_options.610.g.tooltip: "This option will permanently remove Phanon Corps from the galaxy, including any technologies associated with them. Take great caution as the following results will happen.\n\n1. Phanon Corps will be removed from the galaxy.\n2. Droppoint System will become an empty system with only the star.\n3. All Phanon technologies will no longer be acquirable.\n4. Kylo Ren can never be acquired from A'merigo.\n5. Any empires except Stellarborne with Phanon Techs will also be removed."
 
 ###################################################################################
 

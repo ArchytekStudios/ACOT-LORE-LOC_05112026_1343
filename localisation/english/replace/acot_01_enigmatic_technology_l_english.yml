@@ -1,6 +1,9 @@
 ﻿
 l_english:
  
+artillery_spinal: "Spinal Artillery"
+artillery_spinal_desc: "Spinal Artillery ships are variation of the Artillery Ship that will use spinal weapons, which have superior range but limited firing arcs."
+
 ### WEAPONS CHECK OK #####
  
 sensor_components_bio: "Bio Components"
@@ -68,6 +71,7 @@ ACOT_DISRUPTOR_MUTATION_ENIG: "Focused Disruptor"
 ACOT_DISRUPTOR_MUTATION_ENIG_DESC: "Mimicing some properties off the Arc Emitters enable us to create a stronger Phased Disruptor."
 tech_disruptor_enig: "Focused Disruptor"
 tech_disruptor_enig_desc: "Scientists argue that there's some connections between the ways disruptors work relative to the arc emitter technology developed later, and by taking some inspirations of the properties of the latter, it may be possible to create more powerful disruptors, if we're willing to part ways with some rare crystals."
+acot_disruptor_healing_tt: "Drains enemy power to heal hull, armor or shield of the ship for the same amount as damage done."
  
 SMALL_ACOT_DISRUPTOR_LANCE_ENIG: "Small Disruptor Lance"
 MEDIUM_ACOT_DISRUPTOR_LANCE_ENIG: "Medium Disruptor Lance"
@@ -148,13 +152,13 @@ tech_autocannons_enig_desc: "Volatile Motes, as ever, can be used to slightly im
  
 ACOT_MACROCANNON_ENIG: "Macrocannon"
 ACOT_MACROCANNON_ENIG_MEDIUM: "Macrocannon"
-ACOT_MACROCANNON_ENIG_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house rapid-firing autocannons with heavy hard-light projectiles."
+ACOT_MACROCANNON_ENIG_DESC: "Macrocannons fire shaped charge explosive rounds to penetrate hull of larger ships."
 SMALL_ACOT_MACROCANNON_MUTATION_ENIG: "Macrocannon"
 MEDIUM_ACOT_MACROCANNON_MUTATION_ENIG: "Macrocannon"
 LARGE_ACOT_MACROCANNON_MUTATION_ENIG: "Macrocannon"
 XL_ACOT_MACROCANNON_MUTATION_ENIG: "Macrocannon"
 ACOT_MACROCANNON_MUTATION_ENIG: "Macrocannon"
-ACOT_MACROCANNON_MUTATION_ENIG_DESC: "Advancements in our hard-light manipulations allow us to create turrets strong enough to house rapid-firing autocannons with heavy hard-light projectiles."
+ACOT_MACROCANNON_MUTATION_ENIG_DESC: "Macrocannons fire shaped charge explosive rounds to penetrate hull of larger ships."
 tech_macrocannon_enig: "Shaped Charge Autocannons"
 tech_macrocannon_enig_desc: "In compliance with the new warfare policy, attempts are made to create a more powerful autocannon design with specialized shaped charge explosive rounds to penetrate hull of larger ships. This new weapon system will fill in the currently missing kinetic-based anti-capital ship short range weapon platform." 
 
@@ -251,6 +255,7 @@ tech_xl_missile_enig_desc: "Our fleet commanders and crews are always puzzled by
  
 ACOT_MISSILE_NUKE_ENIG: "Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_ENIG_DESC: "A Massive torpedo launcher designed to have the largest payload to date to take out captial ships. Although extremely slow by projectile standards, they are resistant to most point defense weapons and should make it to their targets long before they can be intercepted."
+acot_titan_missile_enig_tt: "Deals §Y4,372 - 7,154§! damage to all hostile ships within §E100§! range of the target, excluding the target itself."
 tech_missile_nuke_enig: "Titanic Warheads"
 tech_missile_nuke_enig_desc: "In compliance with weapon design revisions, a need for titanic-sized explosive ordiance is now in demand. We believe that an upscaled version of a torpedo should be a good starting point. Rather than relying on speed or evasion, the new massive warhead will simply utilize its massive size and durability to reach its prey."
 
@@ -289,19 +294,21 @@ tech_mass_accelerator_enig_desc: "As we're running out of ideas for what to do w
  
 ACOT_PERDITION_BEAM_ENIG: "Advanced Perdition Beam"
 ACOT_PERDITION_BEAM_ENIG_DESC: "Altthough the upgrades are not as substantial as initially believed, the updated version of the Perdition Beam still packs a respectable punch."
+acot_perdition_enig_tt: "Deals §Y570 - 1,150§! damage to all hostile ships within §E45§! range of the target."
 tech_perdition_beam_enig: "Advanced Perdition Beam"
 tech_perdition_beam_enig_desc: "With our new understandings, augmentations of the old Perdition Ion Beams are now pending. We await only the approval. Success in this field should open ways to new types of titanic weapons in the future."
  
 ACOT_TITAN_EMITTER_ENIG: "Titan Stabilized Emitter"
 ACOT_TITAN_EMITTER_ENIG_DESC: "Powerful emitters with far greater weapon stability and damage potential."
+acot_titan_emitter_enig_tt: "Deals §Y4,769§! damage to §Y5§! additional hostile ships within §E50§! range of the target. Can stack on the same target for extra damage."
 tech_titan_emitter_enig: "Titan Stabilized Emitter"
 tech_titan_emitter_enig_desc: "Rooting out the Paradox Circle and dismantling their operations open up new possibilities of developing a larger and more stabilized Arc Emitter suitable for bigger ships. It is a wonder why it only took us just now to realize this could be done."
- 
+
 ACOT_TITAN_ACCELERATOR_ENIG: "Titan Accelerator Cannon"
 ACOT_TITAN_ACCELERATOR_ENIG_DESC: "A Titanic-scaled Mass Accelerator capable of hitting targets across extreme distances."
+acot_titan_accelerator_enig_tt: "Deals §Y7,472 - 10,930§! damage to all hostile ships within §E10§! range of the target, excluding the target itself."
 tech_titan_accelerator_enig: "Titan Accelerator "
 tech_titan_accelerator_enig_desc: "After transforming the lazy fools respoinsible for halting our kinetic weapons development into reusable fuels and assign better candidates. The new team has finally develop kinetic accelerators on a titanic-scale suitable for our biggest ships."
-
 
 tech_hangar_weapon_enig: "Weapon Protocol Revisement: Strikecrafts"
 tech_hangar_weapon_enig_desc: "Now that we're no longer pressed under immediate need to advance our weapons until we develop more advanced power source, we have some time to revise and explore elements missing in our strikecraft designs. In particular, the use of VI interface should supercede the traditional manual pilotting doctrine soon. And branching our strikecraft designs will go a long in providing more types of missions that carriers can perform."

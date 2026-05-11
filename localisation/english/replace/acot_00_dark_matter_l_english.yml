@@ -1,11 +1,5 @@
 ﻿l_english:
  
- sm_acot_starbase_dm_refine: "Dark Matter Generator"
- sm_acot_starbase_dm_refine_desc: "Specialized Starbase Module that can generate dark matter. Performs better in proximity to a black hole. Advancements in technologies will increase its yielding."
- 
- sm_acot_starbase_de_pylon: "Dark Energy Pylon"
- sm_acot_starbase_de_pylon_desc: "Specialized Starbase Module that can generate dark energy. Performs better in proximity to a black hole. Advancements in technologies will increase its yielding."
- 
  tech_dark_matter_generation: "Dark Matter Generation"
  tech_dark_matter_generation_desc: "It seems the scientist is able to theorize on how to generate Dark Matter into a usable energy. We should allocate required resources for the scientist to begin the research right away."
   

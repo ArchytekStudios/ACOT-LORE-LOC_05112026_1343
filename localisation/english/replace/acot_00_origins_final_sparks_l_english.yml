@@ -1,0 +1,265 @@
+﻿l_english:
+
+building_acot_ruined_absent_fortress: "Ruined Giga Fortress Site"
+building_acot_ruined_absent_fortress_desc: "The Landing Site left behind when our Giga Fortress left. Until it's return this will have to work as our empire's makeshift capital."
+
+acot_giga_fortress_ruined: "Damaged Giga Fortress"
+acot_giga_fortress_ruined_plural: "Damaged Giga Fortress"
+acot_giga_fortress_ruined_cap: "Damaged Giga Fortress"
+
+decision_acot_ruined_gigafortress_deploy: "Deploy Giga Fortress"
+decision_acot_ruined_gigafortress_deploy_desc: "The main thrusters of our last bastion is still operational, but it is in dire state. If we do not land the fortress back in 180 days, we risk losing it forever."
+decision_acot_ruined_gigafortress_deploy_effect: "Hurry"
+
+acot_final_spark_chain: "The Final Spark"
+acot_final_spark_chain_title: "The Final Spark"
+acot_final_spark_chain_desc: "Our empire must survive and return to our former glory. But so many obstacles to overcome..."
+
+acot_final_sparks.1.name: "§RProximity Alert!§!"
+acot_final_sparks.1.desc: "§RAlert! Hostile Defense Systems Detected around our parameters, we are completely surrounded!§!\n\nIt seems our enemies intend to bury us here in this dying world. Yet we cannot be stuck here, if our empire is to survive, we must find a way to get through these defenses and expand our borders. These stations are formidable, and our weapons would do little against its defenses. If we wish to expand, we must find some means to get our civilian ships through."
+acot_final_sparks.1.a: "Perhaps there's a chance."
+
+acot_final_sparks.100.name: "Problematic Situation"
+acot_final_sparks.100.desc: "After various debates, we have come across a few possible solutions to our confinement problems. Here are the proposed solutions.\n\nWe have learned from the previous war that the platforms our enemy used to box us in belong to a specific type of Sentinel design. This type of platform is usually built to kill capital ships using its long range weapons. But we don't have capital ships to worry about. If we could get a sizable group of close-ranged torpedo ships like frigates in, we may be able to destroy one of them. However, with our meager arsenals, the timing must be perfect, for only a sudden burst of alpha strike damage would be sufficient to overpower the platform's impressive self-repair capabilities.\n\nAnother possible method, albiet a costly one, is to simply bypass any of these sentinels. These platforms are primarily programmed to select and attack armed vessels first. We believe that if create a large enough diversion fleet of cheap corvettes, we may buy just enough time to allow a few of our science and construction ships to break through the blockade."
+acot_final_sparks.100.a: "Both would require a lot of spending..."
+
+acot_final_spark_poi.1: "The Blockade"
+acot_final_spark_poi.1.name: "The Blockade"
+acot_final_spark_poi.1.desc: "Our first problem is the blockade. Unless we can find a way to get around them, we'll stuck in our home system for decades to come."
+
+acot_final_spark_poi.100: "The Blockade Solution - Alpha Strike"
+acot_final_spark_poi.100.name: "The Blockade Solution - Alpha Strike"
+acot_final_spark_poi.100.desc: "Enough frigates performing a sudden burst alpha strike could be enough to destroy one of the sentinels, which do not have the means to engage against close-range targets. Odds of success may increase if we have cloaking technology."
+
+acot_final_spark_poi.100a: "The Blockade Solution - Diversion"
+acot_final_spark_poi.100a.name: "The Blockade Solution - Diversion"
+acot_final_spark_poi.100a.desc: "Sentinels are not particularly great at dealing with mass swarms of smaller ships. If we distract one of them with enough cheaply made corvettes, we may be able to send a few civilian ships to break through the blockade."
+
+acot_final_sparks.101.name: "Problematic Situation"
+acot_final_sparks.101.desc: "Another possible, but risky and potentially damning solution is to make use of our bastion. The Giga Fortress Prototype that we tried to create, to take out the enemy sentinels, as even in its current shape, it should still be powerful enough to take out a single Sentinel. But there are multiple issues that will come with this solution.\n\nIn its current heavily damaged state, the fortress wouldn't be able to remain operational in mobile mode for far too long. We calculate that we have approximately only §Y180§! days before the reactor fails and overload.\n\nFurthermore, without it acting as our shelter, the planet would become extremely vulnerable to resource shortage as well as lack of proper defenses. If one of the Void entities decide to strike, we risk losing our only foothold, and all would be lost."
+acot_final_sparks.101.a: "We would have to be extremely careful..."
+
+acot_final_spark_poi.101: "The Blockade Solution - Giga Fortress"
+acot_final_spark_poi.101.name: "The Blockade Solution - Giga Fortress"
+acot_final_spark_poi.101.desc: "Lifting the Giga Fortress, even in its current damaged state, could provide us just enough firepower to destroy at least one of the sentinels. But if lose the fortress, or fail to return it to the capital within §Y180§! days, we would be in a very, very serious trouble."
+
+acot_final_sparks.102.name: "Problematic Situation"
+acot_final_sparks.102.desc.a: "Some also advocate for an optimistic viewpoint that if we strengthen our signals, we may be able to broadcast our comms in hopes that someone may come to rescue us.\n\nThe problem is that we don't know whether this would work or not, and more importantly, if it does. Who will respond? For all we know, we could be inventing more trouble. Worse, there's a chance that the enemy who did this to us is still around. And we have strong reasons to believe that they would be quite inclined to finish the job..."
+acot_final_sparks.102.desc.b: "Some also advocate for an optimistic viewpoint that if we strengthen our signals, we may be able to broadcast our comms in hopes that someone may come to rescue us.\n\nThe biggest issue with this line of thinking is...given how our civilization operates, it is highly unlikely for anyone to even consider helping us. But Aside from that, the other problem is that we don't know whether this would work or not, and more importantly, if it does. Who will respond? For all we know, we could be inventing more trouble. Worse, there's a chance that the enemy who did this to us is still around. And we have strong reasons to believe that they would be quite inclined to finish the job..."
+acot_final_sparks.102.a: "That will require a lot of luck..."
+acot_final_sparks.102.b: "For once, our chosen path may have been...problematic."
+
+ACOT_FINAL_SPARK_BROADCAST: "Desperate Broadcast"
+ACOT_FINAL_SPARK_BROADCAST_DESC: "The galaxy is vast. There must be someone out to help us. But will they be friends or foes?"
+
+acot_final_spark_poi.102: "The Blockade Solution - Broadcast"
+acot_final_spark_poi.102.name: "The Blockade Solution - Broadcast"
+acot_final_spark_poi.102.desc: "We may be able to call for help from someone who may get rid of the sentinels. But there's also a strong likelihood that we may end up asking for more trouble too. This should be done as a last resort."
+
+acot_final_sparks.103.name: "Giga Fortress On the Move"
+acot_final_sparks.103.desc: "Engineers report a little bit of stability issues, but the old thing manages to still fly. They have also installed multiple additional thrusters to get the fortress moving at greater speed.\n\nAs stated, we have roughly 180 days to finish our business. We must get the fortress back on the planet before that happens, or it will be lost."
+acot_final_sparks.103.a: "We have no time to waste."
+
+acot_final_sparks.104.name: "Giga Fortress Reactor Critical"
+acot_final_sparks.104.desc: "Engineers are reporting that the reactor of the Giga Fortress is in critical condition! We must land the fortress as soon as possible or it will be destroyed!"
+acot_final_sparks.104.a: "We must hurry."
+
+acot_final_sparks.105.name: "Giga Fortress Destroyed!"
+acot_final_sparks.105.desc: "The reactor of the Giga Fortress suffered from a critical meltdown and imploded. The fortress is lost!"
+acot_final_sparks.105.a: "Not good..."
+
+acot_final_sparks.106.name: "Giga Fortress Landing"
+acot_final_sparks.106.desc: "The fortress has safety landed back on the planet's surface. Damage reports are coming in.\n\nIt looks like the mobility system is pretty much fried. It won't be flying again until we can rebuild it from the ground up in the far future."
+acot_final_sparks.106.a: "All that matters is that it still works on the planet."
+
+acot_final_sparks.107.name: "Sentinel Destroyed"
+acot_final_sparks.107.desc: "We managed to destroy one of the Sentinels! Hopefully that will give us a clear opening to break through the blockade."
+acot_final_sparks.107.a: "Let's hope it doesn't lead to a dead end..."
+
+acot_final_sparks.109.name: "Sentinel Destroyed"
+acot_final_sparks.109.desc: "One of the Sentinels blocking our exits have been destroyed, but not by our own hands."
+acot_final_sparks.109.a: "What matters is that there is now an opening."
+
+acot_final_sparks.2.name: "Blockade Breached"
+acot_final_sparks.2.desc: "We managed to break through one of the blockades!\n\nIt is good to see that the system details still match our old data. We should begin expansion right away."
+acot_final_sparks.2.a: "Time to restore our glory."
+
+acot_final_sparks.200.name: "Reclaiming Our Legacy"
+acot_final_sparks.200.desc: "Now we should focus on rebuilding our empire and rediscover all of the lost knowledge and technology. The immediate focus, would be of course, to relearn how to manipulate dark matter and dark energy to create a proper reactor. The knowledge and instructions were kept within many of our archives, but they have been sabotaged and powered down by our enemies. We'll need to power them up again with a back up power source. Delta Technology often accepts §YEnhanced Zero-Point Energy Reactor§! as a backup redundancy. So if we can work our way to it, we'll be able to reclaim a lot of our old knowledge.\n\nWe should also seek to learn how to restore our capital homeworld to a better shape. Moving to a new capital is also a possibility, but many have come to see our home world as the rallying beacon, and that to move away from it would be a betrayal of all who fought for it. We should be very careful."
+acot_final_sparks.200.a: "So that is our next focus."
+
+acot_final_spark_poi.2: "Restoring Our Legacy"
+acot_final_spark_poi.2.name: "Restoring Our Legacy"
+acot_final_spark_poi.2.desc: "We have to regain all the knowledge and powers we have lost, and become a major player in this galaxy again."
+
+acot_final_spark_poi.200: "Rediscovering Delta Tech"
+acot_final_spark_poi.200.name: "Rediscovering Delta Tech"
+acot_final_spark_poi.200.desc: "To restore our legacy, our empire must rediscover the necessary technology to harness Dark Energy so that we can make use of it's power once again.\n\nWith our enemies having confiscated or sabotaged most of our Delta technology and reactors, we cannot access any of our old archives hence the loss of all our knowledge and technology at the present time. But these systems are designed with some redundancies, if we can relearn how to build Enhanced Zero Point Reactors, it will allow us to re-access various archives."
+
+ACOT_FINAL_SPARK_ARCHIVE_DM_RESEARCH: "Delta Archive"
+ACOT_FINAL_SPARK_ARCHIVE_DM_RESEARCH_DESC: "This Archive contains all the information that could tell us how our technology used to work in great details. If we can decipher and read through its content, we'll be able to recover most of our lost Delta technology."
+
+ACOT_FINAL_SPARK_ARCHIVE_OTHER_RESEARCH: "Technology Archive"
+ACOT_FINAL_SPARK_ARCHIVE_OTHER_RESEARCH_DESC: "This Archive contains most of our old technology that predated the Delta Project. Going through them could finally fill up most of the previously lost or missed technology."
+
+acot_final_spark_poi.201: "Rebuilding Our Capital"
+acot_final_spark_poi.201.name: "Rebuilding Our Capital"
+acot_final_spark_poi.201.desc: "Our capital planet is in ruins, but we have reasons to believe that we can eventually revive it. We may also move our capital, but it would be a detrimental to our morale and unity."
+
+acot_final_spark_capital_move_debuff: "Fractured Discord"
+acot_final_spark_capital_move_debuff_desc: "Many felt betrayed by our decisions to move away from our old capital, one that which have been part of their heritage for so long."
+
+acot_final_sparks.201.name: "Moving On"
+acot_final_sparks.201.desc: "With a heavy heart, we have decided to move our capital from §E[from.GetName]§!. Many disagreed with the final decision, but we need to move on, for our empire is more than just a single planet.\n\nFrom now on, §Y[root.GetName]§! shall be our new capital."
+acot_final_sparks.201.a: "To a new beginning."
+acot_final_sparks.201.a.tooltip: "Many are against this decision. The discord will take quite a toll on our unity."
+
+acot_final_sparks.202.name: "Getting Closer"
+acot_final_sparks.202.desc: "We are getting closer to our goal. Now that we have access to §EEnhanced ZP-E Reactor§!, we can use it to power up emergency backup redundancy systems within our archives. This should speed up our process to relearn the many technology that we once held.\n\nIn particular, all the old records about how to use Dark Matter can now be accessed."
+acot_final_sparks.202.a: "Very helpful indeed."
+
+acot_final_sparks.203.name: "Delta Archive Studied"
+acot_final_sparks.203.desc: "Our analysts have complete their study of our ancient Delta archives. With it, we are made aware once again the proper procedure to harvest both Dark Matter and Dark Energy, how to contain them into stabalized reactor, and the applications they can be used on. We now simply have to follow through and rebuild our Delta Reactor prototype."
+acot_final_sparks.203.a: "The teal glow is calling to us!"
+
+acot_final_sparks.204.name: "Tech Archive Studied"
+acot_final_sparks.204.desc: "Our analysts have complete their study of our past tech archives, and may old technologies that were lost have been recovered!"
+acot_final_sparks.204.a: "Excellent!"
+
+acot_final_sparks.205.name: "The Resurgance of [Root.GetName]!"
+acot_final_sparks.205.desc: "It is done!\n\nWe have successfully recreated the first working Delta Reactor, mirrored after our very own ancient design. With it, we can now access most of our lost archives in full, and various technology that were once lost, have now been revealed.\n\nNow, what kind of weapons did our empire previously use?"
+acot_final_sparks.205.a: "Energy Weapons"
+acot_final_sparks.205.b: "Kinetic Weapons"
+acot_final_sparks.205.c: "Explosive Weapons"
+acot_final_sparks.205.d: "Strikecrafts"
+
+acot_final_sparks.206.name: "The Future Forward"
+acot_final_sparks.206.desc: "Many are eager to move forward and further reclaim our legacy, but we have also learned our lessons, one that which costed us our old empire. The Alpha Project is a pathway to many possibilities that many considered unnatural. And rightfully so, as it lured our most hated enemies to our doorsteps. We were unprepared, foolish and naive back then. But this time, we will do this right.\n\nLet us prepare ourselves properly this time around."
+acot_final_sparks.206.a: "Indeed"
+acot_final_sparks.206.a.tooltip: "This concludes the Final Spark Event Chain for now. More will be expanded later. You'll get Alpha Event in roughly 10 years after this. Try not to die this time!"
+
+acot_final_sparks.3.name: "Army Movement Spotted"
+acot_final_sparks.3.desc.a: "We are detecting an army apporaching our bastion stronghold. Their identifications match of one of those used by our old empire, suggesting that they may have been survivors from other areas.\n\n§E"Move it! Move it! Head back to the base!"§!\n\nThe army stands in front of the barrier gate. Their equipment looks much more advanced, matching that of what our soldiers used to have in the past.\n\n§E"Open the Gate! We are friendly!"§!\n\nIt is true that they are friendly, but we do not know their intentions or purposes, or why it took them this long to come here. Attempts to identify or ask for further clarifications have failed. Either their comms have failed, or they're deliberately going silent."
+acot_final_sparks.3.a: "Open the Gate."
+acot_final_sparks.3.a.tooltip: "They were our soldiers. They can be trusted."
+acot_final_sparks.3.b: "Refuse Entry."
+acot_final_sparks.3.b.tooltip: "They are suspicious actors. If they are here in good faith, they would identify their purposes or nature of their arrival already."
+
+acot_final_sparks.300.name: "The Returned"
+acot_final_sparks.300.desc.a: "The army enters into our stronghold and willingly submits themselves for inspections. One of their leader is none other than §Y[event_target:acot_final_spark_commander.GetName]§!, one of the military commanders of the old empire from the past. They were infamous for having ordered an unauthorized retreat which was one of the reasons why one of the Prototype Giga Fortress's cannon were destroyed, as the flanks were left exposed.\n\n§Y[event_target:acot_final_spark_commander.GetName]§! attempted to justify that they made what they thought was the best call at the time, but accepted that it was a foolish move. [event_target:acot_final_spark_commander.GetSheHe] [event_target:acot_final_spark_commander.GetIsAre] willing to face any punishment.\n\n[event_target:acot_final_spark_commander.GetSheHe] also warns us that the reason for [event_target:acot_final_spark_commander.GetHerHim] return is due to the fact that there is §Ra large force of Void Entities§! approaching our bastion, one much bigger than any we have previously fended off. And that compelled [event_target:acot_final_spark_commander.GetHerHim] to come back to aid us in this final stand.\n\nThe information is useful, but what about the disgraced leader? Many of our people fully believed that we could have held out much longer had the fortress's flank not been exposed. They believe that §Y[event_target:acot_final_spark_commander.GetName]§! was an opportunistic traitor who only came here to save [event_target:acot_final_spark_commander.GetHerHim] own hide. What should be done with the disgraced leader?"
+acot_final_sparks.300.a: "We still need [event_target:acot_final_spark_commander.GetHerHim]."
+acot_final_sparks.300.a.tooltip: "We are in need of a skilled commander at this time. Perhaps they can repent for their cowardice through service. The populace will get over it in time."
+acot_final_sparks.300.b: "Execute [event_target:acot_final_spark_commander.GetHerHim]."
+acot_final_sparks.300.b.tooltip: "We do not suffer traitors."
+acot_final_sparks.300.c: "Imprison [event_target:acot_final_spark_commander.GetHerHim]."
+acot_final_sparks.300.c.tooltip: "We cannot trust someone like this to lead our armies again."
+
+acot_final_spark_refuse_kill_leader_debuff: "Welcome Disgraced Leader"
+acot_final_spark_refuse_kill_leader_debuff_desc: "Some are displeased with the decision to welcome back one of the leaders that were perceived to doom our empire."
+
+acot_final_spark_kill_leader_buff: "Retribution Met"
+acot_final_spark_kill_leader_buff_desc: "The general populace is greatly pleased with fatal retribution being met. Cowardice and Treachery should not be tolerated."
+
+acot_final_spark_exile_leader_buff: "Justice Served"
+acot_final_spark_exile_leader_buff_desc: "The general populace is pleased with justice being served. Cowardice and Treachery should not be tolerated."
+
+acot_final_sparks.301.name: "The Turncoats"
+acot_final_sparks.301.desc.a: "§E"Open the gate, damn you!\n\nScrew this, everyone attack! We're not rotting out here in the darkness!"§!\n\nThese traitors are attacking our bastion!"
+acot_final_sparks.301.a: "Eliminate these intruder scums!"
+
+acot_final_sparks.302.name: "The Army Retreats"
+acot_final_sparks.302.desc.a: "§E"Then we have wasted our time here. But we must warn you that a large group of Void Entities are approaching. We'll try to face them head on and buy you some  time. May our sacrifices be remembered."§!\n\nThe army retreats, and now the bastion's entrance is silent once again."
+acot_final_sparks.302.a: "Good Bye."
+
+acot_final_sparks.303.name: "Void Lifeforms Spotted!"
+acot_final_sparks.303.desc.a: "As was warned, a massive army of Void lifeforms have been spotted. They are huge in numbers, way too many for us to handle! It looks like they want to finish us off for good this time."
+acot_final_sparks.303.a: "Defend the Bastion at all costs!"
+acot_final_sparks.303.a.tooltip: "Their numbers are too great. But we have no choices..."
+
+acot_final_sparks.304.name: "More Void Lifeforms Detected!"
+acot_final_sparks.304.desc.a: "Yet even more Void Lifeforms detected! They're coming right from our flanks! This may be our end..."
+acot_final_sparks.304.a: "Are there no end to these things...?"
+acot_final_sparks.304.a.tooltip: "Is this the end?"
+
+acot_final_sparks.305.name: "Friendly Lifeforms?"
+acot_final_sparks.305.desc.a: "Wait! The second Lifeform Army is not attacking us!? They are aiding us against the hostile forces.\n\n§E"Quickly, my warriors! Slay the Lost in the name of [event_target:acot_final_spawk_owner.GetName]!"§!\n\nTheir leader speaks!? None of the prior lifeforms so far were capable of communication."
+acot_final_sparks.305.a: "Finally, we may have a chance!"
+acot_final_sparks.305.a.tooltip: "Is this the end?"
+
+acot_final_sparks.306.name: "Glorious Victory"
+acot_final_sparks.306.desc.a: "The battle is ours! We drove back the hostile Void Lifeforms and the parameter is secured once again! It'll be sometimes before these abominations can launch another attack like this.\n\nThe leader of the friendly mutants are now hailing us.\n\n§E"My greetings to you, [root.GetSpeciesNamePlural]. Sorry for our unbecoming appearances, the Enigmatic energies of this world hasn't been kind to the likes of us. But we still remember the glorious past of [root.GetName]. And [fromfrom.GetName] is our home. We wish to aid you in its defenses."§!\n\nWe never thought that there could be any lifeforms with sapience intelligence. Still, were it not for them, this battle could have been our end. How should we respond?"
+acot_final_sparks.306.a: "We welcome your aid, fallen ones."
+acot_final_sparks.306.a.tooltip: "The friendly mutants will stay as permanent defense forces. But we don't know whether they'll keep their sanity till the end."
+acot_final_sparks.306.b: "They are tainted. Purge them!"
+acot_final_sparks.306.b.tooltip: "There's no telling how long before they succumb, or turn on us after learning our secrets. We should finish them off before that happens. Only the pure and untainted should rule §Y[fromfrom.GetName]§!."
+
+acot_final_sparks.307.name: "Enraged Lifeforms"
+acot_final_sparks.307.desc.a: "§E"We will not go quietly into the Void! This place is our home as much as it is yours!"§!\n\nThe once friendly Allied Lifeforms have turned against us in response to our attempts to dismiss them out from our bastion!"
+acot_final_sparks.307.a: "Traitorous curs! Kill them all!"
+
+acot_final_sparks.308.name: "Warning Signs"
+acot_final_sparks.308.desc.a: "The Void Lifeform's leader brings a dire news to us.\n\n§E"I fear that time is running out for my people. Earlier this week, one more have succumbed to madness and had to be put down. We will fight the affliction to the last, but know that our corruption is...inevitable. All that we ask is that we be allowed to resist it till the end. We do not wish to be put down like rodents while our minds are still clear."§!\n\nIt looks like from now on, we'll have to be careful with our new old friends. Their determination is commendable, but their refusal to do what needs to be done is certainly a problem."
+acot_final_sparks.308.a: "We will honor their requests."
+acot_final_sparks.308.a.tooltip: "The friendly mutants will gradually turn hostile over time, and may draw in additional enemies. Dismissing them will also cause them to turn hostile. If the leader exists, they'll always be the last to fall."
+acot_final_sparks.308.b: "You're too much trouble. Better get rid of you know."
+
+acot_final_sparks.309.name: "Succumbing To Madness"
+acot_final_sparks.309.desc.a: "Some of the allied lifeforms have unfortunately succumbed to the madness and are now turning hostile. The resulting chaos also triggered more hostile lifeforms from outside to attack as well."
+acot_final_sparks.309.a: "We do what must be done!"
+
+acot_final_sparks.900.name: "Enigmalith Operational"
+acot_final_sparks.900.desc: "Thanks to our recent breakthroughs, we are now able to reactivate all previously dormant Enigmaliths!"
+acot_final_sparks.900.a: "Superb!"
+
+acot_final_sparks.901.name: "Citadel Operational"
+acot_final_sparks.901.desc: "Thanks to our recent breakthroughs, we are now able to reactivate the Precursor Citadel. Or we can safety dismantle it to reclaim most of the resources. Our familiarity with its design also allow us to re-draft its design in the future."
+acot_final_sparks.901.a: "Activate it"
+acot_final_sparks.901.b: "Scrap it"
+
+acot_final_sparks.4.name: "Ancient Bunker"
+acot_final_sparks.4.desc: "We have cleared the path and secure the entrace of one of our ancient bunkers. We can simply trigger the self-destruct mechanism since we still hold the authorization codes, or attempt to open them."
+acot_final_sparks.4.a: "Open the bunker. Let's see what's inside."
+acot_final_sparks.4.a.tooltip: "It has been hundreds of years...we do not know what's really inside."
+acot_final_sparks.4.b: "We just need the path cleared. Blow this place up."
+acot_final_sparks.4.b.tooltip: "Perhaps a bit wasteful, but it'll get rid of loose ends and blockers."
+
+acot_final_sparks.400.name: "General Stockpile"
+acot_final_sparks.400.desc: "It looks like this bunker was used to store general resources like minerals, energy and alloys. Only a few remain in usable conditions, however. Still, they will be quite useful to have in our struggle."
+acot_final_sparks.400.a: "We'll put them to good use."
+
+acot_final_sparks.401.name: "Living Stockpile"
+acot_final_sparks.401.desc.a: "It looks like this bunker was used to store living resources for our people like food and consumer goods. Only a few remain in usable conditions, however. Still, they will be quite useful to have in our struggle."
+acot_final_sparks.401.desc.b: "It looks like this bunker was used to store our food stockpiles for our people . Only a few remain in usable conditions, however. Still, they will be quite useful to have in our struggle."
+acot_final_sparks.401.a: "Finally some good food and stuffs!"
+
+acot_final_sparks.402.name: "Suspended Survivors"
+acot_final_sparks.402.desc: "This bunker holds some stasis pods for our soldiers and population. However, the systems are in poor condition and we can only free one of them. Who shall we free?"
+acot_final_sparks.402.a: "We need more soldiers."
+acot_final_sparks.402.a.tooltip: "10 alpha-tier infantry-type armies and 5 special forces will be added."
+acot_final_sparks.402.b: "We need more people."
+
+acot_final_sparks.403.name: "Hostiles!"
+acot_final_sparks.403.desc: "The denizens of this bunker have all succumbed to the affliction of this world! They're now pouring in to attack our bastion!"
+acot_final_sparks.403.a: "Defend yourselves!"
+
+acot_final_sparks.404.name: "Mothballed Ships"
+acot_final_sparks.404.desc: "This bunker contains some mothballed ships, their designs unmistakably Ancient Precursor-based. They must have been sent here for repairs and maintenances and never got released back into the fight. Only two Escorts and one Battlecruiser remains in operational condition, however."
+acot_final_sparks.404.a: "We can make use of them now."
+acot_final_sparks.404.b: "Scrap them for resources."
+
+acot_final_sparks.405.name: "Preserved Leader"
+acot_final_sparks.405.desc: "This bunker contains stasis pods of selected leaders, likely from the time before the empire's fall. But the pods are badly damaged.\n\nUnfortunately, the pods are all in bad shape and running on sleep mode. It is possible to release one of them by diverting all powers from the rest, which will naturally kill them. Who shall we choose?"
+acot_final_sparks.405.a: "The Admiral"
+acot_final_sparks.405.b: "The Scholar"
+acot_final_sparks.405.c: "The Advisor"
+
+acot_sophia_dating_sim.1.name: "Randon Encounter"
+acot_sophia_dating_sim.1.desc: "A wild random SOPHIA just emerged. What should we do?"
+acot_sophia_dating_sim.1.a: "Claim for the Empire"
+acot_sophia_dating_sim.1.b: "Eat"
+acot_sophia_dating_sim.1.c: "Sweep down the sewer"
+acot_sophia_dating_sim.1.d: "Talk to Manager"
+acot_sophia_dating_sim.1.e: "Explodes"
+acot_sophia_dating_sim.1.e.tooltip: "Will destroy our empire."
+acot_sophia_dating_sim.1.f: "Greetings!"
+acot_sophia_dating_sim.1.g: "Blame Wymorlon"

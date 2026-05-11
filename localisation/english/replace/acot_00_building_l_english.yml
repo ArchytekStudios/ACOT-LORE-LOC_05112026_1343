@@ -266,10 +266,10 @@ tech_acot_ae_psi_altar_desc: "A rogue sect of Curators, known as the Alarak Cult
 ############################# MACHINA #############################
  
 building_acot_dm_machine_dome: "Personality Uplink"
-building_acot_dm_machine_dome_desc: "Specialized personality-data matrix that provides the planets with useful upgrades as well as supporting drones. The Uplink amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 50 pop, efficiency is increased by 5% up to 25% at 200 pop."
+building_acot_dm_machine_dome_desc: "Specialized personality-data matrix that provides the planets with useful upgrades as well as supporting drones. The Uplink amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 5000 pop, efficiency is increased by 5% up to 25% at 20000 pop."
  
 building_acot_ae_machine_dome: "Infinity Core"
-building_acot_ae_machine_dome_desc: "A joint effort by Cortex Unit of the Curator to create a better future for the machines. The Infinity Core represents the infinite consensus of the Machine God. The Core amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 25 pop, efficiency is increased by 5% up to 50% at 200 pop."
+building_acot_ae_machine_dome_desc: "A joint effort by Cortex Unit of the Curator to create a better future for the machines. The Infinity Core represents the infinite consensus of the Machine God. The Core amplies both complex and simple drones's production efficiencies based on the planet's population.\n\n§YFor every 2500 pop, efficiency is increased by 5% up to 50% at 20000 pop."
  
 tech_acot_dm_machine_dome: "Personality Module"
 tech_acot_dm_machine_dome_desc: "Based on the study of ancient machines, a specialized preservation of certain personality modules of various individuals, both organic and synthetic can be preserved and installed upon selected groups of machine units. The result is a noticeable net increase in productivity of these "personified" units without creating a rift in the Consensus's Unity as a whole. This technology should be replicated or adapted for our own use."
@@ -590,11 +590,7 @@ acot_giga_fortress_desc: "Deployed Giga Fortress"
 SHIP_GRAPHICS_ACOT_GIGA_FORTRESS_ESC: "Deployed Giga Fortress are massive defense stations that could be deployed from planetary surface to defend against enemy attacks before landing back to continue on their planet-side missions."
 
 ACOT_GIGAFORTRESS_CORE_SECTION: "Giga Fortress Core"
-ACOT_GIGAFORTRESS_T_SECTION: "Giga Fortress Titan Wing"
-ACOT_GIGAFORTRESS_XL_SECTION: "Giga Fortress Siege Wing"
-ACOT_GIGAFORTRESS_LARGE_SECTION: "Giga Fortress Artillery Wing"
-ACOT_GIGAFORTRESS_HANGAR_SECTION: "Giga Fortress Hangar Wing"
-ACOT_GIGAFORTRESS_MEDIUM_SECTION: "Giga Fortress Guardian Wing"
+ACOT_GIGAFORTRESS_OBELISK_SECTION: "Giga Fortress Obelisk Core"
 
 building_acot_ruined_giga_fortress: "Ruined Bastion"
 building_acot_ruined_giga_fortress_desc: "Once stood as the invincible wall against our enemies, this ruined fortress has become the last place for which our people can find safety. Thus have we turned into into a makeshift hub to survive."
@@ -677,7 +673,20 @@ tech_acot_dm_hive_depot_desc: "Through the application of Dark Energy, the Hive 
 tech_acot_ae_hive_depot: "Heart of the Swarm"
 tech_acot_ae_hive_depot_desc: "Once the self can feel the Swarm, but now the Self will be the Swarm. Adapt, Evolve, Conquer. The Swarm will not fail."
  
+#############################
+
+building_acot_dm_resource_silo: "Delta Resource Silo"
+building_acot_dm_resource_silo_desc: "Silos needed. Build more to increase our resource stockpile, commander."
  
+building_acot_ae_resource_silo: "Alpha Resource Silo"
+building_acot_ae_resource_silo_desc: "Still, you must construct additional silos. That must be placed on the silo cluster. Not enough silo. Insufficient silo. New silo launch detected. Our silos have engaged the resources."
+ 
+tech_acot_dm_resource_silo: "Expanded Storage"
+tech_acot_dm_resource_silo_desc: "With increasing supply comes with the ever increasing demands. Many architects are already eager to make necessary changes to increase our resource stockpile."
+ 
+tech_acot_ae_resource_silo: "Dimensional Storage"
+tech_acot_ae_resource_silo_desc: "Toying with basic pocket dimensional creation allows us to make use of more storage space without increasing their physical sizes."
+
 ######################## STELLARITE ########################
  
 building_acot_stellarite_generator: "Stellarite Generator"
@@ -699,7 +708,7 @@ tech_acot_stellarite_generator_ae_desc: "Insights into the nature of Stellarite 
  
 tech_acot_stellarite_mastery: "Hand of Sigma"
 tech_acot_stellarite_mastery_desc: "It is time to play our own hands into stellarite generations. Through knowledge and experience, we'll design safety measures that will allow highly-trained professionals to directly harvest and contain raw stellarite."
-tech_acot_stellarite_mastery_tooltip: "Enables Stellarite Generators to provide a Stellar Harvester job."  
+tech_acot_stellarite_mastery_tooltip: "§YUnlocks Building Upgrades:§! Enables Stellarite Generators to provide a Stellar Harvester job."  
 
 ######################## PRECURSOR BUILDING ########################
  
@@ -821,15 +830,28 @@ tech_fe_betharian_desc: "Betharian stones seem to have a peculiar reaction to Da
 tech_fe_habitats: "The Stars Our Home"
 tech_fe_habitats_desc: "It is time we bring our enigmatic engineerings to our habitat buildings! With our advanced technology, we will eliminate any weaknesses presented within our space stations. We shall make home from wherever we tread."
 
-sm_acot_spaceport_module_advanced_batteries: "Advanced Batteries Module"
+sm_acot_spaceport_module_shipyard: "§EEnigmatic Shipyard§!"
+sm_acot_spaceport_module_shipyard_desc: "More powerful modules equipped with additional shipyard builders."
+sm_acot_spaceport_module_hatchery: "§EEnigmatic Hatchery§!"
+sm_acot_spaceport_module_hatchery_desc: "More powerful modules to spawn more creepy stuffs that gets people ask why not just use normal ships."
+sm_acot_spaceport_module_beastport: "§EEnigmatic Beastport§!"
+sm_acot_spaceport_module_beastport_desc: "More powerful modules equipped with more efficient whips, salts and burgers to make the beasts both tryhard harder and more competitive and vibes."
+
+sm_acot_spaceport_module_advanced_batteries: "§EEnigmatic Gun Battery§!"
 sm_acot_spaceport_module_advanced_batteries_desc: "More powerful modules equipped with four Medium weapon sections and superior fortification. Can be upgraded to provide detection with a proper starbase building."
  
-sm_acot_spaceport_module_advanced_artilleries: "Advanced Artilleries Module"
+sm_acot_spaceport_module_advanced_artilleries: "§EEnigmatic Artillery Platform§!"
 sm_acot_spaceport_module_advanced_artilleries_desc: "More powerful modules equipped with two Large weapon sections and superior fortification. Can be upgraded to provide detection with a proper starbase building."
 
-sm_acot_spaceport_module_advanced_detector: "Advanced Detection Module"
+sm_acot_spaceport_module_advanced_detector: "§EEnigmatic Detection Array§!"
 sm_acot_spaceport_module_advanced_detector_desc: "Stronger, and more expensive variant of the standard detection module with much better detection capabilities, as well as providing extra durability to the starbase."
 
-sm_acot_starbase_detection_amplifier: "Advanced Linked-Detection System"
+sm_acot_starbase_detection_amplifier: "§EEnigmatic Linked-Detection System§!"
 sm_acot_starbase_detection_amplifier_desc: "Adds detection to starbases, and provides detection to Advanced Weapons Module."
 sm_acot_starbase_detection_amplifier_tooltip: "§YAdds +1 detection to all Advanced Weapons Module.§!"
+
+sm_acot_starbase_dm_refine: "§EDark Matter Generator§!"
+sm_acot_starbase_dm_refine_desc: "Specialized Starbase Module that can generate dark matter. Performs better in proximity to a black hole. Advancements in technologies will increase its yielding."
+ 
+sm_acot_starbase_de_pylon: "§EDark Energy Pylon§!"
+sm_acot_starbase_de_pylon_desc: "Specialized Starbase Module that can generate dark energy. Performs better in proximity to a black hole. Advancements in technologies will increase its yielding."

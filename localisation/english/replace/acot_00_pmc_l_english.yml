@@ -1,7 +1,43 @@
 ﻿l_english:
  
+FLAG_CATEGORY_phanon: "Phanon"
+
 PHANON: "Phanon Corps"
- 
+PHANON_desc: "A bunch of AI-generated trash yohohoho lol wtf bbq."
+PHANON_plural: "Phanon"
+PHANON_insult_01: "noob"
+PHANON_insult_plural_01: "noob"
+PHANON_insult_02: "internet troll"
+PHANON_insult_plural_02: "internet trolls"
+PHANON_insult_03: "memelord"
+PHANON_insult_plural_03: "memelords"
+PHANON_insult_04: "gooner bait"
+PHANON_insult_plural_04: "gooner baits"
+PHANON_compliment_01: "boob"
+PHANON_compliment_plural_01: "boobs"
+PHANON_spawn: "gremlin"
+PHANON_spawn_plural: "gremlins"
+PHANON_sound_01: "bruh"
+PHANON_sound_02: "wah"
+PHANON_sound_03: "yah"
+PHANON_sound_04: "eheh"
+PHANON_sound_05: "meow"
+PHANON_organ: "CPU"
+PHANON_organ_plural: "CPUs"
+PHANON_mouth: "mic"
+PHANON_ear: "speaker"
+PHANON_ear_plural: "speakers"
+PHANON_hand: "gun"
+PHANON_hand_plural: "guns"
+PHANON_tooth: "nommer"
+PHANON_tooth_plural: "nommers"
+PHANON_fossil: "hentai"
+PHANON_fossil_plural: "hentais"
+PHANON_remnant: "spooky"
+PHANON_remnant_plural: "spookys" 
+
+########################
+
 acot_pmc_shipset_desc: "Powerful and intimidating, these white-black vessels showcase its maker's indomitable will and power. The will to make their names to the stars and beyond."
 
 sm_acot_sb_phanon_assembly: "Phanon Logic Algorithm Declassifer"
@@ -43,7 +79,7 @@ pc_acot_pmc_data_planet_desc: "Digitalized planet that stores massive amounts of
  
 pc_acot_pmc_storage_planet: "Phanon Storage Unit"
 pc_acot_pmc_storage_planet_adj: "Phanon Storage Unit"
-pc_acot_pmc_storage_planet_desc: "Fully mechanized planet that is used as a massive resource stockpile for Phanon's future plans."
+pc_acot_pmc_storage_planet_desc: "Fully mechanized planet that is used as a massive resource generator for Phanon's future plans."
  
 mod_pc_acot_pmc_vault_habitability: "Phanon Habitability"
 trait_pc_acot_pmc_vault_preference: "I like this one"
@@ -163,11 +199,13 @@ tech_phanon_titan_desc: "Star Dominators and Decimators are both classified as C
 ####################
  
 acot_star_dominator_2: "Star Dominator II"
-acot_star_dominator_2_plural: "One Does Not Simply Add Plural To A Star Dominator II"
+acot_star_dominator_2_plural: "Star Dominator IIs"
 acot_star_dominator_2_cap: "Star Dominator II"
-acot_star_dominator_2_cap_plural: "One Does Not Simply Add Plural To A Star Dominator II"
+acot_star_dominator_2_cap_plural: "Star Dominator IIs"
  
+ACOT_MEGANOUGHT_YAMATO_1: "PHANON COOKER"
 ACOT_MEGANOUGHT_SPINAL_1: "PHANON COOKER"
+ACOT_MEGANOUGHT_SPINAL_2: "PHANON COOKER"
 ACOT_MEGANOUGHT_HAMMER_1: "PHANON COOKER"
 ACOT_MEGANOUGHT_HAMMER_2: "PHANON COOKER"
 ACOT_MEGANOUGHT_TUBE_A1: "PHANON COOKER"
@@ -191,6 +229,7 @@ acot_star_annihilator_plural: "Star Annihilators"
 acot_star_annihilator_cap: "Star Annihilator"
 acot_star_annihilator_cap_plural: "Star Annihilators"
  
+ACOT_ANNIHILATOR_YAMATO_1: "PHANON COOKER"
 ACOT_ANNIHILATOR_SPINAL: "PHANON COOKER"
 ACOT_ANNIHILATOR_HAMMER: "PHANON COOKER"
 ACOT_ANNIHILATOR_WING: "PHANON COOKER"
@@ -200,39 +239,40 @@ ACOT_ANNIHILATOR_STERN: "PHANON COOKER"
 ACOT_ANNIHILATOR_NOUGHT: "PHANON COOKER"
  
 tech_phanon_mothership: "Corps Flag Ship Access Code"
-tech_phanon_mothership_desc: "Initially only the Annihilator counts as a Flagship for the Corps. The Dominator II has only been recently elevated to be a more economical alternative for Agents that wish to spend less budgets. Both ships are the largest traditional military ships an agent is cleared to deploy in a level-2 galaxy."
+tech_phanon_mothership_desc: "Initially only the Annihilator counts as a Flagship for the Corps, and an Agent may only possess one of them. To further compound the issues, Annihilators cannot be built manually on a local galaxy, and had to be requisitioned from the Corps Domain. Due to this limitation, many agents have chosen to adopt the Dominator IIs to be their chosen mainline flagships instead, as it can be built on-site.\n\nBoth ships are the largest traditional military ships an agent is cleared to deploy in a level-2 galaxy."
+#tech_phanon_mothership_desc: "Initially only the Annihilator counts as a Flagship for the Corps. The Dominator II has only been recently elevated to be a more economical alternative for Agents that wish to spend less budgets. Both ships are the largest traditional military ships an agent is cleared to deploy in a level-2 galaxy."
 
 ####################
  
-acot_star_overwatcher: "Star Overwatch"
-acot_star_overwatcher_plural: "Star Overwatchs"
-acot_star_overwatcher_cap: "Star Overwatch"
-acot_star_overwatcher_cap_plural: "Star Overwatchs"
+acot_pmc_platform_large: "Star Overwatch"
+acot_pmc_platform_large_plural: "Star Overwatchs"
+acot_pmc_platform_large_cap: "Star Overwatch"
+acot_pmc_platform_large_cap_plural: "Star Overwatchs"
  
 ACOT_OVERWATCH_HUB: "PHANON COOKER"
 ACOT_OVERWATCH_MID: "PHANON COOKER"
 ACOT_OVERWATCH_HAMMER: "PHANON COOKER"
  
-acot_star_overseer: "Star Overseer"
-acot_star_overseer_plural: "Star Overseers"
-acot_star_overseer_cap: "Star Overseer"
-acot_star_overseer_cap_plural: "Star Overseers"
+acot_pmc_platform_small: "Star Overseer"
+acot_pmc_platform_small_plural: "Star Overseers"
+acot_pmc_platform_small_cap: "Star Overseer"
+acot_pmc_platform_small_cap_plural: "Star Overseers"
  
 ACOT_OVERSEER_HUB: "PHANON COOKER"
 ACOT_OVERSEER_MID: "PHANON COOKER"
 ACOT_OVERSEER_EXTENSION: "PHANON COOKER"
  
-acot_star_commander: "Phanon Orbital Command"
-acot_star_commander_plural: "Phanon Orbital Command"
-acot_star_commander_cap: "Phanon Orbital Command"
-acot_star_commander_cap_plural: "Phanon Orbital Command"
+acot_pmc_starbase: "Phanon Orbital Command"
+acot_pmc_starbase_plural: "Phanon Orbital Command"
+acot_pmc_starbase_cap: "Phanon Orbital Command"
+acot_pmc_starbase_cap_plural: "Phanon Orbital Command"
   
 ACOT_COMMANDER_HUB: "PHANON COOKER"
  
-acot_star_commander_portal: "Phanon Orbital Gateway"
-acot_star_commander_portal_plural: "Phanon Orbital Gateway"
-acot_star_commander_portal_cap: "Phanon Orbital Gateway"
-acot_star_commander_portal_cap_plural: "Phanon Orbital Gateway"
+acot_pmc_starbase_portal: "Phanon Orbital Gateway"
+acot_pmc_starbase_portal_plural: "Phanon Orbital Gateway"
+acot_pmc_starbase_portal_cap: "Phanon Orbital Gateway"
+acot_pmc_starbase_portal_cap_plural: "Phanon Orbital Gateway"
 
 acot_pmc_small_portal: "Phanon Small Wormhole"
 acot_pmc_small_portal_plural: "Phanon Small Wormholes"
@@ -568,11 +608,13 @@ tech_xl_missile_re_desc: "It appears that these missiles are guided by some kind
 ############
 ACOT_MISSILE_NUKE_PE: "Phi Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_PE_DESC: "Our early attempts to mimic Phanon's missiles. They are faster and stronger than what we had in Alpha. We cannot replicate the mixtures used by the Corps, so we compensated with what we have at hand."
+acot_titan_missile_pe_tt: "Deals §Y8,995 - 14,719§! damage to all hostile ships within §E100§! range of the target, excluding the target itself."
 tech_missile_nuke_pe: "Phi Giga-Warhead Launcher"
 tech_missile_nuke_pe_desc: "Our early attempts to mimic Phanon's missiles. They are faster and stronger than what we had in Alpha. We cannot replicate the mixtures used by the Corps, so we compensated with what we have at hand."
 
 ACOT_MISSILE_NUKE_RE: "Runic Giga-Warhead Launcher"
 ACOT_MISSILE_NUKE_RE_DESC: "It appears that these missiles are guided by some kind of psionic systems, one that doesn't need psionic knowledge of the user. Understanding this fact allows us to make further adjustments to make the explosive mix itself more potent."
+acot_titan_missile_re_tt: "Deals §Y12,593 - 20,606§! damage to all hostile ships within §E100§! range of the target, excluding the target itself."
 tech_missile_nuke_re: "Runic Giga-Warhead Launcher"
 tech_missile_nuke_re_desc: "It appears that these missiles are guided by some kind of psionic systems, one that doesn't need psionic knowledge of the user. Understanding this fact allows us to make further adjustments to make the explosive mix itself more potent."
 ############
@@ -651,31 +693,37 @@ tech_mass_accelerator_re_desc: "Runic Mass Accelerator"
 ############
 ACOT_PERDITION_BEAM_PE: "Phi Perdition Beam"
 ACOT_PERDITION_BEAM_PE_DESC: "Phi Perdition Beam"
+acot_perdition_pe_tt: "Deals §Y1185 - 2,360§! damage to all hostile ships within §E45§! range of the target."
 tech_perdition_beam_pe: "Phi Perdition Beam"
 tech_perdition_beam_pe_desc: "Phi Perdition Beam"
 
 ACOT_PERDITION_BEAM_RE: "Runic Beam"
 ACOT_PERDITION_BEAM_RE_DESC: "Runic Beam"
+acot_perdition_re_tt: "Deals §Y1,660 - 3,310§! damage to all hostile ships within §E45§! range of the target."
 tech_perdition_beam_re: "Runic Beam"
 tech_perdition_beam_re_desc: "Runic Beam"
 ############
 ACOT_TITAN_EMITTER_PE: "Phi Titan Emitter"
 ACOT_TITAN_EMITTER_PE_DESC: "Phi Titan Emitter"
+acot_titan_emitter_pe_tt: "Deals §Y9,812§! damage to §Y5§! additional hostile ships within §E50§! range of the target. Can stack on the same target for extra damage."
 tech_titan_emitter_pe: "Phi Titan Emitter"
 tech_titan_emitter_pe_desc: "Phi Titan Emitter"
 
 ACOT_TITAN_EMITTER_RE: "Runic Titan Emitter"
 ACOT_TITAN_EMITTER_RE_DESC: "Runic Titan Emitter"
+acot_titan_emitter_re_tt: "Deals §Y13,737§! damage to §Y5§! additional hostile ships within §E50§! range of the target. Can stack on the same target for extra damage."
 tech_titan_emitter_re: "Runic Titan Emitter"
 tech_titan_emitter_re_desc: "Runic Titan Emitter"
 ############
 ACOT_TITAN_ACCELERATOR_PE: "Titan Phi Accelerator Cannon"
 ACOT_TITAN_ACCELERATOR_PE_DESC: "Titan Phi Accelerator Cannon"
+acot_titan_accelerator_pe_tt: "Deals §Y15,373 - 22,486§! damage to all hostile ships within §E10§! range of the target, excluding the target itself."
 tech_titan_accelerator_pe: "Titan Phi Accelerator Cannon"
 tech_titan_accelerator_pe_desc: "Titan Phi Accelerator Cannon"
 
 ACOT_TITAN_ACCELERATOR_RE: "Titan Runic Accelerator Cannon"
 ACOT_TITAN_ACCELERATOR_RE_DESC: "Titan Runic Accelerator Cannon"
+acot_titan_accelerator_re_tt: "Deals §Y21,522 - 31,481§! damage to all hostile ships within §E10§! range of the target, excluding the target itself."
 tech_titan_accelerator_re: "Titan Runic Accelerator Cannon"
 tech_titan_accelerator_re_desc: "Titan Runic Accelerator Cannon"
  
@@ -685,12 +733,15 @@ ACOT_PMC_YAMATO_CANNON: "Yamato Cannon"
 ACOT_PMC_YAMATO_CANNON_DESC: "Yamato Cannon"
 tech_pmc_yamato_cannon: "Yamato Cannon"
 tech_pmc_yamato_cannon_desc: "Yamato Cannon"
+
+acot_yamato_debuff: "Yamato's Curse"
+acot_yamato_debuff_desc: "Crippled"
  
 ACOT_PHANON_DECIMATOR_CANNON: "Ignem Aeternum"
 ACOT_PHANON_DECIMATOR_CANNON_DESC: "Ignem Aeternum"
 ACOT_PHANON_DECIMATOR_CANNON_RESIZED: "Ignem Aeternum"
 ACOT_PHANON_DECIMATOR_CANNON_RESIZED_DESC: "Ignem Aeternum"
-acot_decimator_weapon_tt: "Deals §Y50,000 - 10,0000§! hull damage to all ships within the same fleet as the target."
+acot_decimator_weapon_tt: "Deals §Y50,000 - 10,0000§! damage to all hostile ships within §E100§! range of the target."
 tech_pmc_decimator_beam: "Ignem Aeternum"
 tech_pmc_decimator_beam_desc: "Ignem Aeternum"
  
@@ -858,9 +909,9 @@ TECH_UNLOCK_ENIG_DRIVE_PE: "§HUnlocks Component:§! Phi Translocator Drive"
 TECH_UNLOCK_ENIG_DRIVE_PE_DESC: "Phi Translocator Drive\n$ENIGMATIC_DRIVE_PE_DESC$"
 
 ACOT_ENIGMATIC_DRIVE_RE: "Runic Translocator"
-ACOT_ENIGMATIC_DRIVE_RE_DESC: "With the understanding of how our older versions of Translocator devices work, we're able to make this improved version that mimics the ones we seen employed by the Phanon Corps, by applying just the right level of Dark Matter, Dark Energy and of course alloys, We're capable of making Translocator that can out perform even our Alpha Varient."
+ACOT_ENIGMATIC_DRIVE_RE_DESC: "Runic Translocator"
 tech_enigmatic_drive_re: "Runic Translocator"
-tech_enigmatic_drive_re_desc: "With the Research put fourth so far into trying to understand the inner workings behind their Runic Translocator we do beilive we have come up with a way to simulate our own attempt at making something close, It will be costly but worth it for the boost it shall give our fleets."
+tech_enigmatic_drive_re_desc: "Runic Translocator"
 TECH_UNLOCK_ENIG_DRIVE_RE: "§HUnlocks Component:§! Runic Translocator Drive"
 TECH_UNLOCK_ENIG_DRIVE_RE_DESC: "§HRunic Translocator Drive§!\n$ENIGMATIC_DRIVE_RE_DESC$"
 
@@ -954,6 +1005,8 @@ BATTLESHIP_DARK_MATTER_REACTOR_PE: "Phi Reactor"
 BATTLESHIP_DARK_MATTER_REACTOR_PE_DESC: "Phi Reactor"
 TITAN_DARK_MATTER_REACTOR_PE: "Phi Reactor"
 TITAN_DARK_MATTER_REACTOR_PE_DESC: "Phi Reactor"
+JUGGERNAUT_DARK_MATTER_REACTOR_PE: "Phi Reactor"
+JUGGERNAUT_DARK_MATTER_REACTOR_PE_DESC: "Phi Reactor."
 COLOSSUS_DARK_MATTER_REACTOR_PE: "Phi Reactor"
 COLOSSUS_DARK_MATTER_REACTOR_PE_DESC: "Phi Reactor"
 PLATFORM_DARK_MATTER_REACTOR_PE: "Phi Reactor"
@@ -977,6 +1030,8 @@ BATTLESHIP_DARK_MATTER_REACTOR_RE: "Runic Reactor"
 BATTLESHIP_DARK_MATTER_REACTOR_RE_DESC: "Runic Reactor"
 TITAN_DARK_MATTER_REACTOR_RE: "Runic Reactor"
 TITAN_DARK_MATTER_REACTOR_RE_DESC: "Runic Reactor"
+JUGGERNAUT_DARK_MATTER_REACTOR_RE: "Runic Reactor"
+JUGGERNAUT_DARK_MATTER_REACTOR_RE_DESC: "Runic Reactor."
 COLOSSUS_DARK_MATTER_REACTOR_RE: "Runic Reactor"
 COLOSSUS_DARK_MATTER_REACTOR_RE_DESC: "Runic Reactor"
 PLATFORM_DARK_MATTER_REACTOR_RE: "Runic Reactor"
@@ -987,7 +1042,7 @@ STARBASE_DARK_MATTER_REACTOR_RE: "Runic Reactor"
 STARBASE_DARK_MATTER_REACTOR_RE_DESC: "Runic Reactor"
 tech_dark_matter_power_core_re: "Runic Reactor"
 tech_dark_matter_power_core_re_desc: "Based on the records found within the Corp's computers, we learn that the power they wielded are called Runic. It seems to have some connection with psionic powers. But we know very little beyond that, and what we can make is simply a duplicated design that mimics the origin's performance as best as it can."
-TECH_UNLOCK_DARK_MATTER_POWER_RE_TITLE: "Unlocks Phanon Runic Technologies."
+TECH_UNLOCK_DARK_MATTER_POWER_RE_TITLE: " Unlocks Phanon Runic Technologies."
 TECH_UNLOCK_DARK_MATTER_POWER_RE_DESC: "Runic Tier is a mimicry of what the Corps use. In terms of performance, it is identical to what the Corps are shown using, but we still understand very little."
 
 ############
@@ -1158,32 +1213,35 @@ acot_phanon_master_reactor_sphere_DESC: "Massive Spacecraft that appears to hous
  
 #### PHANOROS DISTRUCTUS ######
  
-district_acot_phanon_command: "Phanon Vault A-Zone Module"
-district_acot_phanon_command_plural: "Phanon Vault A-Zone Module"
-district_acot_phanon_command_desc: "A-Zone Module seems to be the default configuration for the Vault's interiors. Sections built using this configuration provides ample materials, supplies and energy output at nigh unnoticable upkeep."
+district_acot_phanon_main: "Phanon Vault Primary Module"
+district_acot_phanon_main_plural: "Phanon Vault Primary Module"
+district_acot_phanon_main_desc: "Primary Module is the default configuration for the Vault's interiors, as they are meant to project the operations of a glactic PMC, it is filled with various trade hubs, living quarters, and various propaganda and patriotic campaign centers."
  
-district_acot_phanon_data: "Phanon Vault B-Zone Module"
-district_acot_phanon_data_plural: "Phanon Vault B-Zone Module"
-district_acot_phanon_data_desc: "It appears that this configuration transform this portion of the Vault into a living biodome. Despite the fact tha the Corps rely mostly on automation and thus has very little need for something like this, the zone is likely still included for the purpose of deception, since this seems to be where any interactions between the Corps and the Galaxy take places. It is clearly not meant to be used as the primary module due its high maintenance cost and size."
+district_acot_phanon_a: "Phanon Vault A-Zone Module"
+district_acot_phanon_a_plural: "Phanon Vault A-Zone Module"
+district_acot_phanon_a_desc: "The A-Zone Module appears to be built to handle industrial and resource complex, as it contains multiple types of matter generators that can create minerals, alloys, and engineering data."
+
+district_acot_phanon_b: "Phanon Vault B-Zone Module"
+district_acot_phanon_b_plural: "Phanon Vault B-Zone Module"
+district_acot_phanon_b_desc: "The B-Zone Module appears to be designed around the production of goods, amenities, and other general resources primarily for organics. These includes food, consumer goods, amenities and various societal and biological analysis data."
  
-district_acot_phanon_vault: "Phanon Vault C-Zone Module"
-district_acot_phanon_vault_plural: "Phanon Vault C-Zone Module"
-district_acot_phanon_vault_desc: "C-Zone Design looks to be a sort of security or defense module. Sections are reinforced with extra teleportation nodes as well as many automated defense systems."
+district_acot_phanon_c: "Phanon Vault C-Zone Module"
+district_acot_phanon_c_plural: "Phanon Vault C-Zone Module"
+district_acot_phanon_c_desc: "C-Zone Module looks like it is central to various AI and research development. It contains multiple physics manipulation data, massive energy grids, and is also used to host large amount of dutymen control networks."
  
 #### BUILDING DERU ######
  
-building_phanon_tower: "Phanon Command Headquarters"
-building_phanon_tower_desc: "Phanon Command Headquarters"
+building_acot_phanon_capital: "Phanon Command Headquarters"
+building_acot_phanon_capital_desc: "The Primary Hub of the Vault acting like a capital building. Despite the name, it actually has rather limited controls in terms of internal manipulation. Perhaps an elaborate design choice, since this building is located at the most outer edge of the Vault, making it a rather prime and easy target to attack and claim, relatively speaking."
  
-building_phanon_plant: "Phanon Runic Field"
-building_phanon_plant_desc: "Phanon Runic Fields"
+building_acot_phanon_singularity: "Phanon Runic Multi-Singularity"
+building_acot_phanon_singularity_desc: "This building appears to maintain stable dimensional field that creates Class-4, Class-3, and Class-8 singularities."
  
-building_phanon_vault: "Phanon Studium"
-building_phanon_vault_desc: "Phanon Studiums"
+building_acot_phanon_vault: "Phanon Vault of All-Seeing Eyes"
+building_acot_phanon_vault_desc: "Compared to other structures of Phanon Designs, this one seems to contain the most unique internal designs that leans heavily towards form over function. It is likely to be the place where the Agent spends time studying all there is to know about the cosmos, and all the things to be discovered in this little galaxy."
  
-building_phanon_lab: "Phanon Secret Ops"
-building_phanon_lab_desc: "Phanon Secret Ops"
- 
+building_acot_phanon_lab: "Phanon Meta-Labs"
+building_acot_phanon_lab_desc: "These labs do not rely on any personal, be it visible organic, mechanical or even dutymen to analyze and generate new data. But traces of psionic energies can be felt."
  
 acot_modifier_vault_delay: "Phanon Vault Lockdown"
 acot_modifier_vault_delay_desc: "We can only attempt a breach every now and then."
@@ -1218,9 +1276,19 @@ civic_acot_phanon_corps_desc: "Phanon Corps is a mysterious neutral party posses
 civic_acot_phanon_fleet: "Indomitable Fleet"
 civic_acot_phanon_fleet_desc: "Fleets of the Phanon Corps maintain a strict regulation that demands the best of the best performances."
  
+leader_trait_acot_dutyman_admiral: "Dutyman Commander-Admiral"
+leader_trait_acot_dutyman_admiral_desc: "This Dutyman is augmented to lead and coordinate attacks in space battles similar to admirals."
+
 leader_trait_acot_phanon_admiral: "Phanon Operative Type A"
 leader_trait_acot_phanon_admiral_desc: "Type A Operatives are geared towards space battles and leadership in combat."
  
+leader_trait_acot_dutyman_general: "Dutyman Commander-General"
+leader_trait_acot_dutyman_general_desc: "This Dutyman is augmented to lead and coordinate attacks on the ground similar to generals."
+
+leader_trait_acot_phanon_general: "Phanon Operative Type G"
+leader_trait_acot_phanon_general_desc: "Type G Operatives are geared towards ground battles and leadership in combat."
+ 
+
 name_list_Phanon: "Phanon"
 name_list_Phanon_desc: "Phanon Corps assign the names of its agents based on roles they serve.\n\nType C = Commander\nType A = Admiral\nType G = General\nType S = Scientist\nType M = Manager"
  
@@ -1446,12 +1514,12 @@ ACOT_PHI_PLATFORM_6G: "§CPhi Torpedo Section§!"
 ACOT_PHI_PLATFORM_3L: "§CPhi Artillery Section§!"
 ACOT_PHI_PLATFORM_3H: "§CPhi Hangar Section§!"
 
-ACOT_PHI_PLATFORM_LARGE_1L4M8S: "§CPhi Picket Section§!" 
+ACOT_PHI_PLATFORM_LARGE_2L4M8S: "§CPhi Picket Section§!" 
 ACOT_PHI_PLATFORM_LARGE_2L8M: "§CPhi Kumayaki Section§!" 
-ACOT_PHI_PLATFORM_LARGE_2L4G4M: "§CPhi Torpedo Section§!" 
-ACOT_PHI_PLATFORM_LARGE_6L: "§CPhi Artillery Section§!" 
+ACOT_PHI_PLATFORM_LARGE_2L8G: "§CPhi Torpedo Section§!" 
+ACOT_PHI_PLATFORM_LARGE_8L: "§CPhi Artillery Section§!" 
 ACOT_PHI_PLATFORM_LARGE_6H: "§CPhi Hangar Section§!" 
-ACOT_PHI_PLATFORM_LARGE_4XL: "§CPhi Siege Defender Section§!" 
+ACOT_PHI_PLATFORM_LARGE_3XL: "§CPhi Siege Defender Section§!" 
 
 #######################
 

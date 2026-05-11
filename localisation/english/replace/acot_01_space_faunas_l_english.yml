@@ -1,6 +1,18 @@
 ﻿
 l_english:
 
+mod_shipsize_acot_mauler_stage_4_hull_mult: "Primal Mauler Hull Points"
+mod_shipsize_acot_weaver_stage_4_hull_mult: "Primal Weaver Hull Points"
+mod_shipsize_acot_harbinger_stage_4_hull_mult: "Primal Harbinger Hull Points"
+mod_shipsize_acot_stinger_stage_4_hull_mult: "Primal Stinger Hull Points"
+mod_shipsize_acot_bio_titan_stage_4_hull_mult: "Primal Conqueror Hull Points"
+
+mod_shipsize_acot_mauler_stage_5_hull_mult: "Ascendant Mauler Hull Points"
+mod_shipsize_acot_weaver_stage_5_hull_mult: "Ascendant Weaver Hull Points"
+mod_shipsize_acot_harbinger_stage_5_hull_mult: "Ascendant Harbinger Hull Points"
+mod_shipsize_acot_stinger_stage_5_hull_mult: "Ascendant Stinger Hull Points"
+mod_shipsize_acot_bio_titan_stage_5_hull_mult: "Ascendant Conqueror Hull Points"
+
 ftl_components_bio: "Bio FTL"
 
 tech_acot_fauna_mutations_enig: "Advanced Tech-Integrated Mutation"
@@ -158,8 +170,18 @@ tech_acot_bio_mandible_dm_desc: "It is time we turn away from the mundane concep
 
 ACOT_MANDIBLE_AE: "Alpha Primal Mandibles"
 ACOT_MANDIBLE_AE_DESC: "Primal Mandibles don't simply rely on brute physical force, but also strange dimensional powers to rip and tear their enemies."
-tech_acot_bio_mandible_ae: "Alpha Primal Mandibles"
+tech_acot_bio_mandible_ae: "Alpha Primal Mandibles."
 tech_acot_bio_mandible_ae_desc: "Rip and Tear!"
+
+ACOT_MANDIBLE_PE: "Neophyte Ascendant Mandibles"
+ACOT_MANDIBLE_PE_DESC: "These ancient blades, despite their young and unassuming looks, appears to be even deadlier than even those used by the primals. The exact science and properties behind this is not yet fully understood."
+tech_acot_bio_mandible_pe: "Neophyte Ascendant Mandibles"
+tech_acot_bio_mandible_pe_desc: "We lack the required genetics to form real bladed mandibles of ancient beasts, the Xharoninan archives we studied have enabled us to create one that mimics the properites of their newborns which appears to still pack qutie some serious deadliness."
+
+ACOT_MANDIBLE_RE: "True Ascendant Mandibles"
+ACOT_MANDIBLE_RE_DESC: "These ancient mandibles mimic many of the bladed jaws and biosteel blades that existed in the Xharonian archives. Not even dimensional defenses can hold out against their attacks for long, and their range far exceed normal limits."
+tech_acot_bio_mandible_re: "True Ascendant Mandibles"
+tech_acot_bio_mandible_re_desc: "These ancient mandibles mimic many of the bladed jaws and biosteel blades that existed in the Xharonian archives. Not even dimensional defenses can hold out against their attacks for long, and their range far exceed normal limits."
 
 ## HEALER
 
@@ -296,22 +318,20 @@ tech_acot_bio_ships_delta_short: "Unlocks Primal stage for all combat bio ships,
 tech_acot_bio_ships_alpha: "Alpha Biosynthesis"
 tech_acot_bio_ships_alpha_desc: "Through our greater understanding of dark energy and implementations of Alpha techs, we will be able to increase the survivability of our combat bio-ships without increasing the costs to maintain them."
 
-tech_acot_bio_ships_phi: "Phanon Rudimentary Ship Adaptation"
-tech_acot_bio_ships_phi_desc: "Despite our many attempts to understand the complexities and nature of the Phanon's advanced war machines, we are only able to grasp rudimentary understanding of how their ships operate. Nevertheless, what we gain is highly valuable, as the knowledge should enable us to make significant changes to our military ship designs."
-tech_acot_bio_ships_phi_short: "Unlocks new ship sections with higher defenses. These new sections cost extra alloys."
+tech_acot_bio_ships_phi: "Ascendant Awakening"
+tech_acot_bio_ships_phi_desc: "Digging into the archives of Phanon Corps have revealed that beyond our galaxy exists far greater power as well as organisms that eclipse even the deadliest beings that we know. And the so called "Xharon Dominion" have documented and made formulas for many of these creatures.\n\nWe cannot create them, but we can attempt to formulate the genetic codes and use them on our primal bio-ships, to awaken them to the stage far greater than they ever were."
 
-tech_acot_bio_ships_runic: "Runic Hard-Light Vessels"
-tech_acot_bio_ships_runic_desc: "Though we have unfortunately failed in our attempts to fully adapt the Phanon's ships into our base military designs, we manage to learn that the materials used to build the Corps's formidable ships are partially based off hard-light technology as well. With some modifications, we can use that knowledge to improve the durability of our military ships slightly without further increasing their costs."
+tech_acot_bio_ships_runic: "Runic Biosynthesis"
+tech_acot_bio_ships_runic_desc: "Further augmentations can be made to the Ascendant Form, now that we acquire even more samples from the Xharonian Archives."
 
-tech_acot_bio_ships_sigma: "Stellarforged Hard Light Vessels"
-tech_acot_bio_ships_sigma_desc: "The advent of Stellarite Energy allows us to drastically reduce the amount of power required to charge up and solidify the Hard-light materials, making the process of creating more durable and dense hulls much more efficient."
+tech_acot_bio_ships_sigma: "Sigma Biosynthesis"
+tech_acot_bio_ships_sigma_desc: "Though Stellarite technology as we have at the moment are not compatible with our bioships in terms of evolution, they can still be used to further improve their durabilities."
  
-
 ship_growth_stage_1: "Juvenile"
 ship_growth_stage_2: "Mature"
 ship_growth_stage_3: "Elder"
 ship_growth_stage_4: "§cPrimal§!"
-ship_growth_stage_5: "Ascendant"
+ship_growth_stage_5: "§RAscendant§!"
 
 ##########
 
@@ -335,9 +355,13 @@ ACOT_MAULER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
 ACOT_MAULER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
 ACOT_MAULER_STAGE_3_GROWTH_DM: "Primal Awakening Glands"
 ACOT_MAULER_STAGE_3_GROWTH_DM_DESC: "The ancient primal powers can only be awoken by this enigmatic mutations."
+ACOT_MAULER_STAGE_4_GROWTH_PE: "Ascendant Infusion"
+ACOT_MAULER_STAGE_4_GROWTH_PE_DESC: "The primordial force of the Ascendant Form, plugged from the archives of the Xharonian can only be awakened through this infusion system."
 
 ACOT_MAULER_STAGE_4_swarm: "§cPrimal (Swarm)§!"
 ACOT_MAULER_STAGE_4_picket: "§cPrimal (Picket)§!"
+ACOT_MAULER_STAGE_5_swarm: "§RAscendant (Swarm)§!"
+ACOT_MAULER_STAGE_5_picket: "§RAscendant (Picket)§!"
 
 acot_mauler_stage_4: "Primal Mauler"
 acot_mauler_stage_4_cap: "Primal Mauler"
@@ -369,9 +393,13 @@ ACOT_WEAVER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
 ACOT_WEAVER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
 ACOT_WEAVER_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
 ACOT_WEAVER_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+ACOT_WEAVER_STAGE_4_GROWTH_PE: "$ACOT_MAULER_STAGE_4_GROWTH_PE$"
+ACOT_WEAVER_STAGE_4_GROWTH_PE_DESC: "$ACOT_MAULER_STAGE_4_GROWTH_PE_DESC$"
 
 ACOT_WEAVER_STAGE_4_buffer: "§cPrimal (Support)§!"
 ACOT_WEAVER_STAGE_4_debuffer: "§cPrimal (Suppressor)§!"
+ACOT_WEAVER_STAGE_5_buffer: "§RAscendant (Support)§!"
+ACOT_WEAVER_STAGE_5_debuffer: "§RAscendant (Suppressor)§!"
 
 acot_weaver_stage_4: "Primal Weaver"
 acot_weaver_stage_4_cap: "Primal Weaver"
@@ -403,9 +431,23 @@ ACOT_HARBINGER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
 ACOT_HARBINGER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
 ACOT_HARBINGER_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
 ACOT_HARBINGER_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+ACOT_HARBINGER_STAGE_4_GROWTH_PE: "$ACOT_MAULER_STAGE_4_GROWTH_PE$"
+ACOT_HARBINGER_STAGE_4_GROWTH_PE_DESC: "$ACOT_MAULER_STAGE_4_GROWTH_PE_DESC$"
 
-ACOT_HARBINGER_STAGE_4_picket: "§cPrimal (Picket)§!"
+HARBINGER_STAGE_1_picket: "$ship_growth_stage_1$ (Heavy Carrier)"
+HARBINGER_STAGE_2_picket: "$ship_growth_stage_2$ (Heavy Carrier)"
+HARBINGER_STAGE_3_picket: "$ship_growth_stage_3$ (Heavy Carrier)"
+
+HARBINGER_STAGE_1_hangar: "$ship_growth_stage_1$ (Batttle Carrier)"
+HARBINGER_STAGE_2_hangar: "$ship_growth_stage_2$ (Batttle Carrier)"
+HARBINGER_STAGE_3_hangar: "$ship_growth_stage_3$ (Batttle Carrier)"
+
+ACOT_HARBINGER_STAGE_4_picket: "§cPrimal (Heavy Carrier)§!"
+ACOT_HARBINGER_STAGE_4_hangar: "§cPrimal (Batttle Carrier)§!"
 ACOT_HARBINGER_STAGE_4_artillery: "§cPrimal (Artillery)§!"
+ACOT_HARBINGER_STAGE_5_picket: "§RAscendant (Heavy Carrier)§!"
+ACOT_HARBINGER_STAGE_5_hangar: "§RAscendant (Batttle Carrier)§!"
+ACOT_HARBINGER_STAGE_5_artillery: "§RAscendant (Artillery)§!"
 
 acot_harbinger_stage_4: "Primal Harbinger"
 acot_harbinger_stage_4_cap: "Primal Harbinger"
@@ -437,9 +479,24 @@ ACOT_STINGER_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
 ACOT_STINGER_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
 ACOT_STINGER_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
 ACOT_STINGER_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+ACOT_STINGER_STAGE_4_GROWTH_PE: "$ACOT_MAULER_STAGE_4_GROWTH_PE$"
+ACOT_STINGER_STAGE_4_GROWTH_PE_DESC: "$ACOT_MAULER_STAGE_4_GROWTH_PE_DESC$"
 
-ACOT_STINGER_STAGE_4_line: "§cPrimal (Line)§!"
-ACOT_STINGER_STAGE_4_artillery: "§cPrimal (Artillery)§!"
+STINGER_STAGE_1_line: "$ship_growth_stage_1$ (Artillery)"
+STINGER_STAGE_2_line: "$ship_growth_stage_2$ (Artillery)"
+STINGER_STAGE_3_line: "$ship_growth_stage_3$ (Artillery)"
+STINGER_STAGE_1_torpedo: "$ship_growth_stage_1$ (Torpedo)"
+STINGER_STAGE_2_torpedo: "$ship_growth_stage_2$ (Torpedo)"
+STINGER_STAGE_3_torpedo: "$ship_growth_stage_3$ (Torpedo)"
+STINGER_STAGE_1_artillery: "$ship_growth_stage_1$ (Spinal Artillery)"
+STINGER_STAGE_2_artillery: "$ship_growth_stage_2$ (Spinal Artillery)"
+STINGER_STAGE_3_artillery: "$ship_growth_stage_3$ (Spinal Artillery)"
+ACOT_STINGER_STAGE_4_line: "§cPrimal (Artillery)§!"
+ACOT_STINGER_STAGE_4_torpedo: "§cPrimal (Torpedo)§!"
+ACOT_STINGER_STAGE_4_artillery: "§cPrimal (Spinal Artillery)§!"
+ACOT_STINGER_STAGE_5_line: "§RAscendant (Artillery)§!"
+ACOT_STINGER_STAGE_5_torpedo: "§RAscendant (Torpedo)§!"
+ACOT_STINGER_STAGE_5_artillery: "§RAscendant (Spinal Artillery)§!"
 
 acot_stinger_stage_4: "Primal Stinger"
 acot_stinger_stage_4_cap: "Primal Stinger"
@@ -487,6 +544,8 @@ ACOT_BIOTITAN_STAGE_2_GROWTH_DM: "Enigmatic $ship_growth_stage_2$ Growth Gland"
 ACOT_BIOTITAN_STAGE_2_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_1_GROWTH_DM_DESC$"
 ACOT_BIOTITAN_STAGE_3_GROWTH_DM: "$ACOT_MAULER_STAGE_3_GROWTH_DM$"
 ACOT_BIOTITAN_STAGE_3_GROWTH_DM_DESC: "$ACOT_MAULER_STAGE_3_GROWTH_DM_DESC$"
+ACOT_BIOTITAN_STAGE_4_GROWTH_PE: "$ACOT_MAULER_STAGE_4_GROWTH_PE$"
+ACOT_BIOTITAN_STAGE_4_GROWTH_PE_DESC: "$ACOT_MAULER_STAGE_4_GROWTH_PE_DESC$"
 
 acot_bio_titan_class: "Conqueror"
 acot_bio_titan_class_cap: "Conqueror"
@@ -525,7 +584,8 @@ acot_bio_titan_stage_4: "Primal Conqueror"
 acot_bio_titan_stage_4_cap: "Primal Conqueror"
 acot_bio_titan_stage_4_plural: "Primal Conquerors"
 
-ACOT_BIO_TITAN_STAGE_FIVE: "Ascendant (Artillery)"
+ACOT_BIO_TITAN_STAGE_FIVE_ARTILLERY: "§RAscendant (Artillery)§!"
+ACOT_BIO_TITAN_STAGE_FIVE_CARRIER: "§RAscendant (Carrier)§!"
 
 acot_bio_titan_stage_5: "Ascendant Conqueror"
 acot_bio_titan_stage_5_cap: "Ascendant Conqueror"

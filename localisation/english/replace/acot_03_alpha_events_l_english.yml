@@ -20,55 +20,72 @@
  acot_cb_databank_claim: "Knowledge is Power"
  acot_cb_databank_claim_desc: "This empire possesses key knowledge that will further the progress of the greater good, but their inability to be smart about it demands that such knowledge be passed down to someone who is smarter."
  
- acot_alpha_matter_events.100.name: "Mystery of the Precursors"
- acot_alpha_matter_events.100.a.desc: "Some of our scientists have been studying the technologies behind the designs of the fallen one's spaceships in an effort to find possible improvements for our technologies. What they have discovered is however something far more interesting. Apparently the energy readings from the technologies utilized by the fallen ones seem to be far lower than one would have expected from dark matter and dark energy-based systems.\n\nAfter a lengthy process of searching and studying, it appears that all of the current technologies utilized by the fallen ones are extremely downscaled and simplified versions of their original prototypes. The term "Precursor Databank" has been heavily referenced across multiple pieces of evidence. We believe that the next stage of dark matter evolution lies within this Databank. We must find a way to access it."
- acot_alpha_matter_events.100.b.desc: "Some of our scientists have been wasting time trying to study the technologies behind the designs of the fallen one's spaceships. What they have discovered is somewhat unexpected. They claimed that the energy readings from the technologies utilized by the fallen ones seem to be far lower than one would have expected from dark matter and dark energy-based systems.\n\nAfter a lengthy process of searching and studying, it appears that all of the current technologies utilized by the fallen ones are extremely downscaled and simplified versions of their original prototypes. The term "Precursor Databank Archives" has been heavily referenced across multiple pieces of evidence. They believe that the next stage of dark matter evolution lies within this Databank.\n\nHowever, many others remain unconvinced, believing that these scientists are simply trying to spread false claims to gain more recognition. The [root.GetName] is at its zenith, and that we should look to conquer the galaxy, not trying to chase old ghosts."
- acot_alpha_matter_events.100.a: "And we shall."
- acot_alpha_matter_events.100.b: "These claims have merit, we should investigate."
- acot_alpha_matter_events.100.b.explain: "It will take some political plays to get the Science Board to agree on further investigation. But the risks should be well rewarded, if these theories are indeed correct."
- acot_alpha_matter_events.100.c: "Baseless claims without evidence will be ignored."
- 
+ acot_alpha_matter_events.100.name: "The Path Forward"
+ acot_alpha_matter_events.100.a.desc: "It has been sometimes since we dabbed in the new technology and knowledge granted by understanding Dark Energy. Though we are certain now that the energy itself has little to do with Dark Matter, much remain unknown as to the true potential of this new power. We have seen many ancient civilizations wield this power, but something tells us that there must be more. Some secrets of these precursors remain hidden, and our researchers and analysts have been working to unveil it.\n\nSome believe that the ascension we seek lies within the unexplored pasts of these precursors, for they have stumbled upon many references of something called §B"Alpha Project"§!. This project is believed to have been an attempt by the ancients to progress beyond the current potential of Delta-level technology. If we can learn more, we may be able to reach a greater potential.\n\nOther group however favors learning from the existing precursor civilizations that exist in the present. They believe that the powers they wield at present is already the necessary key to the next stage of our ascension. For with their knowledge and power, we can rule this cosmos. This theory is thus dubbed as §E"Cosmogenesis"§!\n\nWe will not be able to properly allocate resources and focus to explore both approaches without drawing too much attention from external parties, so we'll have to choose."
+ acot_alpha_matter_events.100.b.desc: "It has been sometimes since we dabbed in the new technology and knowledge granted by understanding Dark Energy. Though we are certain now that the energy itself has little to do with Dark Matter, much remain unknown as to the true potential of this new power. We have seen many ancient civilizations wield this power, but something tells us that there must be more. Some secrets of these precursors remain hidden, and our researchers and analysts have been working to pierce it.\n\nSome believe that the ascension we seek lies within the unexplored pasts of these precursors, for they have stumbled upon many references of something called §B"Alpha Project"§!. This project is believed to have been an attempt by the ancients to progress beyond the current potential of Delta-level technology. If we can learn more, we may be able to reach a greater potential.\n\nHowever, many others remain unconvinced, believing that these scientists are simply trying to spread false claims to gain more recognition. How should we proceed?"
+ acot_alpha_matter_events.100.a: "Explore the past. Learn what §BAlpha Project§! is."
+ acot_alpha_matter_events.100.a.explain: "Choosing this path will begin §EMystery of the Precursor§! event chain, where we attempt to divine the secrets behind this failed project the Fallen Empires attempted.\n\n§RThis will block the §!§YCosmogenesis§! §RProgression!§!"
+ acot_alpha_matter_events.100.b: "Explore the present. The §ECosmogeneis§! Project is our new focus."
+ acot_alpha_matter_events.100.b.explain: "Choosing this path will enable the selection of §ECosmogenesis§! Ascension Perk, where we will learn to wield the Fallen Empire's technology to ascend beyond our limits.\n\n§RThis will block the §!§YMystery of the Precursor§! §RProgression!§!"
+ acot_alpha_matter_events.100.c: "Both are a waste of  time. What we have is enough."
+ acot_alpha_matter_events.100.c.explain: "Sometimes, it is better not to screw around and find out. With our current technology, we should be more or less capable of achieving our ambitions, no need to divert resources into pointless distraction.\n\n§RScientists do not advise this approach, it is a stupid way to limit and gimp ourselves!§!"
+ acot_alpha_matter_events.100.d: "We must learn what §BAlpha Project§! is."
+ acot_alpha_matter_events.100.d.explain: "Choosing this path will begin §EMystery of the Precursor§! event chain, where we attempt to divine the secrets behind this failed project the Fallen Empires attempted."
+ acot_alpha_matter_events.100.e: "There are more important matters to deal with."
+ acot_alpha_matter_events.100.e.explain: "No no need to deal with the unknown variables. Best to just ignore them.\n\n§RScientists do not advise this approach, it is a stupid way to limit and gimp ourselves!§!"
  
  acot_databank_ask_curator: "Do you know anything about Precursor Databank?"
  
- acot_alpha_matter_events.2.name: "Databank Analysis Completed!"
- acot_alpha_matter_events.2.desc: "The analysis of the databank is completed and the database is ready for installation. The Databank can be accessed from the diplomatic screen at any time moving forward. Shall we access the databank now?"
- acot_alpha_matter_events.2.a: "Access the databank, we have much to do."
- acot_alpha_matter_events.2.b: "Not now, we will access it later."
+ acot_alpha_matter_events.1100.name: "Mystery of the Precursors"
+ acot_alpha_matter_events.1100.desc: "Having anticipated that we would likely choose this decision, some of the researchers have already made some early preparations and theories on how we could achieve our goals. Though we may not be able to reliably get any accurate data or info from existing entities, the records indicated that in the ancient past, much of technological and historical datas were preserved by specialized DAIs called "Databank Personalities", or DBPs. These DBPs appear to be a DAI replica of important figures, usually scientists, politicians or philosophers. The system was described as to be running on some kind of virtual, dimensional servers that would allow them to be accessed even from newly created platforms.\n\nThrough a strange crisis, these DBPs have been discontinued, but there were no records of the actual server being removed or destroyed, only that all physical databank access points themselves were deactivated ordismantled. If we can build one ourselves, or find an existing one still preserved by any ancient civilizations, we could access one of these DBPs, and with any luck, one of them could reveal more about the powers of the past."
+ acot_alpha_matter_events.1100.a: "Acknowledged"
+ acot_alpha_matter_events.1100.a.explain: "There are multiple ways to obtain the databank. Some are more efficient than the others."
+
+ acot_alpha_matter_events.2.name: "Databank Access Point Acquired!"
+ acot_alpha_matter_events.2.desc: "The analysis of the databank access point is completed and the system is ready for installation. The Databank can be accessed from the diplomatic screen at any time moving forward, but we still need to have an access point first.\n\nSelect a suitable planet and uses a planetary decision to install the Access Point."
+ acot_alpha_matter_events.2.a: "Let's get to work then."
  
  acot_databank_attack_fe: "Triumph by Combat"
  acot_databank_attack_fe_desc: "The Fallen Ones must possess one of these data banks. With enough military strengths, we can simply take a battle to them directly and challenge them in glorious combat, with the price being the databank of course."
  
  acot_databank_trick_fe: "Art of Deception"
- acot_databank_trick_fe_desc: "The Fallen Ones must possess one of these databanks. Perhaps if we gain enough favor with the Fallen Ones, they can be tricked to allow us to gain access to the databank if we pamper them with enough praise. We simply need them to have high opinions of us somehow."
+ acot_databank_trick_fe_desc: "The Fallen Ones must possess one of these databank access points. Perhaps if we gain enough favor with the Fallen Ones, they can be tricked to allow us to gain access to the databank if we pamper them with enough praise. We simply need them to have high opinions of us somehow."
  
  acot_databank_ask_pmc: "Phanon Corps Assist"
  acot_databank_ask_pmc_desc: "While our attempts to study the past will likely not escape the attention of the Fallen Empires, we may be able to ask the Corps to aid us in contacting them, and perhaps make the whole deal way more smooth."
  
  acot_databank_ask_curator: "Calculating Curators"
- acot_databank_ask_curator_desc: "Perhaps the Curators will be able to help us acquire a databank, provided that we are still on good terms with them."
+ acot_databank_ask_curator_desc: "Perhaps the Curators will be able to help us acquire a databank access point, provided that we are still on good terms with them."
  
  acot_databank_self_assembly: "Self Assembly"
- acot_databank_self_assembly_desc: "The Databank was of an ancient precursor design. Perhaps we can reassemble a new databank ourselves using current resources. But the databank is useless without data, so we're going to have to harvest loads of minor artifacts to combine them up.\n\n§YUse the Assemble Databank from the Relic Tab to begin the attempt.§!\n§RThere is a great chance of failure doing it this way!§!"
+ acot_databank_self_assembly_desc: "The Databank Access Point itself was of an ancient precursor design. Perhaps we can reassemble a new databank access point ourselves using pir current resources."
  
- artifact_acot_databank_assemble: "Precursor Databank Assemble"
- artifact_acot_databank_assemble_desc: "Attempt to create a Precursor Databank using minor artifacts and other resources."
- artifact_acot_databank_assemble_effect: "We cannot predict what will happen as the databank that is connected may not be the one we desire. We should prepare for potential risks.\n\nExperts advise us to avoid this approach as the risks seem too far outweigh the benefits."
+ decision_acot_databank_assemble: "Databank Access Point Research"
+ decision_acot_databank_assemble_desc: "Access Point isn't just any small devices, it is akin to a large chamber of its own, and thus will likely be required to be researched, built and tested on a planet where resources and security could be easily controlled."
+ decision_acot_databank_assemble_effect: "Designate this planet as the place where the Databank Access Point may be designed."
  acot_databank_assemble_attempt: "Databank Self-Assembly Cooldown"
  acot_databank_assemble_attempt_desc: "Sick and tired of being sick and tired..."
  acot_databank_assemble_attempt_cooldown_desc: "Unable to comply, assembling in progress!"
- 
+
+ d_acot_databank_archive: "Databank Access Point"
+ d_acot_databank_archive_desc: "A gateway into the virtual network beyond the veils for the Databank necessary to make contact with the DBPs.\n\n§EPrecursor Databank can be accessed via Contacts Menu."
+
+ decision_acot_databank_access_point: "Establish Databank Access Point"
+ decision_acot_databank_access_point_desc: "Establish or re-establish the place where the Databank Access Point will be located, a dimensional virtual space where contact with external entities like the DBPs could be made."
+ decision_acot_databank_access_point_effect: "Designate this planet as the Databank Access Point location."
+ decision_acot_databank_access_point_fail: "Error: Databank Access Point Currently In Use"
+
  acot_alpha_matter_events.9001.name: "Dust to Dust"
- acot_alpha_matter_events.9001.desc: "The attempt to assemble our own databank has failed unfortunately. But aside from the wasted resources, the team reports no other problem."
- acot_alpha_matter_events.9001.a: "That sucks."
+ acot_alpha_matter_events.9001.desc: "The attempt to assemble our own databank access point has failed unfortunately. The system overloads itself, but causes negliable damage otherwise."
+ acot_alpha_matter_events.9001.a: "Let's try again."
  
- acot_alpha_matter_events.9002.name: "Command Overwritten!"
- acot_alpha_matter_events.9002.desc: "Red Alert! Red Alert! The attempt to assemble our own databank has failed horribly! The Databank has gone berserk and took over a sizable amount of our fleets and are now attacking everyone!"
- acot_alpha_matter_events.9002.a: "Full power to weapons!"
+ acot_alpha_matter_events.9002.name: "Dust to Dust"
+ acot_alpha_matter_events.9002.desc: "The attempt to assemble our own databank access point has failed unfortunately. The system overloads itself, and the planet suffers some damages."
+ acot_alpha_matter_events.9002.a: "Begin repairs."
  
- acot_alpha_matter_events.9003.name: "Task Completed!"
- acot_alpha_matter_events.9003.desc: "Our attempt worked! The module we created was able to connect to the Precursor's Intelligence Network and the device auto-corrects any faults in our design to suit the original specifications!"
- acot_alpha_matter_events.9003.a: "Amazing!"
+ acot_alpha_matter_events.9003.name: "Assembly Successful!"
+ acot_alpha_matter_events.9003.desc: "The researchers are pleased to report that the databank access point prototype is completed and operational! The module we created was able to connect to the Precursor's Virtual Network and the device auto-corrects any faults in our design to suit the original specifications. Now we only have to actually see if it could locate any of these DBPs that may have survived."
+ acot_alpha_matter_events.9003.a: "Great work all."
  
  acot_alpha_matter_events.9004.name: "CRITICAL MISSION FAILURE!"
  acot_alpha_matter_events.9004.desc: "Red Alert! Red Alert! The attempt to assemble our own databank has failed horribly! The Databank has gone rogue and took over a sizable amount of our fleets, colonies and starbases and have opened fire on us!"
@@ -81,23 +98,24 @@
  acot_alpha_matter_events.9005.b: "Witness the power of the Precursors!"
  acot_alpha_matter_events.9005.b.explain: "Assume the control of the newly risen Precursor Intelligence Faction, and trample their revivers, your former empire into oblivion."
  
+ #Event Target has to be reassigned becasue the events have been deleted.
  acot_alpha_matter_events.9007.name: "Ancient Intelligence Awakening"
- acot_alpha_matter_events.9007.desc.a: "Red Alert! Some of our fleets have been hacked by an unidentified rogue machine intelligence!\n\nIntel suggests this is the result of a flawed design made by [event_target:current_uprising_originator.GetName], who is now suffering from a massive machine uprising of unprecedented scale."
- acot_alpha_matter_events.9007.desc.b: "Warning! [event_target:current_uprising_originator.GetName], in their sloppiness to create a Databank without proper understanding, has unleashed a powerful rogue Precursor Intelligence into the galaxy. The Intelligence is now causing massive chaos everywhere.\n\nFortunately for us, SOPHIA has shielded all of our fleets from being hijacked, but we will have to watch closely."
+ acot_alpha_matter_events.9007.desc.a: "Red Alert! Some of our fleets have been hacked by an unidentified rogue machine intelligence!\n\nIntel suggests this is the result of a flawed design made by [root.GetName], who is now suffering from a massive machine uprising of unprecedented scale."
+ acot_alpha_matter_events.9007.desc.b: "Warning! [root.GetName], in their sloppiness to create a Databank without proper understanding, has unleashed a powerful rogue Precursor Intelligence into the galaxy. The Intelligence is now causing massive chaos everywhere.\n\nFortunately for us, SOPHIA has shielded all of our fleets from being hijacked, but we will have to watch closely."
  acot_alpha_matter_events.9007.a: "Damn these idiots! Repel the hostiles!"
  acot_alpha_matter_events.9007.a.explain: "Many empire's fleets, including ours have been hijacked by a rogue berserk AI!"
  acot_alpha_matter_events.9007.b: "Well done, SOPHIA."
  acot_alpha_matter_events.9007.b.explain: "Many empire's fleets have been hijacked by a rogue berserk AI, but ours have been safety shielded by SOPHIA."
- 
+
 #######################
  
  acot_alpha_matter_events.107.name: "Precursor Databank Acquired"
- acot_alpha_matter_events.107.desc: "We have successfully acquired a copy of Precursor Databank, now all we need is to analyze and decipher the arcane arts behind it so that it may guide us further in our pursuits of the precursor's ancient histories."
- acot_alpha_matter_events.107.a: "Let us move forward!"
+ acot_alpha_matter_events.107.desc: "We have successfully acquired a copy of Precursor Databank Access Point blueprints, now all we need is to analyze and decipher the arcane arts behind it's designs so that it may guide us further in our pursuits of the precursor's ancient histories. There may be risks involved, as we do not know what may have been the cause of the shut down of the DBP systems in the past.\n\nOnce we research and understand all the details, we must designate a planet to use for the databank research. It is recommended we try to use a well-defended planet for this task, in case there are any anomalies."
+ acot_alpha_matter_events.107.a: "We have a lot of work to do."
  
  RESEARCH_PRECURSOR_DATABANK: "Decipher Precursor Databank"
  RESEARCH_PRECURSOR_DATABANK_DESC: "Before any more progress on the Precursor Study can begin, we must first learn how to operate and decipher the Precursor Databank and its AI Assistance first."
- 
+
  acot_alpha_matter_events.104.name: "Incoming Transmission"
  acot_alpha_matter_events.104.desc.spiritualist: "So it is true then. [root.GetName], you are attempting to learn the divine truth that which is beyond your ken. We who have walked this path before know full well of the danger and futility of this quest. So we suggest you abandon your misguided attempt at learning the sins of the past while you have the chance."
  acot_alpha_matter_events.104.desc.spiritualist.patronize: "[root.GetName], it has come to our attention that your empire is seeking knowledge of the past precursors such as ours. What exactly do you plan to accomplish.\n\nYou are not trying to find our weaknesses, are you? Given that you have been such a good follower to the faith, we permit you the chance to explain your actions this once."
@@ -121,13 +139,13 @@
  acot_alpha_matter_events.104.a.response: "Are you now? How very humble.\n\nVery well, enjoy your history lessons then, perhaps you will come to understand why we consider ourselves superior civilizations. Your empire's history is but a fraction of our vast achievements, for ours is a story that spans for eons. Study well and spread the words of our excellence. Let the...<blah blah blah>\n\n<5 hours later> ...ends the reign of our great expansion. Write those histories down and spread the words to the rest of the galaxy so that it may yet be saved.\n\n<<Such is the endless rambling that the Fallen Ruler ushers upon our leaders that the agony inflicted  from hours of the Fallen Empire's self-glorifying braggings has caused everyone to lose a portion of their sanity.>>"
  acot_alpha_matter_events.104.a.response.refuse: "Do not think us fools, [root.GetName]. We know of your distastes against us, and any interests you have in our designs cannot be borne out of genuine respect. Out with it, what exactly is your goal."
  acot_alpha_matter_events.104.b: "We only want knowledge to better ourselves."
- acot_alpha_matter_events.104.b.tooltip: "If we're lucky, the Fallen Empire may be convinced to part with enough data to give us a databank. The possibility depends on their opinion of us."
+ acot_alpha_matter_events.104.b.tooltip: "If we're lucky, the Fallen Empire may be convinced to part with enough data to give us a databank access point. The possibility depends on their opinion of us."
  acot_alpha_matter_events.104.b.response: "Ambitious, but dangerous. Tread carefully, for you walk the path of destruction. You are warned."
  acot_alpha_matter_events.104.b.refuse: "And you would have used that knowledge to make yoursrlves better than us. We know your kind well. You will speak no more of this to us, or any of the Elder Races. Begone!"
  acot_alpha_matter_events.104.c: "That is none of your business."
  acot_alpha_matter_events.104.c.response: "Arrogance! You forget yourselves, primitives." 
  acot_alpha_matter_events.104.d: "Sobrak"
- acot_alpha_matter_events.104.d.response: "Impossible! You shouldn't be...Who told you that word?\n\nGah, take the data and go away! Don't ever say that word again!" 
+ acot_alpha_matter_events.104.d.response: "Impossible! You shouldn't be...Who told you that word?\n\nGah, take the thing and go away! Don't ever say that word again!" 
 
 ############################ PHANON
  
@@ -145,23 +163,23 @@
  acot_alpha_matter_events.102.c: "We change our mind, perhaps not."
  acot_alpha_matter_events.102.c.response: "Understood."
  
- acot_alpha_matter_events.105.name: "Precursor Databank Acquired"
- acot_alpha_matter_events.105.desc: "A Phanon Corps representative has just contacted us. They have succeeded in obtaining a databank and are delivering the contents to us now."
+ acot_alpha_matter_events.105.name: "Precursor Databank Access Point Acquired"
+ acot_alpha_matter_events.105.desc: "We managed to obtain the Databank Archive Design from the Fallen Empires. According to our early analysis, this version appears to have filter out corrupted commander personalities. With any luck, we won't have to deal with any hostile forces."
  acot_alpha_matter_events.105.a: "Well done."
  
  
 ############################ CURATORS
  
- acot_alpha_matter_events.ask_curator: "Can you help us acquire a databank?"
+ acot_alpha_matter_events.ask_curator: "Can you help us with Databank Access Points?"
  
  acot_alpha_matter_events.103.name: "Databank Acquisition."
- acot_alpha_matter_events.103.desc: "Databank? We're not sure you truly understand its function. The databank is not just some information storage. It contains countless data and knowledge beyond our galaxy, and it can only be activated through proper authorization or with the authority of a Databank Personality. None of which are present in this galaxy.\n\nStill, if you wish to try to create one, we will help what we can. But as per usual, this will have to be done as a service."
+ acot_alpha_matter_events.103.desc: "Databank Access Points? We're not sure you truly understand its function. The databank is not just some information storage. It contains countless data and knowledge beyond our galaxy, and it can only be activated through proper authorization or with the authority of a Databank Personality, and those have all been discontinued and are no longer active for countless aeons.\n\nStill, if you wish to try to create one, we will help what we can. But as per usual, this will have to be done as a service."
  
- acot_alpha_matter_events.103.a: "What do you know of the databank?"
- acot_alpha_matter_events.103.a.response: "Technically speaking, the databank is simply a function of the actual device. We believe the proper term for the entire package is called "The Ancient Cache of Technology", possibly made by one of the ancients that predated many. Such caches do not exist in this galaxy, however. We Curators and perhaps the Fallen Empires may possess ancient databank intelligences, but they have since became dormant, and none has been able to activate them again. It is as if the databank rejects us somehow."
+ acot_alpha_matter_events.103.a: "What do you know of the DBPs?"
+ acot_alpha_matter_events.103.a.response: "DBPs are like preserved personalities. For the ageless people, sometimes death after achieving great strides are the only thing they seek to find peace, or to offer new generations their own chances to shine. Such mindsets may seem quite alien to modern generations, no?\n\nBut what they do is that they will create replicated personalities of these people, who retains all full memories of their great works, and can recount and explain them in great details without having their visions and opinions marred by changing circumstances of society or personal changes.\n\nUnfortunately, a great crisis caused all DBPs to be compromised, along with most of the knowledge they held."
  
- acot_alpha_matter_events.103.b: "So it is possible to make an entirely new databank?"
- acot_alpha_matter_events.103.b.response: "Technically possible. yes. You simply need to replicate the designs of the databank, a blank one. If you manage to do it properly, it will attempt to find authorization code, which you obviously do not have. Which means your only chance is for a successful connection to an existing databank personality to be made.\n\nSuch is the mystery of the ancient technologies, even if one manages to replicate the design, the knowledge contained therein may not easily yield itself, not even to its new creators."
+ acot_alpha_matter_events.103.b: "Is it possible to make a new databank access point?"
+ acot_alpha_matter_events.103.b.response: "Technically possible. yes. You simply need to replicate its design, a blank one. If you manage to do it properly, it will attempt to find authorization code, which you obviously do not have. Which means your only chance is for a successful connection to an existing databank personality to be made.\n\nSuch is the mystery of the ancient technologies, even if one manages to replicate the design, the knowledge contained therein may not easily yield itself, not even to its new creators."
  
  acot_alpha_matter_events.103.c: "We'll think about it."
  acot_alpha_matter_events.103.c.response: "Take your time. There're multiple ways in which the databank may be made, but using our service is most likely the safest method, so please take that under consideration."
@@ -169,8 +187,8 @@
  acot_alpha_matter_events.103.d: "Looks like you'll be getting more donations then."
  acot_alpha_matter_events.103.d.response: "Excellent! Our experts will have a new database delivered soon. Please wait just a moment."
  
- acot_alpha_matter_events.106.name: "Precursor Databank Acquired"
- acot_alpha_matter_events.106.desc: "The Curator Order has just contacted us. They have succeeded in providing a databank and are delivering the contents to us now."
+ acot_alpha_matter_events.106.name: "Databank Access Point Delivery"
+ acot_alpha_matter_events.106.desc: "The Curator Order has just contacted us. They have succeeded in providing a databank access point and are delivering the package to us now.\n\nAccording to their guidelines, this version has filtered out the corrupted scientist personalities. That should eliminate a good chunk of unstable anomalies."
  acot_alpha_matter_events.106.a: "Good!"
  
 ############################
