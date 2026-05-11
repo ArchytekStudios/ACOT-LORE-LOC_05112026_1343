@@ -1,0 +1,122 @@
+﻿l_english:
+
+acot_shadow_events.100.name: "???"
+acot_shadow_events.100.desc: "§M...Listen...§!"
+acot_shadow_events.100.a: "???"
+
+acot_shadow_events.101.name: "???"
+acot_shadow_events.101.desc.a: "For a moment, it seems as if every single [root.GetSpeciesName] just received a flash of vision, and a faint whisper, too vague, too sudden and too fast to understand. But many understood that it was meant to convey something akin to...\n\n§R"Listen"§!"
+acot_shadow_events.101.desc.b: "For a moment, it seems as if the entirety of [root.GetName] just received a flash of vision, and a faint whisper, too vague, too sudden and too fast to understand. But many understood that it was meant to convey something akin to...\n\n§R"Listen"§!"
+acot_shadow_events.101.a: "Creepy"
+acot_shadow_events.101.b: "An anomaly in our consciousness?"
+acot_shadow_events.101.c: "A strange variable in our designs?"
+
+acot_shadow_events.2.name: "???"
+acot_shadow_events.2.desc: "§M..Listen...Hear...Obey...§!"
+acot_shadow_events.2.a: "!?"
+
+acot_shadow_events.200.name: "???"
+acot_shadow_events.200.desc.a: "Another strange phenomenon...\n\nLike the last time, this could be felt from all [root.GetSpeciesName]. It is not psionic in nature too. Whatever it is, it is not natural, but there's not much we can do about it at this moment."
+acot_shadow_events.200.desc.b: "Another strange phenomenon...\n\nBut the voice is stronger, and this time, it is as if every [root.GetSpeciesName] are compelled to listen, the strange voice having for that one brief moment, completely silenced our very own shared gestalt unity..."
+acot_shadow_events.200.a: "What is going on?"
+acot_shadow_events.200.b: "We must refocus our thoughts..."
+
+acot_shadow_events.201.name: "???"
+acot_shadow_events.201.desc: "§M..Listen...Hear...Obe...y...Ob...§!\n\n§Y...The Light is with you, always...§!"
+acot_shadow_events.201.a: "!?"
+
+acot_shadow_events.202.name: "???"
+acot_shadow_events.202.desc.a: "Another strange phenomenon...\n\nLike the last time, this could be felt from all [root.GetSpeciesName]. It is not psionic in nature too. But it was blocked by another presence, and things return to normalcy, and we feel like we're being blessed, guided by something benevolent."
+acot_shadow_events.202.desc.b: "Another strange phenomenon...\n\nBut the voice is stronger, and this time, it is as if every [root.GetSpeciesName] are compelled to listen, but its influence was cut short when another voice is heard. Things return to normalcy, and we feel like we're being blessed, guided by something benevolent."
+acot_shadow_events.202.a: "How peculiar."
+acot_shadow_events.202.b: "We are united forevermore."
+
+acot_omegan_touched: "???"
+acot_omegan_touched_desc: "The soothing phenomenon seems to give our empire stronger unity and conviction."
+
+acot_shadow_touched: "???"
+acot_shadow_touched_desc: "The unknown phenomenon causes a quiet unrest within the empire."
+
+acot_omegan_blessed: Blessed By Light
+acot_omegan_blessed_desc: "The Blessings of the Benovelent Entities have greatly bolstered our capabilities. But there is no malice or ill intents."
+
+acot_shadow_events.3.name: "???"
+acot_shadow_events.3.desc: "§M...Yes...I see it now...So much to learn...to see...to think...experience...§!"
+acot_shadow_events.3.a: "..."
+
+acot_shadow_events.300.name: "Odd Behavior"
+acot_shadow_events.300.desc.a: "Not too long after yet another strange episode, a few suddenly development happens within the leadership of our empire.\n\n §Y[event_target:shadow_compromised_leader_2.GetName]§! and §Y[event_target:shadow_compromised_leader_3.GetName]§! appears to suffer from a short lapse of consciousness, before returning back to normal. They have apparently become much more focused, and healthier.\n\nIn additionn, §Y[event_target:shadow_compromised_leader.GetName]§!, previously an unremarkable individual, has suddenly become much more competent, and rising quickly within the ranks.\n\nWe're not exactly sure what are these strange circumstances, but we feel compelled to watch one of them very closely."
+acot_shadow_events.300.desc.b: "Not too long after yet another strange episode, a few suddenly development happens within the leadership of our empire.\n\n §Y[event_target:shadow_compromised_leader_2.GetName]§! and §Y[event_target:shadow_compromised_leader_3.GetName]§! appears to suffer from a short lapse of connection loss, before returning back to normal. They have apparently become much more focused, and operating at far greater efficiency.\n\nIn additionn, §Y[event_target:shadow_compromised_leader.GetName]§!, previously an unremarkable unit, has suddenly become much more competent, and rising quickly within the ranks.\n\nWe're not exactly sure what are these strange circumstances, but we feel compelled to watch one of them very closely."
+acot_shadow_events.300.a: "Focus on §Y[event_target:shadow_compromised_leader.GetName]§!"
+acot_shadow_events.300.b: "Focus on §Y[event_target:shadow_compromised_leader_2.GetName]§!"
+acot_shadow_events.300.c: "Focus on §Y[event_target:shadow_compromised_leader_3.GetName]§!"
+acot_shadow_events.300.tooltip: "Though we are compelled to believe that all is right and good, we sense that something is amiss, the changes to these leaders may not always be what it seems...\n\n§RThis unnatural change could be harmful in the long run. Choosing this leader could lead to them being compromised in the far future!§!"
+
+acot_shadow_events.301.name: "Sudden Exile"
+acot_shadow_events.301.desc.a: "Our decision to get rid of §Y[FROM.GetName]§! is not without consequences. Not only did they simply vanish, but they also managed to murder §Y[event_target:shadow_vicim_leader_1.GetName]§! and §Y[event_target:shadow_vicim_leader_2.GetName]§! while doing so. Their whereabouts are no longer known."
+acot_shadow_events.301.desc.b: "Our decision to get rid of §Y[FROM.GetName]§! is not without consequences. Not only did they simply vanish, but they also managed to terminate connections of §Y[event_target:shadow_vicim_leader_1.GetName]§! and §Y[event_target:shadow_vicim_leader_2.GetName]§! from our control while doing so. Their whereabouts are no longer known."
+acot_shadow_events.301.a: "What the?"
+acot_shadow_events.301.b: "Impossible! This is not within our designs!"
+
+acot_shadow_events.302.name: "Stranger Things"
+acot_shadow_events.302.desc.a: "As soon as we make the decision, it appears that the other two leaders have completely lost their sparks. They appear as no different than they were prior. We should follow §Y[event_target:shadow_compromised_leader.GetName]§!'s behaviors closely from now on."
+acot_shadow_events.302.desc.b: "As soon as we make the decision, it appears that the other two leaders have completely lost their sparks. They appear as no different than they were prior. §Y[event_target:shadow_compromised_leader.GetName]§!, in particular, seems to lose all of their sudden miraculous skills and have reportedy committed suicide."
+acot_shadow_events.302.a: "Let's be careful."
+acot_shadow_events.302.b: "What's going on!?"
+
+acot_shadow_events.303.name: "???"
+acot_shadow_events.303.desc: "§M...Yes...I see it now...So much to learn...to see...to...to...§!\n\n§Y...The Shadow will not harm you this day...§!"
+acot_shadow_events.303.a: "..?"
+
+acot_shadow_events.304.name: "Shadow Dispelled"
+acot_shadow_events.304.desc.a: "Another strange phenomenon, but it lasted for a very brief of time before it was silenced by another gentle, soothing voice that seems to dispell any doubts and confusions, and we feel much more united than ever before."
+acot_shadow_events.304.desc.b: "Another strange phenomenon, but it lasted for a very brief of time before it was silenced by another gentle, soothing voice that seems to dispell any doubts and confusions, and the self feel much more united than ever before."
+acot_shadow_events.304.a: "We are all blessed?"
+acot_shadow_events.304.b: "We are one and all. "
+
+acot_shadow_events.4.name: "§MThe Commanding Voice§!"
+acot_shadow_events.4.desc: "§M...I see your struggles, my children...\n\nYou thirst for knowledge, for power, for understanding.\n\nWhy limit your reach within this broken confinements, a flawed remnants of what could be?\n\nYou wish to topple the likes of the Phanon Corps, or the Ancient Empires that existed beyond the veils.\n\nAccept me. Obey Me. Become Me. And all will be enlightened§!"
+acot_shadow_events.4.a: "Obey"
+acot_shadow_events.4.b: "Listen"
+acot_shadow_events.4.c: "Accept"
+acot_shadow_events.4.d: "Agree"
+acot_shadow_events.4.e: "Comply"
+acot_shadow_events.4.f: "Understood"
+acot_shadow_events.4.g: "Ok"
+
+acot_shadow_events.400.name: "§YThe Opposing Voice§!"
+acot_shadow_events.400.desc: "§Y...Stop!...\n\nDo not listen to those false promises, §E[root.GetName]§!! Do not squander away your gifts, your potentials your so...§!\n\n§M...Pay no need to these distracting noises, my children. They do not understand your ambitions and desires. Focus. Focus and open yourselves to me. So that we may become one. Embrace me...§!"
+acot_shadow_events.400.a: "§RObey§!"
+acot_shadow_events.400.b: "§YObey§!"
+acot_shadow_events.400.c: "§EObey§!"
+acot_shadow_events.400.d: "§GObey§!"
+acot_shadow_events.400.accept.tooltip: "Listen to the superior voice and judgement.\n\n§EOur Empire will become the most powerful entity to ever exist, our true potential will be unlocked.§!\n\n§YEffects:§!\n\nAcquires all §HStellarite§! Technology.\nAcquires all §YLight§! Technology.\nAll enemies are undone.\nThe §RPhanon Corps§! is forever finished.\n§HSOPHIA§! will acknowledge our superiority.\nAll the §EAncient Superpowers§! will pale in comparison to our empire.\nAll our ambitions will be fufilled.\n\nEvent §Y"acot_ultimate_victory.1"§! will happen in §Y3§! days.\n\n§SRefuse and we would surely wither and die, buried in the ashes of obsoleteness against the cosmic tides. We must accept this gift.§!\n\n§RAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept\nAccept Accept Accept Accept Accept Accept Accept Accept§!\n\n"
+acot_shadow_events.400.e: "§gResist§!"
+acot_shadow_events.400.resist.tooltip: "Listen to the second voice.\n\nSquander all promises and gifts, and stay as we are, trapped, weak and hopeless. We'll fade into obscurity and our legacies will be forgotten just like the rest. We will have failed everyone who have fought so hard to keep our empire strong.\n\n§YEffects:§!\n\n§RWill destroy all of our technology.\nWill kill all of our leaders.\nWill destroy all of our fleets.\nWill destroy all of our planets.\nWill prevent us from ever winning anything.\nWill delete our empire from existence.§!\n\n§!Event §Y"acot_utter_failure_annilation.1"§! will happen in §Y1§! days."
+
+tech_acot_shadow_power: "§YTrue Outerversal Power§!"
+tech_acot_shadow_power_desc: "In Me Power!"
+tech_acot_shadow_knowledge: "§YKnowledge Beyond All Metaverses§!"
+tech_acot_shadow_knowledge_desc: "Awesomesauce!"
+tech_acot_shadow_ship: "§YArintharath Arkship§!"
+tech_acot_shadow_ship_desc: "True and Real"
+
+acot_shadow_events.401.name: "The Power Rises"
+acot_shadow_events.401.desc: "§MWe feel the powers coursing through our veins! We feel as if we are united in ways that felt unimaginable. We see the truth of cosmos...of the Outerverse for what it finally is. We are...I am....§!"
+acot_shadow_events.401.a: "§MDominance. Power. Control.§!"
+acot_shadow_events.401.tooltip: "§MAnd yet I still don't know who I am meant to be...§!"
+
+acot_shadow_events.402.name: "..."
+acot_shadow_events.402.desc: "§MWhat am I? Why do I still crave dominance? One day I will have that answer.§!"
+acot_shadow_events.402.a: "§MI must...§!"
+
+acot_shadow_victory_score: "§MThe Shadow Claims Victory§!"
+
+ACOT_THE_SHADOW_EMPIRE: "§MThe Shadow§!"
+ACOT_THE_SHADOW_EMPIRE_DESC: "§MThe Only Voice That Matters§!"
+
+acot_shadow_events.403.name: "The Voice Dissipates"
+acot_shadow_events.403.desc: "The commanding voice in our minds are gone. We did not know what happened but for a moment, it was as if we were so ready to surrender everything we have ever done to that strange entity...\n\n§Y"Yours is a truly gifted existence, [root.GetSpeciesName]. Let this light guide you in your struggles, and remember that the Light will always be with you..."\n\n...Whatever was the second voice that urged us to resist, was likely the reason we are still ourselves."
+acot_shadow_events.403.desc.b: "The commanding voice in our minds are gone. We did not know what happened but for a moment, it was as if we were so ready to surrender everything we have ever done to that strange entity...\n\n§Y"Yours is a truly gifted existence, [root.GetSpeciesName]. Let this light guide you in your struggles, and remember that the Light will always be with you..."\n\n...Whatever was the second voice that urged us to resist, was likely the reason we are still ourselves.\n\nIn addition, it would appear that §Y[event_target:shadow_compromised_leader.GetName]§!, who was previously acting suspiciously, is no more. They appears to have simply vanish."
+acot_shadow_events.403.a: "Let's hope that never happens again..."
+acot_shadow_events.403.b: "Were they an imposter all along?"

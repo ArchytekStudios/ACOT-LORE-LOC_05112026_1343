@@ -1,0 +1,596 @@
+﻿l_english:
+ 
+planet_pops_energy_upkeep_mult: "Food Upkeep Multiplier"
+planet_pops_food_upkeep_mult: "Energy Upkeep Multiplier"
+
+########################## MODIFIERS ##########################
+ 
+acot_modifier_fractured_mutants: "Void Mutants"
+acot_modifier_fractured_mutants_desc: "Unfortunate organic victims who managed to survive in this forsaken land. They hold a stronghold that must be rooted out by ground forces.\n\n§RWill attack the colony periodicially if poorly defended.§!\n§EConstruct Outpost Districts to deter or prevent these attacks.§!"
+ 
+acot_void_mutants_army: "Void Mutant"
+acot_void_mutants_army_plural: "Void Mutants"
+acot_void_mutants_army_desc: "Unfortunate organic victims who managed to survive in this forsaken land. They retain only basic intelligence to operate various enigmatic equipment akin to tribals and outlaws. Although not particularly skilled, their resistance to most weapons and their impressive regeneration factors make them formidable foes."
+ 
+acot_void_mutants_hero: "Void Warlord"
+acot_void_mutants_hero_plural: "Void Warlords"
+acot_void_mutants_hero_desc: "Unfortunate organic victims who managed to survive in this forsaken land. They retain only basic intelligence to operate various enigmatic equipment akin to tribals and outlaws. The Chieftains are notably more skilled in both tactical combats and mastery over their new powers."
+ 
+ 
+decision_acot_kill_void_mutant: "Attack Mutant Strongholds"
+decision_acot_kill_void_mutant_desc: "Initiate the attack on all major mutant strongholds in an attempt to take down their base of operation and clear them off the planet."
+ 
+##########################
+ 
+acot_modifier_fractured_lifeforms: "Void Fiends"
+acot_modifier_fractured_lifeforms_desc: "Abominations mutated from local wildlifes that managed to thrive under this harsh environment, their nest must be burnt out by ground forces.\n\n§RWill attack the colony periodically if poorly defended.§!\n§EConstruct Outpost Districts to deter or prevent these attacks.§!"
+ 
+acot_void_fiends_army: "Void Fiend"
+acot_void_fiends_army_plural: "Void Fiends"
+acot_void_fiends_army_desc: "Abominations mutated from local wildlifes that managed to thrive under this harsh environment. Many of them seem to be able to generate powerful attacks using both dark energy and dark matter."
+ 
+acot_void_fiends_hero: "Void Crusher"
+acot_void_fiends_hero_plural: "Void Crushers"
+acot_void_fiends_hero_desc: "Massive Abominations mutated from local wildlifes that managed to thrive under this harsh environment. The Void Crusher towers above buildings and is immensely dangerous."
+ 
+ 
+decision_acot_kill_void_lifeform: "Invade Fiend Nests"
+decision_acot_kill_void_lifeform_desc: "Initiate the attack on all major fiend nests in an attempt to cleanse down their infestation and clear them off the planet. "
+ 
+##########################
+ 
+acot_modifier_fractured_sentient_crystal: "Void Crystals"
+acot_modifier_fractured_sentient_crystal_desc: "Local mineral clusters and rock formations that appears to have been animated by the unstable enigmatic energies of the planet, their underground cavern must be destroyed by ground forces.\n\n§RWill attack the colony periodically if poorly defended.§!\n§EConstruct Outpost Districts to deter or prevent these attacks.§!"
+ 
+acot_void_crystal_army: "Void Crystal"
+acot_void_crystal_army_plural: "Void Crystals"
+acot_void_crystal_army_desc: "Local mineral clusters and rock formations that appears to have been animated by the unstable enigmatic energies of the planet, effectively turning them into sentient golems with massive destructive power...KONO POWAH?"
+ 
+acot_void_crystal_hero: "Void Colossus"
+acot_void_crystal_hero_plural: "Void Colossi"
+acot_void_crystal_hero_desc: "Local mineral clusters and rock formations that appears to have been animated by the unstable enigmatic energies of the planet, effectively turning them into sentient colossi with stupidly massive destructive power...KONO POWAH?"
+ 
+ 
+decision_acot_kill_void_crystal: "Route Crystal Caves"
+decision_acot_kill_void_crystal_desc: "Initiate the attack on all major Void Crystal Clusters in an attempt to stop their spread and clear them off the planet."
+ 
+##########################
+ 
+acot_modifier_fractured_machines: "Void Machines"
+acot_modifier_fractured_machines_desc: "Leftover machines and devices that became corrupted with dark energies. Their factory must be destroyed by ground forces.\n\n§RWill attack the colony periodically if poorly defended.§!\n§EConstruct Outpost Districts to deter or prevent these attacks.§!"
+ 
+acot_void_machine_army: "Void Machine"
+acot_void_machine_army_plural: "Void Machines"
+acot_void_machine_army_desc: "Leftover machines and devices that became corrupted with dark energies. Though generally weak, their massive numbers can quickly overwhelm ill-prepared armies."
+ 
+acot_void_machine_hero: "Void Eraser"
+acot_void_machine_hero_plural: "Void Erasers"
+acot_void_machine_hero_desc: "Leftover machines and devices that became corrupted with dark energies. The Erasers appear to be far more advanced and deadly than their frail counterparts."
+ 
+decision_acot_kill_void_machine: "Assault Void Factories"
+decision_acot_kill_void_machine_desc: "Initiate the attack on all major Void Factories in an attempt to stop their production and clear them off the planet."
+ 
+##########################
+ 
+acot_modifier_fractured_plants: "Void Flora"
+acot_modifier_fractured_plants_desc: "Plants and trees that have been affected by dark matter and poses a great threat to the colony. The forest must be burnt out by ground forces.\n\n§RWill attack the colony periodically if poorly defended.§!\n§EConstruct Outpost Districts to deter or prevent these attacks.§!"
+ 
+acot_void_plant_army: "Void Flora"
+acot_void_plant_army_plural: "Void Floras"
+acot_void_plant_army_desc: "Plants and trees that have been affected by dark matter and pose a great threat to the colony. They can generate deadly corrosive matter that can melt through shields and armor and their thorns are as sharp as high-frequency blades."
+ 
+acot_void_plant_hero: "Void Terror"
+acot_void_plant_hero_plural: "Void Terrors"
+acot_void_plant_hero_desc: "Plants and trees that have been affected by dark matter and pose a great threat to the colony. The Terror is especially huge and deadly, capable of killing multiple heroes of the storm at once with just one swing."
+ 
+ 
+decision_acot_kill_void_flora: "Burn Void Gardens"
+decision_acot_kill_void_flora_desc: "Initiate the attack on all major void gardens in an attempt to burn them out and clear them off the planet."
+ 
+##########################
+
+d_acot_ruined_bunker: "Collapsed Bunker"
+d_acot_ruined_bunker_desc: "Before the fall, the capital city used to have countless passages that could be used in emergency. But the overwhelming firepowers have caused these bunker entrances to collapse. If we can clear the path, we may be able to see what's left inside.\n\nThere're also hostile entities detected. Each time we open them, we must expect a tough fight."
+
+d_acot_advanced_fractured_bunker: "Ancient Delta Bunker"
+d_acot_advanced_fractured_bunker_desc: "These bunkers are meant for more important stuffs back in the old days. They are notably more advanced and well-maintained. It'll take a considerbly longer time and resources to open them up. But at least there are no hostiles in the area.\n\n§ERequires Zero-Point Reactor Technology to open.§!"
+d_acot_advanced_fractured_bunker_check: "§RRequires Zero-Point Reactor Technology to open.§!"
+##########################
+ 
+d_acot_void_terrain: "Shifting Terrain"
+d_acot_void_terrain_desc: "The terrains of this world have been greatly altered by powerful enigmatic forces, causing them to constantly shift. If left unchecked, they may damage or destroy buildings and districts."
+ 
+tech_acot_end_shifting_ground: "Stabilize Terrain"
+tech_acot_end_shifting_ground_desc: "Terraform and stabilize the terrains with synthesized dark matter and dark energy to prevent further alterations to their structure."
+ 
+ 
+##########################
+ 
+d_acot_void_rift: "Unstable Void Rifts"
+d_acot_void_rift_desc: "The leftover bombardments to this ravaged world has caused unstable void rifts to appear. These rifts suck away and consume anything in its path. They pose great dangers to the populace if left unchecked."
+ 
+tech_acot_end_rift: "Collapse the Rifts"
+tech_acot_end_rift_desc: "A concentrated beam of dark energy can be fired on a massive dark matter-infused object while it travels into the rifts to cause both entities to destabilize and eventually collapse the rifts."
+ 
+##########################
+ 
+d_acot_void_chasm: "Void Chasm"
+d_acot_void_chasm_desc: "Massive chasms that constantly expand, eating away space and preventing the construction of any districts. If left unchecked, they may destroy our districts and reduce build space."
+ 
+tech_acot_end_chasm: "Clear Void Chasm"
+tech_acot_end_chasm_desc: "Void Chasms can be eliminated by creating massive pavements using hard-light technology to create synthesized pavements that will nullify and eventually stop the expansion of the chasms."
+ 
+############################# EVENTS #############################
+ 
+acot_planets.300.name: "Void Machine Attacks!"
+acot_planets.300.desc: "The corrupted Void Machines have attacked our colony on [root.GetName]! We must drive them back or the colony may be lost!"
+acot_planets.300.a: "They oppose [root.GetRulerName]!"
+ 
+acot_planets.301.name: "Void Mutant Attacks!"
+acot_planets.301.desc: "The crazed Void Mutants have attacked our colony on [root.GetName]! We must drive them back or the colony may be lost!"
+acot_planets.301.a: "Kill the mutants!"
+ 
+acot_planets.302.name: "Void Flora Attacks!"
+acot_planets.302.desc: "The hostile Void Floras have attacked our colony on [root.GetName]! We must drive them back or the colony may be lost!"
+acot_planets.302.a: "Burn them alive!"
+ 
+acot_planets.303.name: "Void Fiends Attacks!"
+acot_planets.303.desc: "The rabid Void fields have attacked our colony on [root.GetName]! We must drive them back or the colony may be lost!"
+acot_planets.303.a: "They must die!"
+ 
+acot_planets.304.name: "Void Crystal Attacks!"
+acot_planets.304.desc: "The agitated Void Crystals have attacked our colony on [root.GetName]! We must drive them back or the colony may be lost!"
+acot_planets.304.a: "Eliminate them!"
+
+acot_planets.305.name: "[root.GetName] is lost!"
+acot_planets.305.desc: "The hostiles on the planet of [root.GetName] has overran the cities and the colony is effectively lost."
+acot_planets.305.a: "We are too late..."
+################################################ VOID SPHERE ########################
+ 
+acot_planets.1.name: "Infestation Cleansed!"
+acot_planets.1.desc.mutant: "We have triumphed against the Void Mutants on [FROMFROM.GetName]! Cleanup Team is now taking out any left-over stragglers!"
+acot_planets.1.desc.lifeform: "We have triumphed against the Void Lifeforms on [FROMFROM.GetName]! Cleanup Team is now taking out any left-over stragglers!"
+acot_planets.1.desc.machine: "We have triumphed against the Void Machines on [FROMFROM.GetName]! Cleanup Team is now taking out any left-over stragglers!"
+acot_planets.1.desc.crystals: "We have triumphed against the Void Crystals on [FROMFROM.GetName]! Cleanup Team is now taking out any left-over formations!"
+acot_planets.1.desc.plants: "We have triumphed against the Void Floras on [FROMFROM.GetName]! Cleanup Team is now taking out any left-over plants!"
+acot_planets.1.a.mutant: "No mere mutants can stand against our might!"
+acot_planets.1.a.lifeform: "But beasts for slaughter!"
+acot_planets.1.a.machine: "Broken machines cannot stop us!"
+acot_planets.1.a.crystals: "Crystals existed to be mined!"
+acot_planets.1.a.plants: "These floras are weak!"
+ 
+acot_planets.2.name: "Assault Failed!"
+acot_planets.2.desc: "We have failed in our assault on [FromFrom.GetName]! The massive damage caused by both sides have further destabilized the world, finally causing it to blow up!"
+acot_planets.2.a: "We underestimated the threat..."
+ 
+################################################ PLANET SHOWER ########################
+
+decision_acot_declare_exterminatus: "Declare Exterminatus"
+decision_acot_declare_exterminatus_desc: "Declare Priority Exterminatus on the selected planet, causing it to be excommunicated and deemed no longer part of our empire. This will allow us to bombard the planet with impunity."
+ 
+decision_acot_declare_exterminatus_effect: "The planet will become §Rhostile§! and vulnerable to orbital bombardment.\n\nIt is recommended to remove planetary defense systems like orbital cannons or planetary shield generators first."
+ 
+
+decision_acot_final_word_protocol: "Final Word Protocol"
+decision_acot_final_word_protocol_desc: "Issues Final Word Protocol on the selected planet. Terraforming Equipments will be prepped, allowing us to prepare to fracture or melt the planet in a quick and controlled manner."
+decision_acot_final_word_protocol_effect: "A Special Project will be added to fracture or destroy the planet.\n\nTransforming an existing fractured world into ultrafractured world will be cheaper than other types of worlds.\n\nPlanets fractured through this method will not spawn void lifeforms and will generate less blockers."
+ 
+ACOT_FINAL_WORD_PLANET: "Final Word on §H[FromFrom.GetName]§!"
+ACOT_FINAL_WORD_PLANET_DESC: "By order of our great empire, the world of §H[FromFrom.GetName]§! is sentenced to Final Word Protocol. Science Ships must be stationed for strategic deployment of warheads on key locations to trigger a controlled detonation.\n\nIf the timer run outs, half of the influence costs will be refunded."
+
+ACOT_STABLIZE_PLANET: "Stablization Project on §H[FromFrom.GetName]§!"
+ACOT_STABLIZE_PLANET_DESC: "The world of §H[FromFrom.GetName]§! is filled with violent void storms and must be stablized before visual scans on the planet surfaces can be made."
+
+decision_acot_fractured_stablize: "Stabilize Fractured World"
+decision_acot_fractured_stablize_desc: "Prepare the procedure to stabilize the violent storms off the fractured world."
+
+decision_stellarite_reactor_detonation: "Honorable Discharge"
+decision_stellarite_reactor_detonation_desc: "Issues Honorable Discharge Protocol on the selected planet, starting countdown for reactor meltdown and unleash massive explosion of stellarite power that will destroy the planet and destroys any ships orbiting it."
+ 
+decision_stellarite_reactor_detonation_effect: "The amount of damage is determined by the numbers of stellarite generators on the planet.\n\nAfterwards, a Stellarite Energy Bomb will form above the planet's orbit and will explode withi a few months causing system-wide damage if its not being destroyed."
+
+############### PLANETS UPGRADE ########################
+ 
+decision_upgrade_gen_growth: "Replicator Infusion"
+decision_upgrade_gen_growth_desc: "Infuse the atmosphere on this planet with powerful genetic agents that will allow its population the ability to relicate themselves at will, bypassing the need for sexual activity and natural growth entirely, greatly increasing growth rate."
+ 
+acot_modifier_upgrade_gen_growth: "Replicators"
+acot_modifier_upgrade_gen_growth_desc: "Every population in this planet possess their own replicative organs systems, greatly boosting their growth rate. "
+ 
+decision_upgrade_gen_adapt: "Void-nutrient Absorption"
+decision_upgrade_gen_adapt_desc: "Infuse the population on this planet with genetic sequences that allow them to completely negate the need for food through the process of sub-dimensional nutrient absorption field."
+ 
+acot_modifier_upgrade_gen_adapt: "Void-nutrient Absorption"
+acot_modifier_upgrade_gen_adapt_desc: "Every population on this planet can absorb nutrients by generating personal sub-dimensional fields, negating the need for most sustenance."
+ 
+decision_upgrade_synth_extra_space: "Dynamic Body Selection System"
+decision_upgrade_synth_extra_space_desc: "Upgrade all populations on this planet with advanced synthetic bodies, allowing them to reshape their physical body and constructs around them at will. The increased free space will grant the planet extra district space. (Ringworld gets extra one)"
+ 
+acot_modifier_upgrade_synth_extra_space: "Dynamic Body Selection"
+acot_modifier_upgrade_synth_extra_space_desc: "Thanks to advanced synthetic, every pop on this planet can reshape their physical body and constructs around them at will, enabling the planet to house much more districts than otherwise."
+ 
+acot_modifier_upgrade_synth_extra_space_ringworld: "Dynamic Body Selection"
+acot_modifier_upgrade_synth_extra_space_ringworld_desc: "Thanks to advanced synthetic, every pop on this planet can reshape their physical body and constructs around them at will, enabling the planet to house much more districts than otherwise."
+ 
+decision_upgrade_synth_assemble: "Independent Exo-limbs"
+decision_upgrade_synth_assemble_desc: "Upgrades the population on this planet to use independent Exo-Limbs, allowing them to perform tasks without the need to have full bodies, reducing the time needed for their physical systems to be assembled."
+ 
+acot_modifier_upgrade_synth_assemble: "Independent Exo-limbs"
+acot_modifier_upgrade_synth_assemble_desc: "The synthetic population on this planet has no need to have full bodies to operate in their daily lives, reducing the time needed for their physical systems to be assembled. "
+ 
+decision_upgrade_psi_manipulate: "Psychokinesis Truth"
+decision_upgrade_psi_manipulate_desc: "Link the population of this planet through telepathy with carefully worded inspiration messages, increasing their ethics attraction and completely removing demotion timers."
+ 
+acot_modifier_upgrade_psi_manipulate: "Psychokinesis Truth"
+acot_modifier_upgrade_psi_manipulate_desc: "The population on this planet are linked through telepathy with carefully worded inspiration messages, increasing their loyalty and the necessity to devote oneself for the greater good should the need arise."
+ 
+decision_upgrade_psi_telekinesis: "Telekinesis Engineering"
+decision_upgrade_psi_telekinesis_desc: "Imbue all buildings on the planet with powerful telekinesis forces that read the minds of the population and move construction materials by themselves while providing its people with powerful psionic shields. "
+ 
+acot_modifier_upgrade_psi_telekinesis: "Telekinesis Engineering"
+acot_modifier_upgrade_psi_telekinesis_desc: "The planet is filled with powerful telekinesis forces that read the minds of the population and move construction materials by themselves while providing its people with powerful psionic shields."
+ 
+decision_upgrade_hive_harvest: "Ultra-adaptive Sequences"
+decision_upgrade_hive_harvest_desc: "Evolve the population with Ultra-adaptive Sequences, greatly increasing their productivity and responsiveness."
+ 
+acot_modifier_upgrade_hive_harvest: "Ultra-adaptive Sequences"
+acot_modifier_upgrade_hive_harvest_desc: "The population on this planet can quickly adapt themselves, both physically and mentally to perform any tasks, greatly increasing their productivity and responsiveness."
+ 
+decision_upgrade_hive_growth: "Multiplying Factors"
+decision_upgrade_hive_growth_desc: "Improves the planet's population growth by replacing healing factors with the ability to transform the wounds inflicted to the population into more of them."
+ 
+acot_modifier_upgrade_hive_growth: "Multiplying Factors"
+acot_modifier_upgrade_hive_growth_desc: "Rather than healing from damage sustained through injuries, the wounds inflicted to the population on this planet simply turn into more of them, greatly increasing their growth."
+ 
+decision_upgrade_machine_cyberspace: "Dimensional Cyberspace Network"
+decision_upgrade_machine_cyberspace_desc: "Eliminates housing needs for the population by enabling them to store their physical bodies automatically by entering self-created sub-dimensional spaces."
+ 
+acot_modifier_upgrade_machine_cyberspace: "Dimensional Cyberspace Network"
+acot_modifier_upgrade_machine_cyberspace_desc: "Populations on this planet have no need for housing, as their physical bodies automatically enter self-created sub-dimensional spaces to recover their systems."
+ 
+decision_upgrade_machine_upkeep: "Temporal Frame Systems"
+decision_upgrade_machine_upkeep_desc: "Reduces population upkeep by creating a small, basic but useful temporal field that suspends certain parts of their bodies in constant, everlasting state, negating the need to maintain them."
+ 
+acot_modifier_upgrade_machine_upkeep: "Temporal Frame Systems"
+acot_modifier_upgrade_machine_upkeep_desc: "Populations on this planet are able to create small, basic but useful temporal fields that suspend certain parts of their bodies in constant, everlasting state, negating the need to maintain them. "
+ 
+
+
+ACOT_COLONIZATION_IMPOSSIBLE_NEED_FRACTURED_TECH: "§RThis planet requires a proper technology to colonize.§!"
+
+################################################ VOID SPHERE ########################
+
+ACOT_CREATE_ENIGMATIC_WORLD: "Dimensional Reconstitution"
+ACOT_CREATE_ENIGMATIC_WORLD_DESC: "If the fractured world is to become a stable and safe place again, resources and proper procedures will be required to not only reconstitute the planetary surface, but also to retain its unique dimensional anchor properties."
+ 
+tech_acot_create_enigmatic_world: "Enigmatic World Creation"
+tech_acot_create_enigmatic_world_desc: "It is time to embark on a new future. We have all the knowledge and technologies we need to truly create a marvel of the ages. A Void Sphere, a grand ecumenopolis that will usher in a new age of the empire."
+
+ACOT_CREATE_ENIGMAPOLIS: "Void Sphere Creation"
+ACOT_CREATE_ENIGMAPOLIS_DESC: "Several precursor archways must be installed on the planet to groom it as a Voidsphere."
+ 
+tech_acot_create_enigmapolis: "Void Within, Void Without"
+tech_acot_create_enigmapolis_desc: "It is time to embark on a new future. We have all the knowledge and technologies we need to truly create a marvel of the ages. A Void Sphere, a grand ecumenopolis that will usher in a new age of the empire."
+ 
+decision_transform_into_enigmatic_planet: "Dimensional Reconstitution"
+decision_transform_into_enigmatic_planet_desc: "If the fractured world is to become a stable and safe place again, resources and proper procedures will be required to not only reconstitute the planetary surface, but also to retain its unique dimensional anchor properties."
+
+decision_transform_into_super_awesome: "Void Sphere Creation"
+decision_transform_into_super_awesome_desc: "Prepare to groom this planet into a Void Sphere. Massive resources and efforts will be required."
+ 
+decision_acot_redeploy_voidsphere_halo: "Redeploy Halo Sphere"
+decision_acot_redeploy_voidsphere_halo_desc: "Why was it gone again?"
+decision_acot_redeploy_voidsphere_halo_effect: "Rebuilds the missing Voidsphere Halo. Will delete any other existing orbital ring if exists."
+
+acot_planets.4.name: "Fractured Reconstitution"
+acot_planets.4.desc: "The process to reconstitute [root.GetName] will now begin, send in a science ship to orbit the planet where it will assist in the terraformation process."
+acot_planets.4.a: "Proceed."
+ 
+acot_planets.5.name: "[FROMFROM.GetName] Reconstitution Completed!"
+acot_planets.5.desc: "The reconstitution of [FROMFROM.GetName] has been completed! The planet has been restored to a more tangible state and most harzardous effects has been reduced to minimum level."
+acot_planets.5.a: "Well done."
+ 
+acot_planets.6.name: "Void Sphere Construction"
+acot_planets.6.desc: "To begin grooming [root.GetName], send in a construction ship and a science ship to orbit the planet where they will build the sphere around the planet and terraform it."
+acot_planets.6.a: "No time to waste."
+ 
+acot_planets.7.name: "Void Sphere Completed!"
+acot_planets.7.desc.a: "The creation of the Void Sphere on §E[FROMFROM.GetName]§! has been completed! All systems fully operational and the planet now stands as jewels of the void and the envy of the stars.\n\nA creation of this awesome magnitude deserves to be written down in history as our greatest triumph. Many are urging us to declare our dominance and victory over the galaxy.\n\nDare we indulge such requests?"
+acot_planets.7.desc.b: "The creation of another Void Sphere on §E[FROMFROM.GetName]§! has been completed! All systems fully operational and the planet now stands as jewels of the void and the envy of the stars."
+acot_planets.7.a: "Indeed. A victory for the ages."
+acot_planets.7.a.tooltip: "Our empire will officially win the game, but we can still continue on as normal."
+acot_planets.7.b: "Indeed. A victory for the ages."
+acot_planets.7.b.tooltip: "Too early to believe that one planet would call for a victory."
+acot_void_sphere_score: "§EVoid Sphere Created§!"
+acot_planets.7.c: "Awesome!"
+ 
+acot_void_sphere_ship: "Unleashed Void Sphere"
+acot_void_sphere_ship_plural: "Unleashed Void Sphere"
+ACOT_VOIDSPHERE_SECTION: "Void Sphere"
+
+decision_voidsphere_dimension_travel: "§BDimensional Travel§!"
+decision_voidsphere_dimension_travel_desc: "Prepares a team of Dimensional Travelers to brave into the great unknown in hopes of unveiling new mysteries."
+decision_voidsphere_dimension_travel_effect: "Dimensional Travel sends a group of brave souls to traverse into the beyond to find valuable assets. The more we do this, the better our people will become at exploring, making future attempts easier...assuming they survive."
+decision_voidsphere_dimension_travel_error_no_portal: "§RNo availiable portals.§!"
+
+
+acot_planets.9.name: "Dimensional Travel"
+acot_planets.9.desc: "A team of Dimensional Travelers have been assembled on [FROMFROM.GetName]. They have prepared themselves for whatever is to come. They are awaiting final confirmation whether to proceed. Shall they?\n\nWe do not know what will they find, or how long will they take to come back to us. So we should take that into consideration."
+acot_planets.9.a: "Venture Forth!"
+acot_planets.9.b: "No, cancel the expedition."
+
+acot_planets.900.name: "To Infinity and Beyond"
+acot_planets.900.desc: "The group has crossed into one of the stable portals. Now we just have to wait.\n\nWe must make sure that the planet retains at least one Alphascape Portal, or else our brave travelers will not be able to return!"
+acot_planets.900.a: "Safe Journey!"
+
+acot_planets.902.name: "Empty Hands"
+acot_planets.902.desc: "The Dimensional Travelers we sent awhile ago has returned. Unfortunately, they did not find anything that could be of use, but the experiences they gathered should aid us in future expedition."
+acot_planets.902.a: "At least everyone returned."
+
+acot_planets.903.name: "Contact Lost"
+acot_planets.903.desc: "We just got a total flatline alert on one of the Dimensional Traveler group. This means that none of them survived."
+acot_planets.903.a: "Unfortunate"
+
+acot_planets.904.name: "Finder's Keepers"
+acot_planets.904.desc: "The Dimensional Travelers we sent awhile ago has returned. They manage to harvest some resources from leftover pocket dimensions that remained intact, possibly having been created by ancient empires in the past."
+acot_planets.904.a: "Ours now!"
+
+acot_planets.905.name: "Big Chungus"
+acot_planets.905.desc: "The Dimensional Travelers we sent awhile ago has returned. Apparently they managed to stumble upon a remains of broken dimension that appears to have been part of a great battle between Phanon Corps and an unknown faction, but the debris clearly resembled those of ancient precursor designs. The only survivor of this carnage, is a single giant Phanon Warbeast that appears to be custom-built. Apparently it is programmed to follow the commands of a new handler that manages to find it. So the team took it back here, along with whatever salvages they could find."
+acot_planets.905.a: "Oh great, our very own super beast!"
+acot_planets.905.b: "Scrap it. There's no use for that thing."
+
+acot_army_big_chungus: "Big Chungus"
+acot_army_big_chungus_plural: "Big Chungus"
+acot_army_big_chungus_desc: "Heavy modifiled and customized Phanon Terror Tusk. It seems surprisingly calm and quiet despite its massive size."
+
+acot_army_big_chungus_def: "Big Chungus"
+acot_army_big_chungus_plural: "Big Chungus"
+acot_army_big_chungus_desc: "Heavy modifiled and customized Phanon Terror Tusk. It seems surprisingly calm and quiet despite its massive size."
+
+
+acot_planets.9050.name: "Big Chungus Rampage!"
+acot_planets.9050.desc: "It appears the new monstrous guest doesn't entertain the idea of being salvaged. We'll have to get rid of it, the only fashioned-way."
+acot_planets.9050.a: "Take it down! Take it down!"
+
+acot_planets.906.name: "The Dark Lady"
+acot_planets.906.desc: "The Dimensional Travelers we sent awhile ago has returned. They reported that they almost did not make it, having been stuck in endless loop of different chaotic rifts, but they managed to encounter a strange humanoid lady who appears to be an extremely powerful and ancient psion, for her power defy all expectations, and she speaks with multiple different voices in unison. She calls herself §R"Lumiya"§!\n\nCombining her power with the team's navigation beacon allow them to arrive back safety. She wishes to return to her realm, and provide a coordiante for it."
+acot_planets.906.a: "Very well, grant the lady her wish."
+acot_planets.906.b: "Actually, she should stay with us."
+acot_planets.906.c: "No, she dies here."
+
+acot_planets.9060.name: "Wrath of Lumiya"
+acot_planets.9060.desc: "§R"Fools, I will not be confined here in this pathetic galaxy of yours! I will find my own way out."§!\n\nLimiya unleashes a terifying psionic power, damaging various systems across the entirety of §Y[root.GetName]§!.\n\nShe then disappears. Her current location is now unknown."
+acot_planets.9060.a: "Damn it! Call the maintenance!"
+
+acot_planets.9061.name: "Lumiya's Refusal"
+acot_planets.9061.desc: "§R"Unfortunately, I must decline. I dislike the way your empire feels. It is...sickening."§!\n\nLimiya appears unimpressed with our offer, she seems to only desire to leave."
+acot_planets.9061.a: "Oh fine, go away then."
+acot_planets.9061.b: "Detain her!"
+acot_planets.9061.c: "Kill the damn witch then."
+
+acot_planets.9062.name: "Lumiya's Approval"
+acot_planets.9062.desc: "§R"Hmm...your empire seems...sufficiently pleasing to me. Very well, I shall indulge your desire. For now..."§!\n\nLooks like we manage to get Lumiya to work with us. She should prove to be quite a deadly combatant both on the ground and in space, as the need arises."
+acot_planets.9062.a: "Welcome to the game, Psion Lumiya."
+
+### Lumiya Components and Units ###
+
+acot_lumiya_weakened_debuff: "Ruined Garment"
+acot_lumiya_weakened_debuff_desc: "Lumiya's dress is in tatters, broken armor there, cleavage showing up and stuffs. Basically fan-service. You shouldn't be able to read this unless you look for it. So go away, let the Panada goon!"
+
+# Units
+
+acot_army_lumiya: "§RLady Lumiya§!"
+acot_army_lumiya_plural: "§RLady Lumiya§!"
+acot_army_lumiya_desc: "An Ancient Dark Psion with terrifying degrees of power. She dwarfs other Dark Psions in terms of power. Such is her strength that she can even participate in space battle. Lumiya will automatically enter her space mode should she be defeated in battle, but she will be temporarily weakened for 5 years.\n\nLumiya can be  told to enter space mode through a decision."
+
+acot_army_lumiya_dummy: "§RLady Lumiya§!"
+acot_army_lumiya_dummy_plural: "§RLady Lumiya§!"
+acot_army_lumiya_dummy_desc: "An Ancient Dark Psion with terrifying degrees of power. She dwarfs other Dark Psions in terms of power. Such is her strength that she can even participate in space battle. Lumiya will automatically enter her space mode should she be defeated in battle, but she will be temporarily weakened for 5 years.\n\nLumiya can be  told to enter space mode through a decision."
+
+acot_ship_lumiya: "§RAncient Psionic Avatar§!"
+acot_ship_lumiya_plural: "§RAncient Psionic Avatar§!"
+acot_ship_lumiya_cap: "§RAncient Psionic Avatar§!"
+
+# Components
+
+ACOT_LUMIYA_SPEAR: "Chaos Blades"
+ACOT_LUMIYA_SPEAR_DESC: "Materializing spikes to take out energy shields can be quite useful for psions. A technique which Lumiya learned from one of the Dimensional Horrors."
+
+ACOT_MISSILE_LUMIYA: "Chaos Bolts"
+ACOT_MISSILE_LUMIYA_DESC: "With enough psionic focus, even shields can break, especially if you combine two different psionic techniques!"
+
+ACOT_MISSILE_LUMIYA_XL_PYRO: "Pyrokinetic Orb"
+ACOT_MISSILE_LUMIYA_XL_PYRO_DESC: "Lumiya loves burning stuffs up. A lot."
+
+ACOT_MISSILE_LUMIYA_XL_PSI: "Chaos Orb"
+ACOT_MISSILE_LUMIYA_XL_PSI_DESC: "Thinking destructive thoughts can be fun, if managed carefully!"
+
+ACOT_LUMIYA_LANCE: "Lumiya's Thunder"
+ACOT_LUMIYA_LANCE_DESC: "A psionic attack of Lumiya's own design in the form of a powerful chain-reaction electrokinesis."
+acot_lumiya_lance_tt: "Deals §Y11,000 - 44,000§! hull damage to §E6§! ships within §Y50§! range of the target. Can stack on the same target."
+
+ACOT_TITANIC_LUMIYA: "Zroni's Bane"
+ACOT_TITANIC_LUMIYA_DESC: "Mastering a technique originally created by the Zroni was challenging. Even more challenging still, was to repurpose it as a weapon to kill the inventors."
+acot_lumiya_titanic_tt: "Deals §Y80,000§! hull damage to all hostile ships in the system."
+
+ACOT_CLOUDBALL_LUMIYA: "Zroni Thralls"
+ACOT_CLOUDBALL_LUMIYA_DESC: "Even the Would-Be Gods can learn the wisdom of submission, for a chance to walk among the living again.\n\nEvidently, they are not very good at detecting lies though, or perhaps her charisma was simply too much?"
+
+ACOT_POINT_DEFENSEL_LUMIYA: "Electrokinesis Defense"
+ACOT_POINT_DEFENSEL_LUMIYA_DESC: "Though not exactly her expertise, the power is useful to deter against incoming attacks so she keeps it in her mind."
+
+ACOT_LUMIYA_COMPONENT: "Exalian Resolute Soul"
+ACOT_LUMIYA_COMPONENT_DESC: "Though the body that she inhibits is not her own, nor was it one of the most powerful psionic species to walk the cosmos, her soul remains true and pure. The rest? Merging with some fortunate (or unforunate) souls did help."
+
+ACOT_LUMIYA_SHROUD_DRIVE: "Psionic Transfer"
+ACOT_LUMIYA_SHROUD_DRIVE_DESC: "Ferrymen of Shadow is perhaps one of the few Zroni-Shroud Entities that Lumiya tolerates enough to make a bargain with. Even if she loathed to rely on it to conserve her own powers for other uses."
+
+ACOT_LUMIYA_PSIONIC_REPEL: "Pain Channeler"
+ACOT_LUMIYA_PSIONIC_REPEL_DESC: "Another Zroni-Shroud Entities that Lumiya shares some tolerances due to their similar interests, except one like to inflict the pain and the other enjoy being the receiver."
+
+ACOT_LUMIYA_SENSOR: "Psionic Divination"
+ACOT_LUMIYA_SENSOR_DESC: "Though not as powerful as a real advanced sensors, Lumiya can effective uses her divination powers to grasp the nature of cosmos to navigate. It also gives her near perfect accuracy and tracking capabilities."
+
+ACOT_LUMIYA_THRUSTERS: "Psionic Shift"
+ACOT_LUMIYA_THRUSTERS_DESC: "Exalians like Lumiya can navigate in space on their own without needing ships, but to reach competitive speed of advanced thrusters, she does need to use her psionic powers."
+
+ACOT_LUMIYA_PILLAR_XL_PURPLE: "Psionic Blast"
+ACOT_LUMIYA_PILLAR_XL_PURPLE_DESC: "A blast of psionic power from an echo of he who would become god."
+
+ACOT_LUMIYA_PILLAR_XL_RED: "Psionic Blast"
+ACOT_LUMIYA_PILLAR_XL_RED_DESC: "A blast of psionic power from an echo of he who fell from godhood."
+
+ACOT_LUMIYA_PILLAR_XL_GREEN: "Psionic Blast"
+ACOT_LUMIYA_PILLAR_XL_GREEN_DESC: "A blast of psionic power from an echo of she who claimed to be god."
+
+ACOT_LUMIYA_PILLAR_MISSILE_PURPLE: "Psionic Bolts"
+ACOT_LUMIYA_PILLAR_MISSILE_PURPLE_DESC: "A bolt of psionic power from an echo of he who would become god."
+
+ACOT_LUMIYA_PILLAR_MISSILE_RED: "Psionic Bolts"
+ACOT_LUMIYA_PILLAR_MISSILE_RED_DESC: "A bolt of psionic power from an echo of he who fell from godhood."
+
+ACOT_LUMIYA_PILLAR_MISSILE_GREEN: "Psionic Bolts"
+ACOT_LUMIYA_PILLAR_MISSILE_GREEN_DESC: "A bolt of psionic power from an echo of she who claimed to be god."
+
+# Scripted Actions
+
+acot_lumiya_weakened_cooldown: "§RWeakened Lumiya§!"
+acot_lumiya_weakened_cooldown_desc: "Having been bested in combat, Lumiya retreats to gather her strength. Until then, she'll be severely weakened, and won't be able to use most of her powerful abilities."
+
+acot_lumiya_weaken_fail_condition: "§RWeakened. Cannot use abilities!§!"
+
+on_acot_lumiya_return_activated: "§MPsionic Return§!"
+acot_lumiya_return_name: "§MPsionic Return§!"
+acot_lumiya_return_tooltip: "§MPsionic Return§!\n\nOrders Lumiya to use her psionic powers to immediately return to the empire's capital planet."
+acot_lumiya_return_key: "§MChanneling Return§!"
+acot_lumiya_return_fail_condition: "§RReturn on Cooldown§!"
+acot_lumiya_return_cooldown: "§RLumiya Return is on Cooldown§+"
+acot_lumiya_return_cooldown_desc: "Lumiya has recently used the Return power, and won't be able to use it again until she rests and gathers enough power."
+
+acot_lumiya_army_debuff: "Psychokinetic Scream"
+acot_lumiya_army_debuff_desc: "The Voices Cloud All."
+
+on_acot_lumiya_land_activated: "§MDark Descend§R"
+acot_lumiya_land_name: "§MDark Descend§R"
+acot_lumiya_land_tooltip: "§MDark Descend§!\n\nOrders Lumiya to land on the target planet. If the planet is hostile, she'll automatically engage in battle, and will return to her space avatar form should she be victorious."
+acot_lumiya_land_key: "§MDescending§!"
+acot_lumiya_land_fail_condition: "§RCannot land on this planet!§!"
+
+on_acot_lumiya_dominate_planet_activated: "§RPlanetary Domination§!"
+acot_lumiya_dominate_planet_name: "§RPlanetary Domination§!"
+acot_lumiya_dominate_planet_tooltip: "§RPlanetary Domination§!\n\nOrders Lumiya to uses her telepathic powers to instantly mind control all non-gestalt organic armies on the planet. If the planet has no mechanical armies or pops, then the control is immediately transferred to Lumiya's owner.\n§EShares cooldown with Space Domination.§!"
+acot_lumiya_dominate_planet_key: "§RDominating§!"
+acot_lumiya_dominate_planet_fail_condition: "§RThis planet has no organics to control!§!"
+
+on_acot_lumiya_dominate_space_activated: "§RSpace Domination§!"
+acot_lumiya_dominate_space_name: "§RSpace Domination§!"
+acot_lumiya_dominate_space_tooltip: "§RSpace Domination§!\n\nOrders Lumiya to uses her telepathic powers to assault the minds of all hostile non-gestalt-owned fleets in the system. Affected enemy fleets will either be permanently mind controlled, turned berserk, or unaffected.\n\n§YOnly affects  military fleets owned by a specific type of empires, and can be blocked by certain conditions.\n§EShares cooldown with Planetary Domination.§!"
+acot_lumiya_dominate_space_key: "§RSpace Dominating§!"
+acot_lumiya_dominate_space_fail_condition: "§RThis system has no enemies that can be domianted!§!"
+
+acot_lumiya_dominate_cooldown: "§RLumiya Dominate is on Cooldown§!"
+acot_lumiya_dominate_cooldown_desc: "Lumiya has recently used her mind control power, and must gather her thoughts."
+
+acot_lumiya_dominate_debuff: "Addled Mind"
+acot_lumiya_dominate_debuff_desc: "The scream tears through all sanity..."
+
+on_acot_lumiya_tridisaster_activated: "§RTri-Disaster§!"
+acot_lumiya_tridisaster_name: "§RTri-Disaster§!"
+acot_lumiya_tridisaster_tooltip: "§RTri-Disaster§!\n\nOrders Lumiya to perform one of her most powerful ultimate ability; Tri-Disaster. When channeled, she will summon §Ythree psionic pillars§!, each capable of dealing large amount of damage on their own. If all three pillars remain intact after §Y2§! months, they will create a powerful detonation that utterly destroys the system, and creates a chain reaction that destroy approximately §E4§! adjacent systems while dealing §R500000-2500000§! damage to all space entities save for herself and a few entities.\n\n§YBe careful when using on event-critical object/system!§!"
+acot_lumiya_tridisaster_key: "§RTri-Disaster§!"
+acot_lumiya_tridisaster_fail_condition: "§RThis system or its neighbour belong to neutral faction!§!"
+
+acot_lumiya_tridisaster_cooldown: "§RLumiya Tri-Disaster is on Cooldown§!"
+acot_lumiya_tridisaster_cooldown_desc: "Lumiya has recently used her ultimate power."
+
+acot_ship_lumiya_tridisaster_pillar: "§RAncient Psionic Pillar§!"
+acot_ship_lumiya_tridisaster_pillar_plural: "§RAncient Psionic Pillars§!"
+acot_ship_lumiya_tridisaster_pillar_cap: "§RAncient Psionic Pillar§!"
+# Decisions
+
+decision_acot_unleash_lumiya: "§RUnleash Lumiya§!"
+decision_acot_unleash_lumiya_desc: "Let her wrath be felt upon her enemies."
+decision_acot_unleash_lumiya_effect: "Instructs Lumiya to assume the form of her avatar, where she can be used as a powerful space unit. Lumiya will also automatically assume this form if she's defeated in ground combat but she will be temporarily weakened for 5 years."
+
+decision_acot_recall_lumiya: "§RRecall Lumiya§!"
+decision_acot_recall_lumiya_desc: "Go home and be a family girl."
+decision_acot_recall_lumiya_effect: "Recalls Lumiya from space back onto the specified planet, where she will resume the form of her personal self and will act as an army unit.\n\nWill count as Psionic Return's Cooldown."
+
+#### Lumiya Events
+
+acot_lumiya_events.1.name: "Psionic Return"
+acot_lumiya_events.1.desc.a: "§R"I'll be in my room."§!"
+acot_lumiya_events.1.desc.b: "§R"I am back at your capital, what's next?"§!"
+acot_lumiya_events.1.desc.c: "§R"Not exactly what I'd call home, but it'll do."§!"
+acot_lumiya_events.1.desc.d: "§R"Returned and Restored."§!"
+acot_lumiya_events.1.a: "Be welcome."
+
+acot_lumiya_events.100.name: "Lumiya Unleashed"
+acot_lumiya_events.100.desc.a: "§R"I rage against the storm!"§!"
+acot_lumiya_events.100.desc.b: "§R"My power is unsurpassed!"§!"
+acot_lumiya_events.100.desc.c: "§R"The power surges! I rise!"§!"
+acot_lumiya_events.100.desc.d: "§R"Behold, the echo of Sobrak's brillance itself!"§!"
+acot_lumiya_events.100.a: "Power Overwhelming."
+
+acot_lumiya_events.200.name: "Dark Descent"
+acot_lumiya_events.200.desc.a: "§R"Time to make some friends~"§!"
+acot_lumiya_events.200.desc.b: "§R"Let's see how they play~"§!"
+acot_lumiya_events.200.desc.c: "§R"I'll enjoy this~"§!"
+acot_lumiya_events.200.desc.d: "§R"Oh, I like it~"§!"
+acot_lumiya_events.200.a: "Go wild."
+
+acot_lumiya_events.300.name: "Space Domination"
+acot_lumiya_events.300.desc.a: "§R"Be one with Lumiya~"§!"
+acot_lumiya_events.300.desc.b: "§R"Dark clouds will fall over this pathetic little planet~"§!"
+acot_lumiya_events.300.desc.c: "§R"Their minds are weak. I shall enlighten them."§!"
+acot_lumiya_events.300.desc.d: "§R"Gaze into my visage and embrace your new future~"§!"
+acot_lumiya_events.300.a: "Dominate them."
+
+acot_lumiya_events.4.name: "Space Domination"
+acot_lumiya_events.4.desc.a: "§R"Serve [event_target:source_country.GetName]. Serve Lumiya!"§!"
+acot_lumiya_events.4.desc.b: "§R"Their thoughts betray their nature~"§!"
+acot_lumiya_events.4.desc.c: "§R"Open your hearts and souls to me, weaklings~!"§!"
+acot_lumiya_events.4.desc.d: "§R"Kneel before your new mistress, supplicants~!"§!"
+acot_lumiya_events.4.a: "Their minds are weak."
+
+acot_lumiya_events.5.name: "Tri-Disaster"
+acot_lumiya_events.5.desc.a: "§R"Ahn-Sielao Sobrak!"§!"
+acot_lumiya_events.5.desc.b: "§R"Dalarath Cetana Ishieth!"§!"
+acot_lumiya_events.5.desc.c: "§R"Galdana Urimurich! Galdana Imperialis Phanon!"§!"
+acot_lumiya_events.5.desc.d: "§R"Disastio Tricera!"§!"
+acot_lumiya_events.5.a: "The hell she saying again?"
+
+acot_lumiya_events.503.name: "Tri-Disaster Completed"
+acot_lumiya_events.503.desc.a: "§R"And so it goes!"§!\n\nLumiya's Tri-Disaster Ultimate Move has finished its sequences, and now the system, along with its mny neighbors will be utterly annihilated."
+acot_lumiya_events.503.desc.b: "§R"Watching this never gets old, hehe!"§!\n\nLumiya's Tri-Disaster Ultimate Move has finished its sequences, and now the system, along with its mny neighbors will be utterly annihilated."
+acot_lumiya_events.503.desc.c: "§R"Brings me back to the Ascension War days...you know how many died from this back then?"§!\n\nLumiya's Tri-Disaster Ultimate Move has finished its sequences, and now the system, along with its mny neighbors will be utterly annihilated."
+acot_lumiya_events.503.desc.d: "§R"Master Sobrak. If you can hear me, This one's on you! Well some, mostly it all goes to me though."§!\n\nLumiya's Tri-Disaster Ultimate Move has finished its sequences, and now the system, along with its mny neighbors will be utterly annihilated."
+acot_lumiya_events.503.a: "Spectacular"
+
+triggered_opinion_lumiya_collateral: "Lumiya's Collateral Damage"
+triggered_opinion_lumiya_collateral_desc: "She blew up one of our system bro wtf."
+
+acot_lumiya_events.990.name: "Ejected From Combat"
+acot_lumiya_events.990.desc: "§R"Uggh, I am losing strength! Where are the rest of your armies, you simpleton!? I'll need some time to heal."§!\n\nAfter taking some serious damage, Lumiya has retreated from the ground battle in her avatar form, and needs time to recover.\n\nIt will take approximately §Y5§! years for her to regain her power. Until then, she's severely weakened, and cannot uses most of her special powers."
+acot_lumiya_events.990.a: "It's only a flesh wound!"
+
+acot_lumiya_events.991.name: "Lumiya Gone"
+acot_lumiya_events.991.desc: "§R"Enough! I am done working with imbeciles like you lot! I have better things to do. Pray we do not meet again!"§!\n\nAfter exhausting most of her powers in the wounded state, Lumiya decides to use the last of her strengths to escape from the battlefield. Our sensors can no longer pick off her signal, it appears she's gone."
+acot_lumiya_events.991.a: "Oh well."
+
+acot_lumiya_events.992.name: "Her Power Wanes"
+acot_lumiya_events.992.desc: "§R"My power is weakening! Where did you study tactics? I'll need time to recover!"§!\n\nLumiya is no longer able to sustain her space avatar form, and is forced to open a rift to retreat. She can be found on our capital planet. It will take at least §Y5§! years for her to recover fully, during which time she'll be severely weakened, and cannot use most of her powers."
+acot_lumiya_events.992.a: "So even she can taste defeat."
+
+acot_lumiya_events.993.name: "The Final Straw"
+acot_lumiya_events.993.desc: "§R"Enough! I am done suffering from your incompetences! Find someone else to die for your worthless tactics!"§!\n\nLumiya is not pleased to suffer another severe damage in her weakened state, and has used the last of her strengths to portal away. This time, she appears to leave this galaxy for good, we can no longer track her whereabouts."
+acot_lumiya_events.993.a: "Bound to happen eventually."
+
+acot_lumiya_events.994.name: "Lumiya's Exit"
+acot_lumiya_events.994.desc: "§R"I was wondering when will you finally let me go. Well, for what's it worth, it was entertaining to fool around in such a smol and young galaxy. Hopefully we will not have to meet again."§!\n\nLumiya wastes no time disappearing from our sensors once we decide to remove her from our service. It is safe to assume she's no longer in this galaxy."
+acot_lumiya_events.994.a: "Bye."
+
+acot_lumiya_events.9990.name: "Lumiya's Recovery"
+acot_lumiya_events.9990.desc: "§R"My power has returned! I am ready to cause some mayhem again! And you better not mess up again this time!"§!\n\nLumiya has recovered from her weakened state, and is ready to unleash her full powers again."
+acot_lumiya_events.9990.a: "About time!"

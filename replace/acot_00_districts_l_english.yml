@@ -1,0 +1,695 @@
+﻿l_english:
+ 
+col_acot_fractured_colony: "§VFractured Colony§!"
+col_acot_fractured_colony_desc: "A harsh and dangerous colony where only the most hardcore dark matter and energy enthusiasts dare tread."
+col_acot_fractured_colony_tt: "A harsh and dangerous colony where only the most hardcore dark matter and energy enthusiasts dare tread."
+ 
+col_acot_enigmatic_colony: "§CEnigmatic Colony§!"
+col_acot_enigmatic_colony_desc: "The calm storm and the eerie echoes of the past beckons those who dares to brave the new age."
+col_acot_enigmatic_colony_tt: "The calm storm and the eerie echoes of the past beckons those who dares to brave the new age."
+
+col_acot_enigmopolis: "§BVoid Sphere Domain§!"
+col_acot_enigmopolis_desc: "Awe-inspiring domains of those who dare challenges against the void of space. Constant imperial rhythms and anthems can be heard to remind the people of the long journey they have embarked."
+col_acot_enigmopolis_tt: "Awe-inspiring domains of those who dare challenges against the void of space. Constant imperial rhythms and anthems can be heard to remind the people of the long journey they have embarked."
+ 
+col_acot_phanon_vault: "§RPhanon Vault§!"
+col_acot_phanon_vault_desc: "§RMysterious Station whose purpose is entirely unknown to others but the Phanon Corps themselves.§!"
+col_acot_phanon_vault_tt: "§RMysterious Station whose purpose is entirely unknown to others but the Phanon Corps themselves.§!"
+ 
+col_acot_enigma_capital: "§EEnigmatic Capital World§!"
+col_acot_enigma_capital_desc: "The capital world of this empire has fully integrated the power of its enigmatic technologies into all aspects of the world's functions, vastly improving all capabilities upon its soil."
+col_acot_enigma_capital_tt: "The capital world of this empire has fully integrated the power of its enigmatic technologies into all aspects of the world's functions, vastly improving all capabilities upon its soil."
+
+col_acot_brw: "§EEnigmatic Extraction World§!"
+col_acot_brw_desc: "Specializes in augmenting §HWorker§! output and production of £energy£ §HEnergy§!, £minerals£ §HMinerals§! and £food£ §HFood§!."
+col_acot_brw_tt: "This world is directing enigmatic power to enhance the output potential of the fundamental resources of old."
+
+col_acot_indus_refin: "§EEnigmatic Industrial World§!"
+col_acot_indus_refin_desc: "Specializes in production of £consumer_goods£ §HConsumer Goods§! and £alloys£ §HAlloys§! as well as basic §HStrategic Resources§!."
+col_acot_indus_refin_tt: "This world is directing enigmatic power into improving its ability to acquire alloys, goods and strategic resources."
+
+col_acot_knowledge_is_power: "§EEnigmatic Research World§!"
+col_acot_knowledge_is_power_desc: "Specializes in scientific research and researcher output."
+col_acot_knowledge_is_power_tt: "This world is directing enigmatic power into increasing its capabilities to support scientific research."
+
+col_acot_fortress: "§EEnigmatic Fortress World§!"
+col_acot_fortress_desc: "Specializes in army augmentations and plaentary defenses."
+col_acot_fortress_tt: "This world is designed as immortal bastion, capable of resisting the deadliest of enemy attacks."
+
+#### WORLD ######
+ 
+sc_acot_void_star: "Void Star"
+
+acot_cracked_fractured: "Void Fractured Planet"
+acot_cracked_fractured_adj: "Void Fractured Planet"
+acot_cracked_fractured_desc: "What was once a beautiful world has been fractured by an overwhelming level of dark energy, causing an unthinkable world to exist."
+
+pc_acot_void_star: "Void Star"
+pc_acot_void_star_adj: "Void Star"
+pc_acot_void_star_desc: "A Star that has been enfused with the chaotic energies dark energies of the greatest weapons ever deployed in the galaxy."
+
+pc_acot_void_hole: "§BVoid Hollow§!"
+pc_acot_void_hole_adj: "§BVoid Hollow§!"
+pc_acot_void_hole_desc: "Whatever this is, what ungodly horror we made with our power is beyond any doubt bone chilling. Fallen Empires look away in fear, plebs wet themselves at the sight of this once beautiful thing turned into this monsterous sight. For what we have created is truly some terrible. terrible shit."
+
+pc_dark_fractured: "Fractured World"
+pc_dark_fractured_adj: "Fractured World"
+pc_dark_fractured_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. Though there are spots that are now habitable, the planet remains a desolate land, barely capable of supporting any life."
+ 
+pc_dark_fractured_ae: " Ultrafractured World"
+pc_dark_fractured_ae_adj: "Ultrafractured World"
+pc_dark_fractured_ae_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. Though there are spots that are now habitable, the planet remains a desolate land, barely capable of supporting any life."
+ 
+pc_dark_fractured_unstable: "Unstable Fractured World"
+pc_dark_fractured_unstable_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. The thick storm clouds are too dangerous to the point that ships can't tell which way is up, preventing any landing attempts."
+ 
+pc_dark_fractured_ae_unstable: " Unstable Ultrafractured World"
+pc_dark_fractured_ae_unstable_desc: "Fractured Worlds are covered by violent storms and filled with many dark anomalies. The thick storm clouds are too dangerous to the point that ships can't tell which way is up, preventing any landing attempts."
+
+pc_acot_enigmatic: "Enigmatic World"
+pc_acot_enigmatic_adj: "Enigmatic World"
+pc_acot_enigmatic_desc: "Enigmatic Worlds are covered by deadly, but stable storms that while harzardous, also protects the planet from various bombardment. Though much of the planets are now safe to navaigate, the planet remains deadly to most lifeforms without protection."
+ 
+pc_acot_enigmopolis: "Void Sphere"
+pc_acot_enigmopolis_adj: "Void Sphere"
+pc_acot_enigmopolis_desc: "Powerful ecumenopolis powered by ancient precursor core and surrounded by archways and self-barriers."
+ 
+trait_pc_dark_fractured_preference: "Darkspawn"
+trait_pc_dark_fractured_preference_desc: "They love being in black holes."
+mod_pc_dark_fractured_habitability: "Fractured World Survivability"
+ 
+trait_pc_dark_fractured_ae_preference: "Hellspawn"
+trait_pc_dark_fractured_ae_preference_desc: "Perhaps they are the Black Hole?"
+mod_pc_dark_fractured_ae_habitability: "Utrafractured World Survivability"
+ 
+trait_pc_acot_enigmopolis_preference: "Voidspawn"
+trait_pc_acot_enigmopolis_preference_desc: "They birth the black holes."
+mod_pc_acot_enigmopolis_habitability: "Utrafractured World Survivability"
+
+trait_pc_acot_enigmatic_preference: "Hellspawn"
+trait_pc_acot_enigmatic_preference_desc: "Perhaps they are the Black Hole?"
+mod_pc_acot_enigmatic_habitability: "Enigmatic World Survivability"
+
+#### DUSTRRYCIT ######
+
+tech_acot_fractured_shelter: "Reinforced Shelter"
+tech_acot_fractured_shelter_desc: "It is not uncommon for dark energy storms to erupt on the violent skies of a fractured world. Unstable terrains and hostile elements require proper shelters to be created to defend against these hazards. " 
+
+district_acot_fractured_shelter: "§EDelta Shelter§!"
+district_acot_fractured_shelter_plural: "§EDelta Shelters§!"
+district_acot_fractured_shelter_desc: "Delta Shelters provide protection and housing for brave souls working under the harsh environments of the world."
+
+zone_acot_fractured: "§ESecondary Shelter Zone§!"
+zone_acot_fractured_desc: "The zone is reinforced with powerful shielding system, allowing more buildings to be built."
+
+zone_acot_fractured_shield: "§EShielded Zone§!"
+zone_acot_fractured_shield_desc: "The zone is reinforced with powerful shielding system, allowing more buildings to be built."
+
+zone_acot_fractured_shield_swap_text: "§VReinforced Storm Shelters§!"
+zone_acot_fractured_shield_swap_text_desc: "$zone_acot_fractured_shield_desc$"
+
+###
+
+tech_acot_fractured_science_dome: "Observing the Unknown"
+tech_acot_fractured_science_dome_desc: "There are many wonders and anomalies that challenge all previously known theories and laws of physics on fractured worlds. But if we are to send our researchers down there, they must be well protected and supported from the dangerous environments."
+ 
+district_acot_fractured_science_dome: "§EDelta Observatory§!"
+district_acot_fractured_science_dome_plural: "§EDelta Observatories§!"
+district_acot_fractured_science_dome_desc: "Delta Observatories provide necessary tools and equipment for researchers to safely conduct observations and experiments on the ravaged world."
+ 
+zone_acot_fractured_lab: "§EResearch Augmentation§!"
+zone_acot_fractured_lab_desc: "The zone is dedicated to study the Fractured World's anomalies for scientific research, preventing more than one building to be built on it."
+
+zone_acot_fractured_lab_swap_text: "§VDimensional Observatory Zone§!"
+zone_acot_fractured_lab_swap_text_desc: "$zone_acot_fractured_lab_desc$"
+
+###
+
+tech_acot_fractured_trapper: "Enigmatic Spires"
+tech_acot_fractured_trapper_desc: "Although Dark Energies and Dark Matters surround the fractured worlds in abundance, most are too unstable and dispersed to be harvested. Designs for Enigmatic Spires are being drawn to trap and convert these unnaturally-born phenomenon into limitless supplies."
+
+district_acot_fractured_dm_trapper: "§EDelta Spire§!"
+district_acot_fractured_dm_trapper_plural: "§EDelta Spires§!"
+district_acot_fractured_dm_trapper_desc: "Delta Spires provide artificers and alchemists with workshops necessary to create dark matter and dark energy."
+
+zone_acot_fractured_pylon: "§EEnigmatic Resource Harvest§!"
+zone_acot_fractured_pylon_desc: "The zone is dedicated to build more spires to trap Dark Matter and Dark Energy, preventing more than one building to be built on it."
+
+zone_acot_fractured_pylon_swap_text: "§VAdditional Constructed Pylons§!"
+zone_acot_fractured_pylon_swap_text_desc: "$district_acot_fractured_dm_trapper_desc$"
+
+###
+
+tech_acot_fractured_fort: "Void Castrum"
+tech_acot_fractured_fort_desc: "Fractured Worlds possess many dangerous elements that seek to destroy any colonization attempts. Many of these elements will find weaknesses and gaps in conventional forts, and thus specialized fortification districts will be required to deter these hostile visitors."
+
+district_acot_fractured_dm_fort: "§EDelta Outpost§!"
+district_acot_fractured_dm_fort_plural: "§EDelta Outposts§!"
+district_acot_fractured_dm_fort_desc: "Delta Outposts are security checkpoints that can detect intruders and deploy loud edgy music themes to scare them away."
+
+zone_acot_fractured_fortress: "§EPlanetary Fortification§!"
+zone_acot_fractured_fortress_desc: "The zone is dedicated to planetary defense and patriotism campaign, preventing more than one building to be built on it."
+
+zone_acot_fractured_fortress_swap_text: "§VHard-Light Bunkers§!"
+zone_acot_fractured_fortress_swap_text_desc: "$zone_acot_fractured_fortress_desc$"
+
+###
+
+tech_acot_fractured_size_upgrade_1: "Fractal Continuum"
+tech_acot_fractured_size_upgrade_1_desc: "The unforgiving landscapes of fractured worlds make it difficult for populations to adapt, causing needless adjustments that costs us extra district space. We must learn to adapt to it."
+tech_acot_fractured_size_upgrade_1_tooltip: "Upgrades the Districts of both Fractured and Ultrafracutred Worlds to consume one less district slot."
+ 
+tech_acot_fractured_size_upgrade_2: "Master Control Terminal"
+tech_acot_fractured_size_upgrade_2_desc: "Rather than relying technicians and engineers to constantly perform checks on the structural integrity of the districts, MCT can be installed in place that will read and repair any damaged spots by itself. This will free us the need to allocate extra space for on-site engineering teams and reduce district space needed."
+tech_acot_fractured_size_upgrade_2_tooltip: "Upgrades the Districts of both Fractured and Ultrafracutred Worlds to further consume one less district slot. Effectively making them cost only one slot finally."
+ 
+#### AOULPA DUSTRRYCIT ######
+ 
+district_acot_fractured_ae_shelter: "§BAlpha Shelter§!"
+district_acot_fractured_ae_shelter_plural: "§BAlpha Shelters§!"
+district_acot_fractured_ae_shelter_desc: "Alpha Shelter provides protection and housing for brave souls working under the harsh environments of the world."
+ 
+zone_acot_fractured_shield_ae_swap_text: "§CShielded City-Zones§!"
+zone_acot_fractured_shield_ae_swap_text_desc: "$zone_acot_fractured_shield_desc$"
+
+####
+
+district_acot_fractured_ae_science_dome: "§BAlpha Observatory§!"
+district_acot_fractured_ae_science_dome_plural: "§BAlpha Observatories§!"
+district_acot_fractured_ae_science_dome_desc: "Alpha Observatories provide necessary tools and equipment for researchers to safely conduct observations and experiments on the ravaged world."
+ 
+zone_acot_fractured_lab_ae_swap_text: "§CDimensional Observatory Bases§!"
+zone_acot_fractured_lab_ae_swap_text_desc: "$zone_acot_fractured_lab_desc$"
+
+####
+
+district_acot_fractured_ae_trapper: "§BAlpha Spire§!"
+district_acot_fractured_ae_trapper_plural: "§BAlpha Spires§!"
+district_acot_fractured_ae_trapper_desc: "Alpha Spires provide artificers and alchemists with workshops necessary to create dark matter and dark energy."
+ 
+zone_acot_fractured_pylon_ae_swap_text: "§CSatisfying Pylon Clusters§!"
+zone_acot_fractured_pylon_ae_swap_text_desc: "$district_acot_fractured_dm_trapper_desc$"
+
+####
+
+district_acot_fractured_ae_fort: "§BAlpha Fortress§!"
+district_acot_fractured_ae_fort_plural: "§BAlpha Fortresses§!"
+district_acot_fractured_ae_fort_desc: "Alpha Fortresses are security checkpoints that can detect intruders and deploy loud edgy music themes to scare them away."
+
+zone_acot_fractured_fortress_ae_swap_text: "§CSuperb Fortification§!"
+zone_acot_fractured_fortress_ae_swap_text_desc: "$district_acot_fractured_ae_fort_desc$"
+
+#### CUPOLIS DUSTRRYCIT ######
+ 
+district_acot_enigmapolis_city: "§BVoid Nexus§!"
+district_acot_enigmapolis_city_plural: "§BVoid Nexi§!"
+district_acot_enigmapolis_city_desc: "Void Nexi are the heart of the Void Sphere's society. All system governing offices and massive supercities are located here."
+ 
+zone_acot_void_main: "§BSubotai Capital Zone§!"
+zone_acot_void_main_desc: "The zone is for the main capital."
+
+zone_acot_void_main_sub: "§BVoid Nexus Extension§!"
+zone_acot_void_main_sub_desc: "The zone is part of the Void Sphere's Secondary Main Districts."
+
+zone_acot_enigmapolis_city_swap_text: "§CDomains of Authority§!"
+zone_acot_enigmapolis_city_text_desc: "$district_acot_enigmapolis_city_desc$"
+
+####
+
+tech_acot_enigmapolis_science: "Subverse Simulation"
+tech_acot_enigmapolis_science_desc: "Given the level of technology and dimensional mastery that we have, coupled with the advanced equipment within a Void Tribunal District, we can use these powers to simulate dimensions or even galaxies to test and defy all creation before applying it to real space."
+tech_acot_enigmapolis_science_tooltip: "Upgrades Void Tribunal to switch from providing traditional jobs to a unique one with superior output."
+
+district_acot_enigmapolis_science: "§BVoid Tribunal§!"
+district_acot_enigmapolis_science_plural: "§BVoid Tribunals§!"
+district_acot_enigmapolis_science_desc: "Void Tribunals are places of knowledge and progression. From here, scientists, researchers and philosophers have all they ever need in life, and beyond to master the secrets of reality."
+ 
+zone_acot_void_science: "§BVoid Tribunal Zone§!"
+zone_acot_void_science_desc: "The zone is part of the Void Sphere's Tribunal Districts."
+zone_acot_void_science_01: "§BVoid Tribunal Extension§!"
+zone_acot_void_science_01_desc: "The zone is part of the Void Sphere's Tribunal Districts."
+zone_unavailable_tech_acot_void_science: "$physics_research_icon_with_space$$tech_acot_enigmapolis_science$"
+
+zone_acot_enigmapolis_science_swap_text: "§CSanctum of All-Seeing Eyes§!"
+zone_acot_enigmapolis_science_text_desc: "$district_acot_enigmapolis_science_desc$"
+
+####
+
+tech_acot_enigmapolis_forge: "Void Traversal"
+tech_acot_enigmapolis_forge_desc: "We have the proper anchor and technology to allow direct breach into other dimensional spaces, where it'll be much more efficient to harvest Dark Energy and Dark Matter than traditional synthetic means."
+tech_acot_enigmapolis_forge_tooltip: "Upgrades Void Alphaspace to switch from providing traditional jobs to a unique one with superior output."
+
+district_acot_enigmapolis_forge: "§BVoid Alphascape§!"
+district_acot_enigmapolis_forge_plural: "§BVoid Alphascapes§!"
+district_acot_enigmapolis_forge_desc: "Void Alphascapes allows Void Travellers to safety cross into sub-dimensional spaces and syphon the resources there."
+
+zone_acot_void_forge: "§BVoid Alphascape Zone§!"
+zone_acot_void_forge_desc: "The zone is part of the Void Sphere's Alphascape Districts."
+zone_acot_void_forge_01: "§BVoid Alphascape Extension§!"
+zone_acot_void_forge_01_desc: "The zone is part of the Void Sphere's Alphascape Districts."
+zone_unavailable_tech_acot_void_forge: "$physics_research_icon_with_space$$tech_acot_enigmapolis_forge$"
+
+zone_acot_enigmapolis_forge_swap_text: "§CPortals to the Unknown§!"
+zone_acot_enigmapolis_forge_text_desc: "$district_acot_enigmapolis_forge_desc$"
+
+####
+
+tech_acot_enigmapolis_silo: "Dimension Harvest"
+tech_acot_enigmapolis_silo_desc: "Why rely on natural or unnatural means to gather resources, when we can use supernatural means?"
+tech_acot_enigmapolis_silo_tooltip: "Void Forges provide powerful economic boost, but will requires further expansion to acquire specific resources, which can be done via decisions."
+
+district_acot_enigmapolis_silo: "§BVoid Forge§!"
+district_acot_enigmapolis_silo_plural: "§BVoid Forge§!"
+district_acot_enigmapolis_silo_desc: "Void Forges are massive arrays of hard-light factories that can materialize various resources into existence through both traditional synthesis and dimensional means."
+ 
+zone_acot_void_silo: "§BVoid Forge Extension§!"
+zone_acot_void_silo_desc: "The zone is part of the Void Sphere's Dimensional Forge Districts."
+zone_acot_void_silo_01: "§BVoid Forge Extension§!"
+zone_acot_void_silo_01_desc: "The zone is part of the Void Sphere's Dimensional Forge Districts."
+zone_unavailable_tech_acot_void_silo: "$engineering_research_icon_with_space$$tech_acot_enigmapolis_silo$"
+
+zone_acot_enigmapolis_silo_swap_text: "§CDimensional Fabrication Matrix§!"
+zone_acot_enigmapolis_silo_text_desc: "$district_acot_enigmapolis_silo_desc$"
+
+acot_modifier_voidsphere_silo_alloys: "Alloy Dimension"
+acot_modifier_voidsphere_silo_alloys_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_alloys$§! or their gestalt counterparts as well as generation alloys on their own."
+decision_acot_voidsphere_silo_alloys: "Alloy Dimension Forge"
+decision_acot_voidsphere_silo_alloys_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_alloys$§! or their gestalt counterparts as well as generation alloys on their own."
+
+acot_modifier_voidsphere_silo_minerals: "Minerals Dimension"
+acot_modifier_voidsphere_silo_minerals_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_minerals$§! or their gestalt counterparts as well as generation minerals on their own."
+decision_acot_voidsphere_silo_minerals: "Minerals Dimension Forge"
+decision_acot_voidsphere_silo_minerals_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_minerals$§! or their gestalt counterparts as well as generation minerals on their own."
+
+acot_modifier_voidsphere_silo_energy: "Energy Dimension"
+acot_modifier_voidsphere_silo_energy_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_energy$§! or their gestalt counterparts as well as generation energy on their own."
+decision_acot_voidsphere_silo_energy: "Energy Dimension Forge"
+decision_acot_voidsphere_silo_energy_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_energy$§! or their gestalt counterparts as well as generation energy on their own."
+
+acot_modifier_voidsphere_silo_food: "Food Dimension"
+acot_modifier_voidsphere_silo_food_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_food$§! or their gestalt counterparts as well as generation food on their own."
+decision_acot_voidsphere_silo_food: "Food Dimension Forge"
+decision_acot_voidsphere_silo_food_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_food$§! or their gestalt counterparts as well as generation food on their own."
+
+acot_modifier_voidsphere_silo_goods: "Meme Dimension"
+acot_modifier_voidsphere_silo_goods_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_goods$§! or their gestalt counterparts as well as generation that stupid overrated resources on their own."
+decision_acot_voidsphere_silo_goods: "Meme Dimension Forge"
+decision_acot_voidsphere_silo_goods_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_goods$§! or their gestalt counterparts as well as generation that stupid overrated resources on their own."
+
+####
+
+tech_acot_enigmapolis_fortress: "Giga Extension"
+tech_acot_enigmapolis_fortress_desc: "How do you improve upon planetary protection that already has a Giga Fortress? Make the planet walls themselves full of Giga Fortresses of course."
+tech_acot_enigmapolis_fortress_tooltip: "Upgrades Void Barrier to also provides a single Giga Fortress Operator job each."
+
+district_acot_enigmapolis_fortress: "§BVoid Barrier§!"
+district_acot_enigmapolis_fortress_plural: "§BVoid Barriers!"
+district_acot_enigmapolis_fortress_desc: "Void Barriers provide the planets with defending forces and giga cannons."
+
+zone_acot_void_fortress: "§BVoid Bastion Zone§!"
+zone_acot_void_fortress_desc: "The zone is part of the Void Sphere's Giga Extension Districts."
+zone_acot_void_fortress_01: "§BVoid Giga Extension§!"
+zone_acot_void_fortress_01_desc: "The zone is part of the Void Sphere's Giga Extension Districts."
+zone_unavailable_tech_acot_void_fortress: "$society_research_icon_with_space$$tech_acot_enigmapolis_fortress$"
+
+zone_acot_enigmapolis_fortress_swap_text: "§CGiga Impenetrable Fortresses§!"
+zone_acot_enigmapolis_fortress_text_desc: "$district_acot_enigmapolis_fortress_desc$"
+
+####
+
+tech_acot_enigmapolis_stellarite: "Void Stellar Shard"
+tech_acot_enigmapolis_stellarite_desc: "Although Void Sphere is primarily designed for Enigmatic-based technology, its robust and flexible architectures are also ideal for creating mass arrays of Stellar Shards for stellarite generation, provided we can isolate them from other incompatible elements."
+
+district_acot_enigmapolis_stellarite: "§BVoid Stellar Shard§!"
+district_acot_enigmapolis_stellarite_plural: "§BVoid Stellar Shard§!"
+district_acot_enigmapolis_stellarite_desc: "Although the First Star may never be restored again, even a tiny speck of its once radiant majesty could create wonders of eternity, and such wonders would require a place of extraordinary care and durability."
+
+zone_acot_void_stellarite: "§BVoid Stellar Zone§!"
+zone_acot_void_stellarite_desc: "The zone is part of the Void Sphere's Stellar Districts."
+zone_acot_void_stellarite_01: "§BStellar Shard Extension§!"
+zone_acot_void_stellarite_01_desc: "The zone is part of the Void Sphere's Stellar Districts."
+
+zone_acot_enigmapolis_stellarite_swap_text: "§CStellar Pylon Clusters§!"
+zone_acot_enigmapolis_stellarite_text_desc: "$district_acot_enigmapolis_stellarite_desc$"
+
+################### ZONES
+########### VAULT
+
+zone_acot_vault_main: "Arakun Capital Zone "
+zone_acot_vault_main_desc: "The zone is part of the Vault's main Districts."
+zone_acot_vault_main_sub: "Secondary Vault Zone "
+zone_acot_vault_main_sub_desc: "The zone is part of the Vault's main Districts."
+
+zone_acot_vault_a: "A-Zone District Sub-Section"
+zone_acot_vault_a_desc: "Sub-section of the Vault's A-Zone District."
+zone_acot_vault_a_01: "A-Zone District Sub-Section "
+zone_acot_vault_a_01_desc: "Sub-section of the Vault's A-Zone District."
+
+zone_acot_vault_b: "B-Zone District Sub-Section"
+zone_acot_vault_b_desc: "Sub-section of the Vault's B-Zone District."
+zone_acot_vault_b_01: "B-Zone District Sub-Section "
+zone_acot_vault_b_01_desc: "Sub-section of the Vault's B-Zone District."
+
+zone_acot_vault_c: "C-Zone District Sub-Section"
+zone_acot_vault_c_desc: "Sub-section of the Vault's C-Zone District."
+zone_acot_vault_c_01: "C-Zone District Sub-Section "
+zone_acot_vault_c_01_desc: "Sub-section of the Vault's C-Zone District."
+
+zone_unavailable_vault_level_one_clear: "Requires clearing §EFirst Corridor§! level."
+zone_unavailable_vault_level_two_clear: "Requires clearing §ESecond Corridor§! level."
+zone_unavailable_vault_level_three_clear: "Requires clearing §EThird Corridor§! level."
+
+############################### ZONE FILES FROM Xahkarias
+
+acot_zone_dummy: "Dummingguys"
+acot_zone_dummy_desc: "Dummingguys"
+
+ # Urban
+ #######################################################################################################################
+zone_acot_dm_urban: "§EEnigmatic Urban Expansion§!"
+zone_acot_dm_urban_desc: "Generalized extensions for greater control over building placements, the streamlined designs make them cheap and quick to build."
+zone_acot_dm_urban_swap_text: "§VEnigmatic Capital Zone§!"
+zone_acot_dm_urban_swap_text_desc: "$zone_acot_dm_urban_desc$"
+
+zone_acot_ae_urban: "§BAlpha Urban Expansion§!"
+zone_acot_ae_urban_desc: "Generalized extensions for greater control over building placements, the streamlined designs make them cheap and quick to build."
+zone_acot_ae_urban_swap_text: "§CAlpha Capital Zone§!"
+zone_acot_ae_urban_swap_text_desc: "$zone_acot_ae_urban_desc$"
+
+ # Industry
+ #######################################################################################################################
+zone_acot_dm_industry: "§EEnigmatic Multi-Fabricator§!"
+zone_acot_dm_industry_desc: "This fabricator uses enigmatic technologies to create items for both military and civilian applications."
+zone_acot_dm_industry_swap_text: "§VEnigmatic Mixed Industry§!"
+zone_acot_dm_industry_swap_text_desc: "$zone_acot_dm_industry_desc$"
+
+zone_acot_ae_industry: "§BAlpha Multi-Fabricator§!"
+zone_acot_ae_industry_desc: "This fabricator uses enigmatic technologies to create items for both military and civilian applications."
+zone_acot_ae_industry_swap_text: "§CAlpha Mixed Industry§!"
+zone_acot_ae_industry_swap_text_desc: "$zone_acot_ae_industry_desc$"
+
+zone_acot_dm_industry_arcology: "§E$zone_acot_dm_industry$§!"
+zone_acot_dm_industry_arcology_desc: "$zone_acot_dm_industry_desc$"
+district_acot_swap_dm_industry_arcology: "$district_arcology_mixed_industry$"
+district_acot_swap_dm_industry_arcology_plural: "$district_arcology_mixed_industry_plural$"
+district_acot_swap_dm_industry_arcology_desc: "$district_arcology_mixed_industry_desc$"
+
+zone_acot_dm_industry_ring_world: "§E$zone_acot_dm_industry$§!"
+zone_acot_dm_industry_ring_world_desc: "$zone_acot_dm_industry_desc$"
+district_acot_swap_dm_industry_ring_world: "$district_ring_world_industrial$"
+district_acot_swap_dm_industry_ring_world_plural: "$district_ring_world_industrial_plural$"
+district_acot_swap_dm_industry_ring_world_desc: "$district_ring_world_industrial_desc$"
+
+zone_acot_dm_industry_hive: "§E$zone_acot_dm_industry$§!"
+zone_acot_dm_industry_hive_desc: "$zone_acot_dm_industry_desc$"
+district_acot_swap_dm_industry_hive: "$district_hive_industrial$"
+district_acot_swap_dm_industry_hive_plural: "$district_hive_industrial_plural$"
+district_acot_swap_dm_industry_hive_desc: "$district_hive_industrial_desc$"
+
+zone_acot_dm_industry_nexus: "§E$zone_acot_dm_industry$§!"
+zone_acot_dm_industry_nexus_desc: "$zone_acot_dm_industry_desc$"
+district_acot_swap_dm_industry_nexus: "$district_nexus_industrial$"
+district_acot_swap_dm_industry_nexus_plural: "$district_nexus_industrial_plural$"
+district_acot_swap_dm_industry_nexus_desc: "$district_nexus_industrial_desc$"
+
+ # Foundry
+ #######################################################################################################################
+zone_acot_dm_foundry: "§EEnigmatic Alloys Fabrication§!"
+zone_acot_dm_foundry_desc: "$building_acot_dm_alloy_forge_desc$"
+zone_acot_dm_foundry_swap_text: "§VEnigmatic Alloy Industry§!"
+zone_acot_dm_foundry_swap_text_desc: "$zone_acot_dm_foundry_desc$"
+
+zone_acot_ae_foundry: "§BAlpha Alloys Fabrication§!"
+zone_acot_ae_foundry_desc: "$building_acot_ae_alloy_forge_desc$"
+zone_acot_ae_foundry_swap_text: "§CAlpha Alloy Industry§!"
+zone_acot_ae_foundry_swap_text_desc: "$zone_acot_ae_foundry_desc$"
+
+zone_acot_dm_foundry_arcology: "§E$zone_acot_dm_foundry$§!"
+zone_acot_dm_foundry_arcology_desc: "$zone_acot_dm_foundry_desc$"
+district_acot_swap_dm_foundry_arcology: "$district_arcology_arms_industry$"
+district_acot_swap_dm_foundry_arcology_plural: "$district_arcology_arms_industry_plural$"
+district_acot_swap_dm_foundry_arcology_desc: "$district_arcology_arms_industry_desc$"
+
+zone_acot_dm_foundry_ring_world: "§E$zone_acot_dm_foundry$§!"
+zone_acot_dm_foundry_ring_world_desc: "$zone_acot_dm_foundry_desc$"
+district_acot_swap_dm_foundry_ring_world: "$district_ring_world_foundry$"
+district_acot_swap_dm_foundry_ring_world_plural: "$district_ring_world_foundry_plural$"
+district_acot_swap_dm_foundry_ring_world_desc: "$district_ring_world_foundry_desc$"
+
+zone_acot_dm_foundry_hive: "§E$zone_acot_dm_foundry$§!"
+zone_acot_dm_foundry_hive_desc: "$zone_acot_dm_foundry_desc$"
+district_acot_swap_dm_foundry_hive: "$district_hive_foundry$"
+district_acot_swap_dm_foundry_hive_plural: "$district_hive_foundry_plural$"
+district_acot_swap_dm_foundry_hive_desc: "$district_hive_foundry_desc$"
+
+zone_acot_dm_foundry_nexus: "§E$zone_acot_dm_foundry$§!"
+zone_acot_dm_foundry_nexus_desc: "$zone_acot_dm_foundry_desc$"
+district_acot_swap_dm_foundry_nexus: "$district_nexus_foundry$"
+district_acot_swap_dm_foundry_nexus_plural: "$district_nexus_foundry_plural$"
+district_acot_swap_dm_foundry_nexus_desc: "$district_nexus_foundry_desc$"
+
+ #Factory
+ #######################################################################################################################
+zone_acot_dm_factory: "§EEnigmatic Goods Fabrication§!"
+zone_acot_dm_factory_desc: "$building_acot_dm_factory_desc$"
+zone_acot_dm_factory_swap_text: "§VEnigmatic Civil Industry§!"
+zone_acot_dm_factory_swap_text_desc: "$zone_acot_dm_factory_desc$"
+
+zone_acot_ae_factory: "§BAlpha Goods Fabrication§!"
+zone_acot_ae_factory_desc: "$building_acot_ae_factory_desc$"
+zone_acot_ae_factory_swap_text: "§CAlpha Civil Industry§!"
+zone_acot_ae_factory_swap_text_desc: "$zone_acot_ae_factory_desc$"
+
+zone_acot_dm_factory_arcology: "§E$zone_acot_dm_factory$§!"
+zone_acot_dm_factory_arcology_desc: "$zone_acot_dm_factory_desc$"
+district_acot_swap_dm_factory_arcology: "$district_arcology_civilian_industry$"
+district_acot_swap_dm_factory_arcology_plural: "$district_arcology_civilian_industry_plural$"
+district_acot_swap_dm_factory_arcology_desc: "$district_arcology_civilian_industry_desc$"
+
+zone_acot_dm_factory_ring_world: "§E$zone_acot_dm_factory$§!"
+zone_acot_dm_factory_ring_world_desc: "$zone_acot_dm_factory_desc$"
+district_acot_swap_dm_factory_ring_world: "$district_ring_world_factory$"
+district_acot_swap_dm_factory_ring_world_plural: "$district_ring_world_factory_plural$"
+district_acot_swap_dm_factory_ring_world_desc: "$district_ring_world_factory_desc$"
+
+zone_acot_dm_factory_hive: "§E$zone_acot_dm_factory$§!"
+zone_acot_dm_factory_hive_desc: "$zone_acot_dm_factory_desc$"
+district_acot_swap_dm_factory_hive: "$district_hive_factory$"
+district_acot_swap_dm_factory_hive_plural: "$district_hive_factory_plural$"
+district_acot_swap_dm_factory_hive_desc: "$district_hive_factory_desc$"
+
+zone_acot_dm_factory_nexus: "§E$zone_acot_dm_factory$§!"
+zone_acot_dm_factory_nexus_desc: "$zone_acot_dm_factory_desc$"
+district_acot_swap_dm_factory_nexus: "$district_nexus_factory$"
+district_acot_swap_dm_factory_nexus_plural: "$district_nexus_factory_plural$"
+district_acot_swap_dm_factory_nexus_desc: "$district_nexus_factory_desc$"
+
+ #SOLDIER
+ #######################################################################################################################
+zone_acot_dm_fortress: "§EEnigmatic Fortification§!"
+zone_acot_dm_fortress_desc: "$building_acot_dm_stronghold_desc$"
+zone_acot_dm_fortress_swap_text: "§VEnigmatic Planetary Bastion§!"
+zone_acot_dm_fortress_swap_text_desc: "$building_acot_dm_stronghold_desc$"
+
+zone_acot_ae_fortress: "§BAlpha Fortification§!"
+zone_acot_ae_fortress_desc: "$building_acot_ae_stronghold_desc$"
+zone_acot_ae_fortress_swap_text: "§CAlpha Planetary Bastion§!"
+zone_acot_ae_fortress_swap_text_desc: "$building_acot_ae_stronghold_desc$"
+
+zone_acot_dm_fortress_arcology: "§E$zone_acot_dm_fortress$§!"
+zone_acot_dm_fortress_arcology_desc: "$zone_acot_dm_fortress_desc$"
+district_acot_swap_dm_fortress_arcology: "$district_arcology_fortress$"
+district_acot_swap_dm_fortress_arcology_plural: "$district_arcology_fortress_plural$"
+district_acot_swap_dm_fortress_arcology_desc: "$district_arcology_fortress_desc$"
+
+zone_acot_dm_fortress_ring_world: "§E$zone_acot_dm_fortress$§!"
+zone_acot_dm_fortress_ring_world_desc: "$zone_acot_dm_fortress_desc$"
+district_acot_swap_dm_fortress_ring_world: "$district_ring_world_fortress$"
+district_acot_swap_dm_fortress_ring_world_plural: "$district_ring_world_fortress_plural$"
+district_acot_swap_dm_fortress_ring_world_desc: "$district_ring_world_fortress_desc$"
+
+zone_acot_dm_fortress_hive: "§E$zone_acot_dm_fortress$§!"
+zone_acot_dm_fortress_hive_desc: "$zone_acot_dm_fortress_desc$"
+district_acot_swap_dm_fortress_hive: "$district_hive_fortress$"
+district_acot_swap_dm_fortress_hive_plural: "$district_hive_fortress_plural$"
+district_acot_swap_dm_fortress_hive_desc: "$district_hive_fortress_desc$"
+
+zone_acot_dm_fortress_nexus: "§E$zone_acot_dm_fortress$§!"
+zone_acot_dm_fortress_nexus_desc: "$zone_acot_dm_fortress_desc$"
+district_acot_swap_dm_fortress_nexus: "$district_nexus_fortress$"
+district_acot_swap_dm_fortress_nexus_plural: "$district_nexus_fortress_plural$"
+district_acot_swap_dm_fortress_nexus_desc: "$district_nexus_fortress_desc$"
+
+ #TRADE
+ #######################################################################################################################
+zone_acot_dm_trade: "§EEnigmatic Commercial Nexus§!"
+zone_acot_dm_trade_desc: "$building_acot_dm_trade_center_desc$"
+zone_acot_dm_trade_swap_text: "§VEnigmatic Galactic Trade Hub§!"
+zone_acot_dm_trade_swap_text_desc: "$building_acot_dm_trade_center_desc$"
+
+zone_acot_ae_trade: "§BAlpha Commercial Nexus§!"
+zone_acot_ae_trade_desc: "$building_acot_ae_trade_center_desc$"
+zone_acot_ae_trade_swap_text: "§CAlpha Galactic Trade Hub§!"
+zone_acot_ae_trade_swap_text_desc: "$building_acot_ae_trade_center_desc$"
+
+zone_acot_dm_trade_arcology: "§E$zone_acot_dm_trade$§!"
+zone_acot_dm_trade_arcology_desc: "$zone_acot_dm_trade_desc$"
+district_acot_swap_dm_trade_arcology: "$district_arcology_trade$"
+district_acot_swap_dm_trade_arcology_plural: "$district_arcology_trade_plural$"
+district_acot_swap_dm_trade_arcology_desc: "$district_arcology_trade_desc$"
+
+zone_acot_dm_trade_ring_world: "§E$zone_acot_dm_trade$§!"
+zone_acot_dm_trade_ring_world_desc: "$zone_acot_dm_trade_desc$"
+district_acot_swap_dm_trade_ring_world: "$district_ring_world_trade$"
+district_acot_swap_dm_trade_ring_world_plural: "$district_ring_world_trade_plural$"
+district_acot_swap_dm_trade_ring_world_desc: "$district_ring_world_trade_desc$"
+
+zone_acot_dm_trade_hive: "§E$zone_acot_dm_trade$§!"
+zone_acot_dm_trade_hive_desc: "$zone_acot_dm_trade_desc$"
+district_acot_swap_dm_trade_hive: "$district_hive_trade$"
+district_acot_swap_dm_trade_hive_plural: "$district_hive_trade_plural$"
+district_acot_swap_dm_trade_hive_desc: "$district_hive_trade_desc$"
+
+zone_acot_dm_trade_nexus: "§E$zone_acot_dm_trade$§!"
+zone_acot_dm_trade_nexus_desc: "$zone_acot_dm_trade_desc$"
+district_acot_swap_dm_trade_nexus: "$district_nexus_trade$"
+district_acot_swap_dm_trade_nexus_plural: "$district_nexus_trade_plural$"
+district_acot_swap_dm_trade_nexus_desc: "$district_nexus_trade_desc$"
+
+ #RESEARCH
+ #######################################################################################################################
+zone_acot_dm_research: "§EEnigmatic Research Enclave§!"
+zone_acot_dm_research_desc: "$building_acot_dm_enigmatic_lab_desc$"
+zone_acot_dm_research_swap_text: "§VEnigmatic Science Utopia§!"
+zone_acot_dm_research_swap_text_desc: "$building_acot_dm_enigmatic_lab_desc$"
+
+zone_acot_ae_research: "§BAlpha Research Enclave§!"
+zone_acot_ae_research_desc: "$building_acot_ae_enigmatic_lab_desc$"
+zone_acot_ae_research_swap_text: "§CAlpha Science Utopia§!"
+zone_acot_ae_research_swap_text_desc: "$building_acot_ae_enigmatic_lab_desc$"
+
+zone_acot_dm_research_arcology: "§E$zone_acot_dm_research$§!"
+zone_acot_dm_research_arcology_desc: "$zone_acot_dm_research_desc$"
+district_acot_swap_dm_research_arcology: "$district_arcology_research$"
+district_acot_swap_dm_research_arcology_plural: "$district_arcology_research_plural$"
+district_acot_swap_dm_research_arcology_desc: "$district_arcology_research_desc$"
+
+zone_acot_dm_research_ring_world: "§E$zone_acot_dm_research$§!"
+zone_acot_dm_research_ring_world_desc: "$zone_acot_dm_research_desc$"
+district_acot_swap_dm_research_ring_world: "$district_ring_world_research$"
+district_acot_swap_dm_research_ring_world_plural: "$district_ring_world_research_plural$"
+district_acot_swap_dm_research_ring_world_desc: "$district_ring_world_research_desc$"
+
+zone_acot_dm_research_hive: "§E$zone_acot_dm_research$§!"
+zone_acot_dm_research_hive_desc: "$zone_acot_dm_research_desc$"
+district_acot_swap_dm_research_hive: "$district_hive_research$"
+district_acot_swap_dm_research_hive_plural: "$district_hive_research_plural$"
+district_acot_swap_dm_research_hive_desc: "$district_hive_research_desc$"
+
+zone_acot_dm_research_nexus: "§E$zone_acot_dm_research$§!"
+zone_acot_dm_research_nexus_desc: "$zone_acot_dm_research_desc$"
+district_acot_swap_dm_research_nexus: "$district_nexus_research$"
+district_acot_swap_dm_research_nexus_plural: "$district_nexus_research_plural$"
+district_acot_swap_dm_research_nexus_desc: "$district_nexus_research_desc$"
+
+ #Minerals
+ #######################################################################################################################
+zone_acot_dm_minerals: "§EEnigmatic Mineral Extraction§!"
+zone_acot_dm_minerals_desc: "$building_acot_dm_mineral_processing_plant_desc$"
+zone_acot_dm_minerals_swap_text: "§EEnigmatic Crystal Purification§!"
+zone_acot_dm_minerals_swap_text_desc: "$building_acot_dm_mineral_processing_plant_desc$"
+
+district_acot_swap_dm_mineral: "Delta Mining District"
+district_acot_swap_dm_mineral_desc: "$building_acot_dm_mineral_processing_plant_desc$"
+district_acot_swap_dm_mineral_plural: "Delta Mining Districts"
+
+zone_acot_ae_minerals: "§BAlpha Mineral Extraction§!"
+zone_acot_ae_minerals_desc: "$building_acot_ae_mineral_processing_plant_desc$"
+zone_acot_ae_minerals_swap_text: "§BAlpha Crystal Purification§!"
+zone_acot_ae_minerals_swap_text_desc: "$building_acot_ae_mineral_processing_plant_desc$"
+
+district_acot_swap_ae_mineral: "Alpha Mining District"
+district_acot_swap_ae_mineral_desc: "$building_acot_ae_mineral_processing_plant_desc$"
+district_acot_swap_ae_mineral_plural: "Alpha Mining Districts"
+
+zone_acot_dm_minerals_hive: "§E$building_acot_dm_mineral_processing_plant$§!"
+zone_acot_dm_minerals_hive_desc: "$building_acot_dm_mineral_processing_plant_desc$"
+district_acot_swap_dm_mineral_hive: "$district_hive_mining$"
+district_acot_swap_dm_mineral_hive_desc: "$building_acot_dm_mineral_processing_plant_desc$"
+district_acot_swap_dm_mineral_hive_plural: "$district_hive_mining_plural$"
+
+zone_acot_dm_minerals_nexus: "§E$building_acot_dm_mineral_processing_plant$§!"
+zone_acot_dm_minerals_nexus_desc: "$building_acot_dm_mineral_processing_plant_desc$"
+district_acot_swap_dm_mineral_nexus: "$district_nexus_mining$"
+district_acot_swap_dm_mineral_nexus_desc: "$building_acot_dm_mineral_processing_plant_desc$"
+district_acot_swap_dm_mineral_nexus_plural: "$district_nexus_mining_plural$"
+
+ #Energy
+ #######################################################################################################################
+zone_acot_dm_energy: "§EEnigmatic Energy Generation§!"
+zone_acot_dm_energy_desc: "$building_acot_dm_power_hub_desc$"
+zone_acot_dm_energy_swap_text: "§EEnigmatic Energy Pylons§!"
+zone_acot_dm_energy_swap_text_desc: "$building_acot_dm_power_hub_desc$"
+
+district_acot_swap_dm_energy: "Delta Generator District"
+district_acot_swap_dm_energy_desc: "$building_acot_dm_power_hub_desc$"
+district_acot_swap_dm_energy_plural: "Delta Generator Districts"
+
+zone_acot_ae_energy: "§BAlpha Energy Generation§!"
+zone_acot_ae_energy_desc: "$building_acot_ae_power_hub_desc$"
+zone_acot_ae_energy_swap_text: "§BAlpha Energy Pylons§!"
+zone_acot_ae_energy_swap_text_desc: "$building_acot_ae_power_hub_desc$"
+
+district_acot_swap_ae_energy: "Alpha Generator District"
+district_acot_swap_ae_energy_desc: "$building_acot_ae_power_hub_desc$"
+district_acot_swap_ae_energy_plural: "Alpha Generator Districts"
+
+zone_acot_dm_energy_ring_world: "§E$building_acot_dm_power_hub$§!"
+zone_acot_dm_energy_ring_world_desc: "$building_acot_dm_power_hub_desc$"
+district_acot_swap_dm_energy_ring_world: "$district_rw_generator$"
+district_acot_swap_dm_energy_ring_world_desc: "$building_acot_dm_power_hub_desc$"
+district_acot_swap_dm_energy_ring_world_plural: "$district_rw_generator_plural$"
+
+zone_acot_dm_energy_hive: "§E$building_acot_dm_power_hub$§!"
+zone_acot_dm_energy_hive_desc: "$building_acot_dm_power_hub_desc$"
+district_acot_swap_dm_energy_hive: "$district_hive_energy$"
+district_acot_swap_dm_energy_hive_desc: "$building_acot_dm_power_hub_desc$"
+district_acot_swap_dm_energy_hive_plural: "$district_hive_energy_plural$"
+
+zone_acot_dm_energy_nexus: "§EDark Energy Grid Alignment§!"
+zone_acot_dm_energy_nexus_desc: "$building_acot_dm_power_hub_desc$"
+district_acot_swap_dm_energy_nexus: "$district_nexus_energy$"
+district_acot_swap_dm_energy_nexus_desc: "$building_acot_dm_power_hub_desc$"
+district_acot_swap_dm_energy_nexus_plural: "$district_nexus_energy_plural$"
+
+ #Food
+ #######################################################################################################################
+zone_acot_dm_food: "§EEnigmatic Agriculture§!"
+zone_acot_dm_food_desc: "$building_acot_dm_food_processing_complex_desc$"
+zone_acot_dm_food_swap_text: "§EEnigmatic Virtual Gaia-Farm§!"
+zone_acot_dm_food_swap_text_desc: "$building_acot_dm_power_hub_desc$"
+
+district_acot_swap_dm_food: "Delta Farming District"
+district_acot_swap_dm_food_desc: "$building_acot_dm_food_processing_complex_desc$"
+district_acot_swap_dm_food_plural: "Delta Farming Districts"
+
+zone_acot_ae_food: "§BAlpha Agriculture§!"
+zone_acot_ae_food_desc: "$building_acot_ae_food_processing_complex_desc$"
+zone_acot_ae_food_swap_text: "§BAlpha Virtual Gaia-Farm§!"
+zone_acot_ae_food_swap_text_desc: "$building_acot_ae_power_hub_desc$"
+
+district_acot_swap_ae_food: "Alpha Farming District"
+district_acot_swap_ae_food_desc: "$building_acot_ae_food_processing_complex_desc$"
+district_acot_swap_ae_food_plural: "Alpha Farming Districts"
+
+zone_acot_dm_food_ring_world: "$zone_acot_dm_food$"
+zone_acot_dm_food_ring_world_desc: "$building_acot_dm_food_processing_complex_desc$"
+district_acot_swap_dm_food_ring_world: "$district_rw_farming$"
+district_acot_swap_dm_food_ring_world_desc: "$building_acot_dm_food_processing_complex_desc$"
+district_acot_swap_dm_food_ring_world_plural: "$district_rw_farming_plural$"
+
+zone_acot_dm_food_hive: "$zone_acot_dm_food$"
+zone_acot_dm_food_hive_desc: "$building_acot_dm_food_processing_complex_desc$"
+district_acot_swap_dm_food_hive: "$district_hive_food$"
+district_acot_swap_dm_food_hive_desc: "$building_acot_dm_food_processing_complex_desc$"
+district_acot_swap_dm_food_hive_plural: "$district_hive_food_plural$"

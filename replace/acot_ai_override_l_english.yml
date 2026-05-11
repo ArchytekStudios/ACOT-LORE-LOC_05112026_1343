@@ -1,0 +1,34 @@
+﻿
+l_english:
+
+acot_ai_pmc.101.name: "Test Pop Purchase"
+acot_ai_pmc.101.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Corps Pop Service, ooga booga?"
+acot_ai_pmc.101.a: "Hoo Boi"
+
+acot_ai_pmc.201.name: "Test Colonize Purchase"
+acot_ai_pmc.201.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Corps Colonize Service, ooga booga?"
+acot_ai_pmc.201.a: "Hoo Boi"
+
+acot_ai_pmc.301.name: "Test Terraform Purchase"
+acot_ai_pmc.301.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Corps Terraform Service, ooga booga?"
+acot_ai_pmc.301.a: "Hoo Boi"
+
+acot_ai_pmc.410.name: "Test Fleet Purchase"
+acot_ai_pmc.410.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Corps Fleet Service, ooga booga?"
+acot_ai_pmc.410.a: "Hoo Boi"
+
+acot_ai_pmc.510.name: "Test Leader Purchase"
+acot_ai_pmc.510.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Corps Leader Service, ooga booga?"
+acot_ai_pmc.510.a: "Hoo Boi"
+
+acot_ai_pmc.610.name: "Test Ultramembership Purchase"
+acot_ai_pmc.610.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Corps Ultramembership Service, ooga booga?"
+acot_ai_pmc.610.a: "Hoo Boi"
+
+acot_ai_pmc.611.name: "Test Phi Tech Purchase"
+acot_ai_pmc.611.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Phi Techs, ooga booga?"
+acot_ai_pmc.611.a: "Hoo Boi"
+
+acot_ai_pmc.612.name: "Test Phanon Ships Purchase"
+acot_ai_pmc.612.desc: "An AI Empire that is [ai_empire_buyer.GetName] has purchased Phanon Corps Ships, ooga booga?"
+acot_ai_pmc.612.a: "Hoo Boi"
