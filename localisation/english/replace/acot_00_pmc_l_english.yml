@@ -710,10 +710,10 @@ tech_titan_emitter_pe: "Phi Titan Emitter"
 tech_titan_emitter_pe_desc: "Effectively a supersized variant of the standard Emitters, this weapon can stun and damage ships and fleets, making them vulnerable to other attacks."
 
 ACOT_TITAN_EMITTER_RE: "Runic Titan Emitter"
-ACOT_TITAN_EMITTER_RE_DESC: "Effectove;y a supersized variant of the standard Emitters, this weapon can stun and damage ships and fleets, making them vulnerable to other attacks."
+ACOT_TITAN_EMITTER_RE_DESC: "Effectively a supersized variant of the standard Emitters, this weapon can stun and damage ships and fleets, making them vulnerable to other attacks."
 acot_titan_emitter_re_tt: "Deals §Y13,737§! damage to §Y5§! additional hostile ships within §E50§! range of the target. Can stack on the same target for extra damage."
 tech_titan_emitter_re: "Runic Titan Emitter"
-tech_titan_emitter_re_desc: "Effectove;y a supersized variant of the standard Emitters, this weapon can stun and damage ships and fleets, making them vulnerable to other attacks."
+tech_titan_emitter_re_desc: "Effectively a supersized variant of the standard Emitters, this weapon can stun and damage ships and fleets, making them vulnerable to other attacks."
 ############
 ACOT_TITAN_ACCELERATOR_PE: "Titan Phi Accelerator Cannon"
 ACOT_TITAN_ACCELERATOR_PE_DESC: "Sometimes a bullet ain't enough. Just supersize it! This accelerator cannon can snipe single targets, but its' long charge time makes it useless in large-scale engagements, except for siegebreaking."
