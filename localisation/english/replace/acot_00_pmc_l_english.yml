@@ -811,7 +811,7 @@ tech_armor_hull_re: "Cybros Hull"
 tech_armor_hull_re_desc: "Using Kinetic Barriers, we can modify them to reinforce our hulls. Although imperfect compared to the real thing, this is as close as we can get."
 
 ############
-PE_OFFENSIVE_COMBAT_COMPUTER: "Aggressive Phi Combat Analysis Computer"
+PE_OFFENSIVE_COMBAT_COMPUTER: "Offensive Phi Combat Analysis Computer"
 PE_OFFENSIVE_COMBAT_COMPUTER_DESC: "$tech_computer_phi_desc$"
 PE_BALANCE_COMBAT_COMPUTER: "Strategic Phi Combat Analysis Computer"
 PE_BALANCE_COMBAT_COMPUTER_DESC: "$tech_computer_phi_desc$"
